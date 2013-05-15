@@ -1,0 +1,40 @@
+Oedipus / rel:childOf / Laius 
+Oedipus / rel:childOf / Jocasta
+
+Laius / rel:influencedBy / Oracle
+Laius / rel:lostContactWith / Oedipus
+
+King of Corinth / bio:adoption / Oedipus
+
+Oedipus / rel:lostContactWith / King of Corinth
+
+Oedipus / rel:hasMet / Laius
+Oedipus / bio:murder / Laius
+Laius / bio:father / Oedipus
+
+Oedipus / rel:hasMet / Sphinx
+
+Travelers / rel:assassinated / by Sphinx
+Oedipus / bio:enrolment / Sphinx's challenge
+Oedipus / bio:graduation
+Sphinx / bio:executed / Sphinx
+Oedipus / bio:coronation / by Thebes people
+Oedipus / bio:marries / Jocasta
+Jocasta / bio:mother / Oedipus
+
+Eteocles / rel:childOf / Oedipus
+Eteocles / rel:childOf / Jocasta
+Eteocles / rel:grandchildOf / Jocasta
+Eteocles / rel:siblingOf / Oedipus
+Polynices / rel:childOf / Oedipus
+Polynices / rel:childOf / Jocasta
+Polynices / rel:grandchildOf / Jocasta
+Polynices / rel:siblingOf / Oedipus
+Antigone / rel:childOf / Oedipus
+Antigone / rel:childOf / Jocasta
+Antigone / rel:grandchildOf / Jocasta
+Antigone / rel:siblingOf / Oedipus
+Ismene / rel:childOf / Oedipus
+Ismene / rel:childOf / Jocasta
+Ismene / rel:grandchildOf / Jocasta
+Ismene / rel:siblingOf / Oedipus
