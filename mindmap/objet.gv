@@ -1,0 +1,67 @@
+digraph {
+    node[fontname="Montserrat", overlap=false]
+    graph[splines=true]
+
+    "Bazooka"[style=filled, fillcolor=pink];
+    "Manteau"[style=filled, fillcolor=pink];
+    "Auto/Route"[style=filled, fillcolor=pink];
+    "Dr. Bluth"[style=filled, fillcolor=pink];
+    "Tennis"[style=filled, fillcolor=pink];
+    "HÃ´tel"[style=filled, fillcolor=pink];
+    "Montagnes"[style=filled, fillcolor=pink];
+    "Jardin"[style=filled, fillcolor=pink];
+    "Miroir"[style=filled, fillcolor=pink];
+    "Lit"[style=filled, fillcolor=pink];
+
+    "Bazooka" -> "Une Vieille adresse";
+    "Bazooka" -> "Brouillard";
+    "Bazooka" -> "Expérimental";
+    "Bazooka" -> "Les Rayures du zèbre";
+    "Bazooka" -> "Julia et son bazooka";
+
+    "Manteau" -> "Une Vieille adresse";
+    "Manteau" -> "Une Visite";
+    "Manteau" -> "Brouillard";
+    "Manteau" -> "Mercedes";
+    "Manteau" -> "Obsessionnel";
+
+    "Auto/Route" -> "Une Vieille adresse";
+    "Auto/Route" -> "Brouillard";
+    "Auto/Route" -> "Expérimental";
+    "Auto/Route" -> "Le Monde des héros";
+    "Auto/Route" -> "Mercedes";
+    "Auto/Route" -> "Clarita";
+    "Auto/Route" -> "Sur les Cîmes";
+
+    "Dr. Bluth" -> "Mercedes";
+    "Dr. Bluth" -> "Les Rayures du zèbre";
+    "Dr. Bluth" -> "Un Jardin en ville";
+    "Dr. Bluth" -> "Obsessionnel";
+    "Dr. Bluth" -> "Julia et son bazooka";
+
+    "Tennis" -> "Absentes";
+    "Tennis" -> "Sur les Cîmes";
+    "Tennis" -> "Julia et son bazooka";
+
+    "HÃ´tel" -> "Le Monde des héros";
+    "HÃ´tel" -> "Hier et aujourd'hui";
+    "HÃ´tel" -> "Obsessionnel";
+
+    "Montagnes" -> "Le Monde des héros";
+    "Montagnes" -> "Sur les Cîmes";
+    "Montagnes" -> "Julia et son bazooka";
+    "Montagnes" -> "Hier et aujourd'hui";
+
+    "Jardin" -> "Un Jardin en ville";
+    "Jardin" -> "Obsessionnel";
+    "Jardin" -> "Julia et son bazooka";
+
+    "Miroir" -> "Expérimental";
+    "Miroir" -> "Le Monde des héros";
+    "Miroir" -> "Au Milieu des choses perdues";
+
+    "Lit" -> "Une Visite";
+    "Lit" -> "Expérimental";
+    "Lit" -> "Clarita";
+    "Lit" -> "Julia et son bazooka";
+}

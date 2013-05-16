@@ -1,0 +1,165 @@
+digraph {
+    graph[splines=true]
+    node[fontname="Montserrat", overlap=false]
+
+
+    "Bazooka"[style=filled, fillcolor=pink];
+    "Manteau"[style=filled, fillcolor=pink];
+    "Auto/Route"[style=filled, fillcolor=pink];
+    "Dr. Bluth"[style=filled, fillcolor=pink];
+    "Tennis"[style=filled, fillcolor=pink];
+    "HÃ´tel"[style=filled, fillcolor=pink];
+    "Montagnes"[style=filled, fillcolor=pink];
+    "Jardin"[style=filled, fillcolor=pink];
+    "Miroir"[style=filled, fillcolor=pink];
+    "Lit"[style=filled, fillcolor=pink];
+
+    "Bazooka" -> "Une Vieille adresse";
+    "Bazooka" -> "Brouillard";
+    "Bazooka" -> "Expérimental";
+    "Bazooka" -> "Les Rayures du zèbre";
+    "Bazooka" -> "Julia et son bazooka";
+
+    "Manteau" -> "Une Vieille adresse";
+    "Manteau" -> "Une Visite";
+    "Manteau" -> "Brouillard";
+    "Manteau" -> "Mercedes";
+    "Manteau" -> "Obsessionnel";
+
+    "Auto/Route" -> "Une Vieille adresse";
+    "Auto/Route" -> "Brouillard";
+    "Auto/Route" -> "Expérimental";
+    "Auto/Route" -> "Le Monde des héros";
+    "Auto/Route" -> "Mercedes";
+    "Auto/Route" -> "Clarita";
+    "Auto/Route" -> "Sur les Cîmes";
+
+    "Dr. Bluth" -> "Mercedes";
+    "Dr. Bluth" -> "Les Rayures du zèbre";
+    "Dr. Bluth" -> "Un Jardin en ville";
+    "Dr. Bluth" -> "Obsessionnel";
+    "Dr. Bluth" -> "Julia et son bazooka";
+
+    "Tennis" -> "Absentes";
+    "Tennis" -> "Sur les Cîmes";
+    "Tennis" -> "Julia et son bazooka";
+
+    "HÃ´tel" -> "Le Monde des héros";
+    "HÃ´tel" -> "Hier et aujourd'hui";
+    "HÃ´tel" -> "Obsessionnel";
+
+    "Montagnes" -> "Le Monde des héros";
+    "Montagnes" -> "Sur les Cîmes";
+    "Montagnes" -> "Julia et son bazooka";
+    "Montagnes" -> "Hier et aujourd'hui";
+
+    "Jardin" -> "Un Jardin en ville";
+    "Jardin" -> "Obsessionnel";
+    "Jardin" -> "Julia et son bazooka";
+
+    "Miroir" -> "Expérimental";
+    "Miroir" -> "Le Monde des héros";
+    "Miroir" -> "Au Milieu des choses perdues";
+
+    "Lit" -> "Une Visite";
+    "Lit" -> "Expérimental";
+    "Lit" -> "Clarita";
+    "Lit" -> "Julia et son bazooka";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "Pensionnat"[style=filled, fillcolor=pink];
+    "Montagnes"[style=filled, fillcolor=pink];
+    "Automobile"[style=filled, fillcolor=pink];
+    "Chambre"[style=filled, fillcolor=pink];
+
+    "la ville"[style=filled, fillcolor=yellow];
+    "la jungle"[style=filled, fillcolor=yellow];
+    "les montagnes"[style=filled, fillcolor=yellow];
+    "fenêtre"[style=filled, fillcolor=yellow];
+    "maison"[style=filled, fillcolor=yellow];
+    "hôpital"[style=filled, fillcolor=yellow];
+    "hôtel"[style=filled, fillcolor=yellow];
+
+
+    "Pensionnat" -> "Absences";
+    "Pensionnat" -> "Julia et son bazooka";
+    "Pensionnat" -> "Laissez-moi ma solitude";
+
+    "Montagnes" -> "Hier et aujourd’hui";
+    "Montagnes" -> "Sur les Cîmes";
+    "Montagnes" -> "Julia et son bazooka";
+    "Montagnes" -> "Neige";
+
+    "Environnements" -> "la ville"[style=filled, color=yellow];
+    "la ville" -> "Une Vieille adresse";
+    "la ville" -> "Brouillard";
+    "la ville" -> "Expérimental";
+    "la ville" -> "Mercedes";
+    "la ville" -> "Clarita";
+    "la ville" -> "Les Rayures du zèbre";
+    "la ville" -> "Un Jardin en ville";
+    "la ville" -> "Obsessionnel";
+
+    "Environnements" -> "la jungle"[style=filled, color=yellow];
+    "la jungle" -> "Une Visite";
+    "la jungle" -> "Clarita";
+    "la jungle" -> "L’Oiseau qui es-tu?";
+
+    "Environnements" -> "les montagnes"[style=filled, color=yellow];
+
+    "Automobile" -> "Une Vieille adresse";
+    "Automobile" -> "Brouillard";
+    "Automobile" -> "Expérimental";
+    "Automobile" -> "Le Monde des héros";
+    "Automobile" -> "Mercedes";
+    "Automobile" -> "Clarita";
+    "Automobile" -> "Sur les Cîmes";
+    "Automobile" -> "Julia et son bazooka";
+    "Automobile" -> "Mal-aimée";
+
+    "Fenêtre" -> "Point de fuite";
+    "Fenêtre" -> "Panorama environnement";
+    "Fenêtre" -> "Visions (paroi monde réel/imaginaire)";
+
+    "Chambre" -> "maison"[color=yellow];
+    "maison" -> "Une Visite";
+    "maison" -> "Expérimental";
+    "maison" -> "Clarita";
+
+    "Chambre" -> "hôpital"[style=filled, color=yellow];
+    "hôpital" -> "Une Vieille adresse";
+    "hôpital" -> "Le Monde des héros";
+    "hôpital" -> "Les Rayures du zèbre";
+    "hôpital" -> "Une Représentation à l'asile";
+
+    "Chambre" -> "hôtel"[style=filled, color=yellow];
+    "hôtel" -> "Le Monde des héros";
+    "hôtel" -> "Hier et aujourd'hui";
+
+    "Chambre" -> "Julia et son bazooka";
+
+
+
+    "Montagnes" -> "Environnements"[color=blue];
+    "Chambre" -> "Fenêtre"[color=blue];
+    "Panorama environnement" -> "Environnements"[color=blue];
+
+}
+
