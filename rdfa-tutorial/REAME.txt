@@ -1,0 +1,8 @@
+This directory contains some of the figures described at the W3C [RDFa 1.1
+Primer](http://www.w3.org/TR/xhtml-rdfa-primer/). 
+
+For convenience, there is a little script called visualize_rdfa.sh that extract
+the RDF information from the HTML+RDFa files and creates SVG visualizations. To
+summarize, if you want to visualize the semantic of one (or any) of the HTML
+file, run `./visualize_rdfa.sh name.html`; It will produce an SVG file that you
+can open in Inkscape or your web browser.
