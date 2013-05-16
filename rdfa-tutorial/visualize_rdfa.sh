@@ -5,6 +5,6 @@
 # Usage ./visualize_rdfa.sh page.html
 # Outputs page.svg
 
-rdfproc -c store parse "${1}" rdfa
-rdfproc store serialize dot | dot -Tsvg > $(basename "${1}" .html).svg
 rm *.db
+rdfproc -c store parse "${1}" rdfa
+rdfproc store serialize dot | circo -Tsvg > $(basename "${1}" .html).svg

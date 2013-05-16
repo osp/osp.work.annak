@@ -1,0 +1,64 @@
+# Tout le vocabulaire dont on aura besoin
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix rel: <http://purl.org/vocab/relationship> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+
+# Nous déclarons l'ensemble des protagonistes
+_:anna       foaf:name           "Anna-Marie Forrester" .
+_:james      foaf:name           "James Forrester" .
+_:lise       foaf:name           "Lise" .
+_:nurse      foaf:name           "Miss Wilson" .
+_:lauretta   foaf:name           "Lauretta" .
+_:heyward    foaf:name           "Heyward Bland" .
+_:rachel     foaf:name           "Rachel Fielding" .
+_:sidney     foaf:name           "Sidney" .
+_:catherine  foaf:name           "Catherine Howard" .
+_:matthew    foaf:name           "Matthew Kavan" .
+_:annak      foaf:name           "Anna Kavan" .
+
+
+_:anna       bio:father          _:james .
+_:james      bio:Marriage        _:lise .
+_:lise       rel:mother          _:anna .
+_:anna       bio:Birth           _:anna .
+_:lise       bio:Death           _:lise .
+
+
+_:nurse      rel:employedBy      _:james ;
+             rel:apprenticeTo    _:anna ;
+             rel:PositionChange  _:james .
+_:anna       bio:lostContactWith _:nurse .
+_:james      bio:Death           _:james .
+
+
+_:lauretta   rel:parentOf        _:anna ;
+             rel:spouseOf        _:heyward .
+_:anna       rel:livesWith       _:lauretta .
+
+
+_:rachel     rel:acquaintanceOf  _:lauretta .
+_:anna       bio:Enrolment       _:anna .
+_:rachel     rel:mentorOf        _:anna ;
+             rel:ambivalentOf    _:anna .
+_:anna       rel:hasMet          _:sidney ;
+             rel:closeFriendOf   _:sidney .
+_:sidney     rel:enemyOf         _:rachel .
+_:anna       rel:hasMet          _:catherine ;
+             rel:friendOf        _:catherine ;
+             rel:influencedBy    _:catherine ;
+             bio:Dismissal       _:anna .
+
+
+_:anna       rel:livesWith       _:lauretta .
+_:matthew    rel:acquaintanceOf  _:lauretta .
+_:anna       rel:hasMet          _:matthew ;
+             rel:influencedBy    _:lauretta ;
+             bio:Marriage        _:matthew .
+_:matthew    bio:Promotion       _:promotion .
+_:promotion  dc:title            "Prise de poste à Rangoon" ;
+             bio:Place           "Rangoon" .
+_:anna       bio:initiatingEvent _:annak ;
+             bio:NameChange      _:annak .
