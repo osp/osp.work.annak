@@ -1,5 +1,7 @@
 #! /usr/bin/python2
 
+# Finds bigrams (word couples) in a text
+#
 # USAGE
 #
 # python collocations.py DIRECTORY TEXT
