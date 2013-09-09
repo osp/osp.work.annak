@@ -1,0 +1,61 @@
+# Tout le vocabulaire dont on aura besoin
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix rel: <http://purl.org/vocab/relationship> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+
+# Nous déclarons l'ensemble des protagonistes
+_:julia       foaf:name           "Julia et son bazooka" .
+_:époux       foaf:name           "l'homme jeune au cheveux chatains crêpus" .
+_:dr          foaf:name           "le médecin" .
+_:psy         foaf:name           "le psychiatre célèbre" .
+_:coach       foaf:name           "le professeur de tennis" .
+_:croque-mort foaf:name           "l'homme des pompes funèbres" .
+_:bazooka	  foaf:name"		  "la seringue"
+
+# Situation initiale
+_:julia       bio:Enrolment       _:julia .
+_:enrolment   bio:InitiatingEvent "school"
+			  bio:Interval		  "learning period"
+			  bio:ConcludingEvent "exams"
+
+# Evénement perturbateur (apparition de la seringue)
+_:julia       bio:Marriage       _:époux .
+_:julia		  bio:Addiction		 _:bazooka .
+_:addiction	  rel:lifePartnerOf  _:bazooka .
+_:julia		  bio:Death			 _:julia .
+_:julia		  bio:Funeral		 _:julia .
+_:funeral	  rel:Spectator		 _:dr .
+								 _:coach .
+								 _:croque-mort .
+								 
+# Flash back
+
+_:julia       bio:Travel       _:julia . 
+_:travel      dc:title         "Julia et son bazooka voyagent dans le monde entier" ;
+              bio:Place        "tour du monde" ;
+_:julia		  rel:travelWith   _:bazooka .
+			  rel:hasMet       _:dr ;
+     		  rel:closeFriendOf_:dr ;
+     		 
+_:julia       bio:War      	   _:julia .
+_:war 		  dc:title		   "c'est la guerre, l'époque des bombes volantes"
+			  rel:Participant  _:croque-mort .
+_:dr		  bio:Visit	       _:psy .
+_:julia       bio:Marriage     _:époux .
+_:époux		  bio:Death		   _:époux .
+_:julia		  bio:Cremation	   _:julia .
+_:julia		  rel:reCall	   _:bazoooka
+
+
+
+			  
+
+
+
+
+
+
+
