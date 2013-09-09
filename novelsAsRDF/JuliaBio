@@ -1,0 +1,138 @@
+# Tout le vocabulaire dont on aura besoin
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bio: <http://purl.org/vocab/bio/0.1/> .
+@prefix rel: <http://purl.org/vocab/relationship> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+
+# Nous déclarons l'ensemble des protagonistes
+_:julia       foaf:name           "Anna Kavan" .
+_:époux       foaf:name           "l'homme jeune au cheveux chatains crêpus" .
+_:dr          foaf:name           "Karl Theodor Bluth" .
+_:psy         foaf:name           "Ludwig Binswanger" .
+_:coach       foaf:name           "le professeur de tennis" .
+_:croque-mort foaf:name           "l'homme des pompes funèbres" .
+_:bazooka	  foaf:name"		  "la seringue"
+
+_:julia
+  a foaf:Person
+  ; foaf:name "Anna Kavan"
+  ; bio:principal < http://en.wikipedia.org/wiki/Anna_Kavan >
+  ; bio:birth _:birth
+  ; bio:death _:death
+  ; bio:event _:enrolment, _:marriage1, _:travel1, _:addiction, _:marriage2, _:travel2, _:war, _:death, _:funeral
+  .
+  
+_:birth
+  a bio:Birth
+  ; rdfs:label "Born Helen Emily Woods"
+  ; bio:date "1901-04-10"
+  ; bio:place "Cannes"
+  .
+
+_:death
+  a bio:Death
+  ; rdfs:label "She is popularly supposed to have died of a heroin overdose. In fact she died of heart failure, though she had attempted suicide several times during her life."
+  ; bio:date "1968-12-05"
+  ; bio:place "London"
+  .
+
+_:enrolment   bio:InitiatingEvent "Boarding school"
+			  bio:Place           "Meadow Girl School"
+			  bio:Interval		  "learning period"
+			  bio:ConcludingEvent "exams"
+			  
+
+_:marriage1
+  a bio:Marriage
+  ; rdfs:label "The marriage of Helen Woods and Donald Ferguson "
+  ; bio:date "1919"
+  ; bio:partner _:julia, _:époux
+  ; bio:place "Burma"
+  
+_:travel1
+  a bio:Travel1
+  ; rdfs:label "Life in Burma "
+  ; bio:date "1919 - 1925 "
+  ; bio:partner _:julia, _:époux
+  ; bio:place "Burma"
+  
+_:addiction
+  a bio:Addiction
+  ; rdfs:label "Julia et son bazooka"
+  ; bio:date " from 1926 "
+  ; bio:partner _:bazooka, _:coach, _:dr
+  
+_:marriage2
+  a bio:Marriage
+  ; rdfs:label "The marriage of Helen Woods and Stuart Edmond "
+  ; bio:date "1930"
+  ; bio:partner _:julia, _:époux
+  ; bio:place "London"
+  
+_:travel2
+  a bio:Travel2
+  ; rdfs:label "Voyage autour du monde en bateau "
+  ; bio:date "1939 - 1942 "
+  ; bio:partner _:julia, 
+  ; bio:place "Norway" "United States" "Bali" "New Zealand" "South Africa"
+  
+_:war
+  a bio:War
+  ; rdfs:label "World War II "
+  ; bio:date "1939 - 1945 "
+  ; bio:partner _:croque-mort, _:dr, _:psy
+  ; bio:place "London"
+  
+_:death
+  a bio:Death
+  ; rdfs:label "Heroin overdose or heart failure "
+  ; bio:date "1968-12-05 "
+  ; bio:partner _:bazooka
+  ; bio:place "London"
+  
+_:funeral
+  a bio:Funeral
+  ; rdfs:label "The day after Anais Nin's party at Peter Owen"
+  ; bio:date "1968-12-05 "
+  ; bio:place "London"
+
+# Evénement perturbateur (apparition de la seringue)
+_:julia       bio:Marriage       _:époux .
+_:julia		  bio:Addiction		 _:bazooka .
+_:addiction	  rel:lifePartnerOf  _:bazooka .
+_:julia		  bio:Death			 _:julia .
+_:julia		  bio:Funeral		 _:julia .
+_:funeral	  rel:Spectator		 _:dr .
+								 _:coach .
+								 _:croque-mort .
+								 
+# Flash back
+
+_:julia       bio:Travel       _:julia . 
+_:travel      dc:title         "Julia et son bazooka voyagent dans le monde entier" ;
+              bio:Place        "tour du monde" ;
+_:julia		  rel:travelWith   _:bazooka .
+			  rel:hasMet       _:dr ;
+     		  rel:closeFriendOf_:dr ;
+     		 
+_:julia       bio:War      	   _:julia .
+_:war 		  dc:title		   "c'est la guerre, l'époque des bombes volantes"
+			  rel:Participant  _:croque-mort .
+_:dr		  bio:Visit	       _:psy .
+_:julia       bio:Marriage     _:époux .
+_:époux		  bio:Death		   _:époux .
+_:julia		  bio:Cremation	   _:julia .
+_:julia		  rel:reCall	   _:bazoooka
+
+
+
+			  
+
+
+
+
+
+
+
