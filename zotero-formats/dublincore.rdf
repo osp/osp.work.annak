@@ -1,0 +1,17 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="urn:isbn:0720612683  9780720612684">
+        <dc:title>Ice</dc:title>
+        <dc:type>book</dc:type>
+        <dc:creator>Kavan, Anna</dc:creator>
+        <dc:publisher>Peter Owen</dc:publisher>
+        <dc:date>2005</dc:date>
+        <dc:identifier>ISBN 0720612683  9780720612684</dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://zotero.org/support/quick_start_guide">
+        <dc:title>Zotero Quick Start Guide</dc:title>
+        <dc:type>webpage</dc:type>
+        <dc:creator>Center for History and New Media</dc:creator>
+    </rdf:Description>
+</rdf:RDF>

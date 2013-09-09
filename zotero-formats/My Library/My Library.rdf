@@ -1,0 +1,67 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/">
+
+
+    <bib:Book rdf:about="urn:isbn:0720612683%20%209780720612684">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Peter Owen</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kavan</foaf:surname>
+                        <foaf:givenname>Anna</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Ice</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 0720612683  9780720612684</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Document rdf:about="http://zotero.org/support/quick_start_guide">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Center for History and New Media</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2"/>
+        <dc:title>Zotero Quick Start Guide</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://zotero.org/support/quick_start_guide</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+
+
+
+    <bib:Memo rdf:about="#item_2">
+        <rdf:value>&lt;p>&lt;strong>Welcome to Zotero!&lt;/strong>&lt;/p>&lt;p>View the Quick Start Guide to learn how to begin collecting, managing, citing, and sharing your research sources.&lt;/p>&lt;p>Thanks for installing Zotero.&lt;/p></rdf:value>
+    </bib:Memo>
+</rdf:RDF>

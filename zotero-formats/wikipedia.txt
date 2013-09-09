@@ -1,0 +1,14 @@
+{{Cite book
+| publisher = Peter Owen
+| isbn = 0720612683  9780720612684
+| last = Kavan
+| first = Anna
+| title = Ice
+| location = London
+| date = 2005
+}}
+
+{{Cite web
+| last = Center for History and New Media
+| title = Zotero Quick Start Guide
+}}

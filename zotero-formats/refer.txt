@@ -1,0 +1,13 @@
+%0 Book
+%T Ice
+%C London
+%I Peter Owen
+%@ 0720612683  9780720612684
+%A Kavan, Anna
+%D 2005
+
+%0 Web Page
+%T Zotero Quick Start Guide
+%U http://zotero.org/support/quick_start_guide
+%A Center for History and New Media
+
