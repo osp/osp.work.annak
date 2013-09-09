@@ -1,0 +1,48 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:res="http://purl.org/vocab/resourcelist/schema#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:address="http://schemas.talis.com/2005/address/schema#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bibo="http://purl.org/ontology/bibo/">
+    <z:UserItem rdf:about="http://zotero.org/users/1399308/items/AAMIVUGQ">
+        <res:resource rdf:resource="urn:isbn:0720612683"/>
+        <z:repository>Open WorldCat</z:repository>
+    </z:UserItem>
+    <bibo:Book rdf:about="urn:isbn:0720612683">
+        <dcterms:title>Ice</dcterms:title>
+        <dcterms:publisher>
+            <foaf:Organization>
+                <address:localityName>London</address:localityName>
+                <foaf:name>Peter Owen</foaf:name>
+            </foaf:Organization>
+        </dcterms:publisher>
+        <dcterms:date>2005</dcterms:date>
+        <dcterms:language>English</dcterms:language>
+        <bibo:isbn10>0720612683</bibo:isbn10>
+        <bibo:isbn13></bibo:isbn13>
+        <bibo:isbn13>9780720612684</bibo:isbn13>
+        <dcterms:creator rdf:nodeID="n10"/>
+        <bibo:authorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n10"/></rdf:Seq>
+        </bibo:authorList>
+    </bibo:Book>
+    <foaf:Person rdf:nodeID="n10">
+       <foaf:givenname>Anna</foaf:givenname><foaf:surname>Kavan</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/1399308/items/ABCD2345">
+       <res:resource rdf:resource="http://zotero.org/support/quick_start_guide"/>
+    </z:UserItem>
+    <bibo:Webpage rdf:about="http://zotero.org/support/quick_start_guide">
+        <dcterms:title>Zotero Quick Start Guide</dcterms:title>
+        <bibo:uri>http://zotero.org/support/quick_start_guide</bibo:uri>
+        <dcterms:creator rdf:nodeID="n15"/>
+        <bibo:authorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n15"/></rdf:Seq>
+        </bibo:authorList>
+    </bibo:Webpage>
+    <foaf:Organization rdf:nodeID="n15">
+       <foaf:name>Center for History and New Media</foaf:name>
+    </foaf:Organization>
+</rdf:RDF>

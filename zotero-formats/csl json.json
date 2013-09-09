@@ -1,0 +1,37 @@
+[
+	{
+		"id": 3,
+		"type": "book",
+		"title": "Ice",
+		"publisher": "Peter Owen",
+		"publisher-place": "London",
+		"source": "Open WorldCat",
+		"event-place": "London",
+		"ISBN": "0720612683  9780720612684",
+		"language": "English",
+		"author": [
+			{
+				"family": "Kavan",
+				"given": "Anna"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": 1,
+		"type": "webpage",
+		"title": "Zotero Quick Start Guide",
+		"URL": "http://zotero.org/support/quick_start_guide",
+		"author": [
+			{
+				"literal": "Center for History and New Media"
+			}
+		]
+	}
+]
