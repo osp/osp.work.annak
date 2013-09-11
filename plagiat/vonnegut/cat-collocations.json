@@ -1,1 +1,25 @@
-{"bigrams": [["San", "Lorenzo"], ["Lowe", "Crosby"], ["Julian", "Castle"], ["Miss", "Faust"], ["United", "States"], ["Franklin", "Hoenikker"], ["old", "man"], ["Philip", "Castle"], ["Hundred", "Martyrs"], ["Research", "Laboratory"], ["little", "Newt"], ["_The", "Books"], ["Miss", "Pefko"], ["Felix", "Hoenikker"], ["Cape", "Cod"], ["Bokonon", "tells"], ["Von", "Koenigswald"], ["von", "Koenigswald"], ["New", "York"], ["Mount", "McCabe"]], "name": "Cat's_Cradle.txt"}
+    {
+        "bigrams": [
+            ["San", "Lorenzo"],
+             ["Lowe", "Crosby"],
+             ["Julian", "Castle"],
+             ["Miss", "Faust"],
+             ["United", "States"],
+             ["Franklin", "Hoenikker"],
+             ["old", "man"],
+             ["Philip", "Castle"],
+             ["Hundred", "Martyrs"],
+             ["Research", "Laboratory"],
+             ["little", "Newt"],
+             ["_The", "Books"],
+             ["Miss", "Pefko"],
+             ["Felix", "Hoenikker"],
+             ["Cape", "Cod"],
+             ["Bokonon", "tells"],
+             ["Von", "Koenigswald"],
+             ["von", "Koenigswald"],
+             ["New", "York"],
+             ["Mount", "McCabe"]
+         ],
+        "name": "Cat's_Cradle.txt"
+    }
