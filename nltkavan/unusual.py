@@ -11,6 +11,8 @@ text = sys.argv[2]
 corpus = nltk.corpus.PlaintextCorpusReader(TEXT_DIR, [text])
 n_text = nltk.text.Text(corpus.words(text))
 
+stopwords = nltk.corpus.stopwords.words("english")
+
 # What are the unusual words?
 def unusual_words(text):
     text_vocab = set(w.lower() for w in text if w.isalpha())
@@ -18,4 +20,11 @@ def unusual_words(text):
     english_vocab = set(w.lower() for w in nltk.corpus.words.words())
     unusual = text_vocab.difference(english_vocab)
     return sorted(unusual)
-print( "\n".join(unusual_words(n_text)))
+
+def diff(a, b):
+    b = set(b)
+    return [aa for aa in a if aa not in b]
+
+output = diff(unusual_words(n_text), stopwords)
+
+print( "\n".join(output))
