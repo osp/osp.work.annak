@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+    {% for key, value in namespace_list.items %}
+    xmlns:{{ key }}="{{ value }}"
+    {% endfor %}
+    version="HTML+RDFa 1.1">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>Anna Kavan</title>
+    <link rel="stylesheet" href="static/css/reset.css" media="screen"/>
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" href="static/css/apropos.css" media="screen"/>
+</head>
+
+<body>
+
+{{ body|safe }}
+
+</body>
+</html>
+
+
+
