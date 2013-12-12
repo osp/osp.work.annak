@@ -1,0 +1,39 @@
+% LANGUAGE {{{
+    \setuplanguage[fr][
+        leftquote=\upperleftdoublesixquote,
+        rightquote=\upperrightdoublesixquote,
+    ]
+    \mainlanguage[fr]
+    \setcharacterspacing [frenchpunctuation]
+% }}}
+
+% TYPOGRAPHY {{{
+    %\usemodule[simplefonts]
+    %\setupalign[flushleft, nothyphenated, verytolerant]
+    %\setmainfont[montserrat]
+    %\setupbodyfont[montserrat, 9pt]
+
+
+    \definefontfeature
+      [default]
+      [default]
+      [protrusion=quality,expansion=quality]
+
+    \setupalign[hz,hanging]
+
+% }}}
+
+
+% PARAGRAPHS {{{
+    \setupwhitespace[line]           % no empty line after a paragraph
+% }}}
+%
+\setuphead[section][number=no]
+\setuphead[section][style=\tfb]
+\setuphead[subsection][style=\tfa]
+\setupitemize[3,joinedup,nowhite,before, after] % (pour avoir un saut de ligne après ta liste)
+
+
+\starttext
+\input bilan-v2-1.tex
+\stoptext
