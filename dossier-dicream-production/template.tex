@@ -8,32 +8,41 @@
 % }}}
 
 % TYPOGRAPHY {{{
-    %\usemodule[simplefonts]
-    %\setupalign[flushleft, nothyphenated, verytolerant]
-    %\setmainfont[montserrat]
-    %\setupbodyfont[montserrat, 9pt]
-
-
     \definefontfeature
       [default]
       [default]
       [protrusion=quality,expansion=quality]
 
     \setupalign[hz,hanging]
+    \setupwhitespace[line]
 
+    \setupinteraction[state=start,color=black,style=\tt\it]
+    %\define[1]\hyphenatedurl{#1}
+    \setuptyping[style=\tt\it]
+    \setuphead[section][align={flushleft, nothyphenated, verytolerant}]
 % }}}
 
+\setupexternalfigure[width=0.85\textwidth,frame=on]
 
-% PARAGRAPHS {{{
-    \setupwhitespace[line]           % no empty line after a paragraph
-% }}}
-%
+\setuphead[chapter][number=no]
 \setuphead[section][number=no]
 \setuphead[section][style=\tfb]
 \setuphead[subsection][style=\tfa]
 \setupitemize[3,joinedup,nowhite,before, after] % (pour avoir un saut de ligne après ta liste)
 
-
 \starttext
+\startpostponing [2]
+    %\defineoverlay
+      %[pattern]
+      %[\backgroundimage{1}{\overlaywidth}{}{\externalfigure[/home/aleray/work/osp.work.annak/iceberg/covers.png]}]
+
+    %\setupbackgrounds[page][background=pattern]
+  %\startstandardmakeup
+    \externalfigure [/home/aleray/work/osp.work.annak/iceberg/covers.png] [width=\hsize,frame=off,location={top,left}]
+    %%%\backgroundimage{1}{\pagewidth}{\pageheight}{\externalfigure [/home/aleray/work/osp.work.annak/iceberg/covers.png]}
+    %%\externalfigure[/home/aleray/work/osp.work.annak/iceberg/covers.png][width=\textwidth, height=\paperheight]
+  %\stopstandardmakeup
+    %\setupbackground[page][background=] %Reset
+\stoppostponing
 \input bilan-v2-1.tex
 \stoptext
