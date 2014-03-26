@@ -1,0 +1,45 @@
+body {
+    padding: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+aside {
+    float: left;
+    width: 200px;
+}
+
+aside h1 {
+    font-size: 72px;
+    line-height: 51px;
+    font-weight: 700;
+    margin-bottom: 72px;
+
+}
+
+section {
+    margin-left: 220px;
+}
+
+figure {
+    width: 100px;
+    height: 140px;
+    /*outline: 2px solid black;*/
+    /*float: left;*/
+    margin: 0 10px 10px 0;
+    padding: 10px;
+    text-align: center;
+    background-color: pink;
+}
+
+figure h1 {
+    border-bottom: 1px solid black;
+    padding-bottom: 3px;
+    margin-bottom: 3px;
+    font-weight: 700;
+}
+
+figure time {
+    font-weight: 300;
+}

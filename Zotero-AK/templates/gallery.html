@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+    {% for key, value in namespace_list.items %}
+    xmlns:{{ key }}="{{ value }}"
+    {% endfor %}
+    version="HTML+RDFa 1.1">
+
+<head>
+    <meta charset="utf-8"/>
+    <title>Anna Kavan</title>
+    <link rel="stylesheet" href="static/css/reset.css" media="screen"/>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" href="static/css/gallery.css" media="screen"/>
+</head>
+
+<body>
+<aside>
+    <h1>who are you?</h1>
+    <div id="slider"></div>
+    <div id="slider_min"></div>
+    <div id="slider_max"></div>
+
+    <select class="sort-options">
+      <option value="title">Title</option>
+      <option value="year">Year</option>
+    </select>
+</aside>
+
+<section>
+{% for book in book_list %}
+    <figure>
+        <h1>{{ book.0 }}</h1>
+        <time>{{ book.1 }}</time>
+        <p class="language">{{ book.2 }}</p>
+    </figure>
+{% endfor %}
+</section>
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script src="http://vestride.github.io/Shuffle/jquery.shuffle.min.js"></script>
+<script>
+$(function() {
+    var $grid = $('section');
+    $grid.shuffle({});
+
+    $( "#slider" ).slider({
+      range: true,
+      min: 1929,
+      max: 2014,
+      //values: [ 75, 300 ],
+      slide: function(event, ui) {
+        $("#slider_min").text(ui.values[0]);
+        $("#slider_max").text(ui.values[1]);
+
+        $grid.shuffle('shuffle', function($el, shuffle) {
+            var year = parseInt($el.find('time').text());
+            return year >= ui.values[0] && year <= ui.values[1];
+        });
+      }
+    });
+
+
+    var languages = $.unique($('.language').map(function() {
+      return $(this).text();
+    }).get().sort());
+
+    var elt = $('<div>');
+    
+    $.each(languages, function(index, value) {
+        var label = $('<label>').text(value);
+        var input = $('<input>').attr({
+            name: 'language', 
+            value: value,
+            type: 'checkbox'
+        });
+        elt.append(label);
+        elt.append(input);
+    });
+
+    $('aside').append(elt);
+
+    elt.find('input').on('change', function() {
+        var checked = $(this).parent().find('input:checked');
+        var values = checked.map(function() {
+            return $(this).val();
+        }).get();
+
+        $grid.shuffle('shuffle', function($el, shuffle) {
+            var lang = $el.find('.language').text();
+            console.log("***");
+            console.log(lang);
+            console.log(values);
+            console.log($.inArray(lang, values));
+            return $.inArray(lang, values) >= 0;
+        });
+
+    });
+    $('.sort-options').on('change', function() {
+      var sort = this.value,
+          opts = {};
+
+      // We're given the element wrapped in jQuery
+      if ( sort === 'title' ) {
+        opts = {
+          reverse: true,
+          by: function($el) {
+            return $el.find('h1').text();
+          }
+        };
+      } else if ( sort === 'year' ) {
+        opts = {
+          by: function($el) {
+            return $el.find('time').text();
+          }
+        };
+      }
+
+      // Filter elements
+      $grid.shuffle('sort', opts);
+    });
+});
+</script>
+</body>
+</html>
+
+
+

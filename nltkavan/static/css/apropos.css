@@ -1,0 +1,12 @@
+body {
+    padding: 42px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    background-color: #34D47B;
+    color: white;
+}
+
+em {
+    color: #DD3180;
+}   
