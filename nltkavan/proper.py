@@ -1,4 +1,4 @@
-#! /usr/bin/python2
+#! /usr/bin/env python
 
 # Finds proper names in a text
 #
@@ -6,16 +6,16 @@
 #
 # python collocations.py TEXT_PATH_FROM_PROJECT_ROOT
 # python collocations.py "file.txt"     # if text is in current directory
-# python collocations.py "/books-AK/Ice/Ice.txt"     # text folder from project directory
+# python collocations.py "../books-AK/Ice/Ice.txt"     # text folder from project directory
 
 import re
 import os
 import sys
 
 
+LOCAL_PATH = sys.argv[1]
 PROJECT_DIR = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
-#text = PROJECT_DIR + "/plagiat/vonnegut/Cat's_Cradle.txt"
-text = PROJECT_DIR + sys.argv[1]
+text = PROJECT_DIR + LOCAL_PATH.strip(".")
 
 f = open(text, "r")
 text = f.readlines()

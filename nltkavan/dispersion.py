@@ -1,7 +1,7 @@
 import nltk
 
-#file = open("../books-AK/Ice/Ice.txt", "r")
-file = open("../plagiat/vonnegut/Cat's_Cradle.txt", "r")
+file = open("../books-AK/Ice/Ice.txt", "r")
+#file = open("../plagiat/vonnegut/Cat's_Cradle.txt", "r")
 raw = file.read()
 file.close()
 
@@ -17,4 +17,4 @@ cat_locations = ["China", "Cuba", "England", "Florida", "France", "Germany", "Ho
 cat_names = ["Albert", "Schweitzer", "Barbara", "Hutton", "Betsy", "Ross", "Lionel", "Boyd", "Harrison", "C.", "Conners", "Castle", "Cedar", "Charles", "Atlas", "David", "McCabe", "Felix", "Frank", "Franklin", "H.", "Lowe", "Crosby", "Harry", "Truman", "Jack", "Johnson","Julian", "Castle", "Lewis", "Marvin", "Breed", "Faust", "Pefko", "Fata", "Morgana", "Newton", "Hoenikker", "Philip", "Robinson", "Sandra", "Stanley", "I", "you", "he", "she", "we", "they"]
 
 
-text.dispersion_plot(cat_names)
+text.dispersion_plot(ice_locations)

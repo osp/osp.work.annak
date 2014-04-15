@@ -1,12 +1,13 @@
-#! /usr/bin/python2
+#! /usr/bin/env python
 
 import os
 import sys
 import nltk
 
+LOCAL_PATH = sys.argv[1]
 PROJECT_DIR = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
-TEXT_DIR = PROJECT_DIR + sys.argv[1]
-text = sys.argv[2]
+TEXT_DIR = PROJECT_DIR + "/" + "/".join(LOCAL_PATH.split("/")[1:-1]) + "/"
+text =  LOCAL_PATH.split("/")[-1]
 
 corpus = nltk.corpus.PlaintextCorpusReader(TEXT_DIR, [text])
 n_text = nltk.text.Text(corpus.words(text))

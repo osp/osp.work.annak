@@ -1,12 +1,12 @@
-#! /usr/bin/python2
+#! /usr/bin/env python
 
 # Finds bigrams (word couples) in a text
 #
 # USAGE
 #
-# python collocations.py DIRECTORY TEXT
-# python collocations.py "" "file.txt"     # if text is in current directory
-# python collocations.py "/books-AK/Ice/" "Ice.txt"     # text folder from project directory
+# python collocations.py TEXT
+# python collocations.py "file.txt"     # if text is in current directory
+# python collocations.py "../books-AK/Ice/Ice.txt"     # text folder from project directory
 
 
 import os
@@ -16,11 +16,11 @@ from json import dumps
 import sys
 
 
+LOCAL_PATH = sys.argv[1]
 PROJECT_DIR = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
-#TEXT_DIR = PROJECT_DIR + "/plagiat/vonnegut/"
-TEXT_DIR = PROJECT_DIR + sys.argv[1]
-#text = "Cat's_Cradle.txt"
-text =  sys.argv[2]
+#TEXT_DIR = PROJECT_DIR + sys.argv[1]
+TEXT_DIR = PROJECT_DIR + "/" + "/".join(LOCAL_PATH.split("/")[1:-1]) + "/"
+text =  LOCAL_PATH.split("/")[-1]
 
 def collocations(text):
     text = '%s' % text
