@@ -1,0 +1,103 @@
+# Déclaration de l'ensemble des protagonistes
+
+   _:girl       	foaf:name           "the glass girl" .
+   _:husband        foaf:name           "her husband" .
+   _:I        		foaf:name           "the narrator" .
+   _:warden        	foaf:name           "the warden" .
+ 
+ # Description des relations 
+ 
+   _:I				rel:ambivalentOf 	 _:girl .
+   _:warden			rel:ambivalentOf 	 _:girl .
+   _:girl       	rel:spouseOf         _:husband .
+   _:husband   		rel:ambivalentOf 	 _:I.	
+   _:warden   		rel:ambivalentOf 	 _:I.	
+   _:girl			rel:victimOf	  	 _:husband ;
+   					rel:victimOf	  	 _:I ;
+   					rel:victimOf	  	 _:warden .
+ 
+ # Plot 
+ 
+ _:return        dc:title            "The narrator is back (in town) to investigate rumours of a 										  mysterious impending emergency in this part of the world" ;
+                 bio:place           "in a remote country in the north" ;
+                 bio:participant	 "I" ;
+                 bio:participant	 "the glass girl" ;
+				 bio:participant	 "her husband" ;
+				 	 
+   				 bio:initiatingEvent "A man has come back in town" ;
+				 bio:interval		 "On his way to visit the girl & her husband, he recollected the 									  	  souvenirs when he first visited them" ;
+				 bio:concludingEvent "The glass girl had left home suddenly and her husband had no 									   	  information " .
+				 
+				 
+ _:quest         dc:title            "Looking for the glass girl" ;
+                 bio:place           "in a High House in a remote country in the north" ;
+                 bio:participant	 "I" ;
+                 bio:participant	 "the glass girl" ;
+				 bio:participant	 "her husband" ;
+				 bio:participant	 "the warden" ;
+				  
+   				 bio:initiatingEvent "The girl seemed to be the property of a warden" ;
+				 bio:interval		 "In his quest (...), the narrator succeeded to make an 									  appointment to see the warden at the High House. We also 										  understand that the glass girl is victim of this violent man who 								  raped her" ;
+				 bio:concludingEvent "The warden asks the narrator to do something for him. The 									  narrator bargains his requested diplomatic support in exchange 										  to see the girl" .
+				 
+				 
+ _:psychodreams  dc:title            "Looking for the glass girl" ;
+                 bio:place           "by a dark night in a remote country in the north" ;
+                 bio:participant	 "I" ;
+                 bio:participant	 "the glass girl" 
+
+				 bio:Event 			 "The narrator misconfuses dreams and reality, in a hostile 									  frozen world,the girl appears and disappears  " .
+	
+ _:run away				 
+ girl & warden 	 dc:title            "Escaping the distorted reality..." ;
+                 bio:place           "in a High House in a remote country in the north" ;
+                 bio:participant	 "I" ;
+                 bio:participant	 "the glass girl" ;
+				 bio:participant	 "the warden" ;
+				  
+   				 bio:initiatingEvent "The narrator finds the girl at the High House" ;
+				 bio:interval		 "The narrator replays the bargain asking to see the girl but the 								  warden run away with the girl" ;
+				 bio:concludingEvent "The narrator is charged of being responsible with the 									  disappearance and murder of the girl, and is taken to the 									  courthouse" .
+				 
+_:run away				 
+narrator 	 	 dc:title            "Escaping under a false identity" ;
+                 bio:place           "in a remote country in the north" ;
+                 bio:participant	 "I" ;
+                 bio:participant	 "the glass girl" ;
+				 bio:participant	 "the warden" ;
+				  
+   				 bio:initiatingEvent "Under a false identity, the narrator escaped to another region 										  to build radio transmitters to get closer to the warden and 										  the girl" ;
+				 bio:interval		 "The narrator decides to give himself as prisoner to the enemy 									  territory, means, the warden" ;
+				 bio:concludingEvent "The narrator bargains once more his skills to see the girl, 										  unfortunately the warden announces him the girl is still alive 										  but has left" .
+_:run away				 
+ girl & narrator dc:title            "Looking for the glass girl" ;
+                 bio:place           "in a town in a remote country in the north" ;
+                 bio:participant	 "I" ;
+                 bio:participant	 "the glass girl" ;
+				  
+   				 bio:initiatingEvent "The narrator keeps on looking for the girl and finds her 										  in a small village" ;
+				 bio:interval		 "The girl rejects him : she doesn't want him to follow her 									  anymore" ;
+				 bio:concludingEvent "The narrator forces the girl to run away with him by boat" .
+				 
+
+_:abandon		 dc:title            "Abandoning the girl" ;
+                 bio:place           "in a gay undamaged town in a remote country in the north" ;
+                 bio:participant	 "I" ;
+                 bio:participant	 "the glass girl" ;
+                 bio:participant	 "the warden" ;
+				 
+   				 bio:initiatingEvent "Arriving in this vibrant town, the girl is back to life ; the 									  narrator decides to go away" ;
+				 bio:interval		 "The narrator joins the guerilla on the continen. There, he finds 								  back the warden" ;
+				 bio:concludingEvent "The narrator and the warden run away by plane observing the 										  approaching ice ruining the region" .		
+				 
+_:run away				 
+ girl & narrator dc:title            "Abandoning the girl" ;
+                 bio:place           "in a gay undamaged town in a remote country in the north" ;
+                 bio:participant	 "I" ;
+                 bio:participant	 "the glass girl" ;
+                 bio:participant	 "the warden" ;
+				 
+   				 bio:initiatingEvent "The warden, furious of the girl's abandon, leaves for his own 									  quest" ;
+				 bio:interval		 "In a distorted reality : the warden runs away with the girl by 										  car while the narrator goes back in the gay undamed town and 										  finds the girl" ;
+				 bio:concludingEvent "The narrator and the girl run away by car observing the 										  approaching ice ruining the region" .			 	 
+				 
