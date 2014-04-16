@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /usr/bin/env bash
 
 # Outputs a list of words in the text and the number of times they appear
 # Ordered from the most frequent word to the least one.

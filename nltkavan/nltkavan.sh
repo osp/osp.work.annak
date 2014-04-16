@@ -1,7 +1,8 @@
-$BN="$(basename $1 .txt)"
+BN="$(basename $1 .txt)"
 
+mkdir "$BN"
 ./lexique.sh       $1 > ${BN}/${BN}.lexique.txt
-./collocations.py  $1 > ${BN}/${BN}.collocations.json
+python collocations.py  $1 > ${BN}/${BN}.collocations.json
 ./index.sh         $1 > ${BN}/${BN}.index.txt
-./proper.py        $1 > ${BN}/${BN}.proper.txt
-./unusual.py       $1 > ${BN}/${BN}.unusual.txt
+python proper.py        $1 > ${BN}/${BN}.proper.txt
+python unusual.py       $1 > ${BN}/${BN}.unusual.txt
