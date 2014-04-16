@@ -1,0 +1,89 @@
+digraph {
+  graph[splines=true, overlap=false, fontname="Montserrat", ratio=expand, size=20]
+  node [fontsize=8, overlap=false, fontname="Montserrat"];
+  edge [fontsize=8, overlap=false, fontname="Montserrat"]
+
+
+        "B_:r1368697098r4429r1" -> "LAnna-Marie Forrester" [ label="name", len=1, dir=back, color=gold ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r1" [ label="Birth" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r2" [ label="father" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r10" [ label="Marriage" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r1" [ label="Dismissal" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r1" [ label="Enrolment" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r11" [ label="NameChange", color=red ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r8" [ label="relationshiphasMet" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r9" [ label="relationshiphasMet" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r10" [ label="relationshiphasMet" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r9" [ label="relationshipfriendOf" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r5" [ label="relationshiplivesWith" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r11" [ label="initiatingEvent", color=red ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r4" [ label="lostContactWith" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r9" [ label="relationshipinfluencedBy" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r5" [ label="relationshipinfluencedBy" ];
+        "B_:r1368697098r4429r1" -> "B_:r1368697098r4429r8" [ label="relationshipcloseFriendOf" ];
+        "B_:r1368697098r4429r2" -> "LJames Forrester" [ label="name", maxlen=0.5, dir=back, color=gold ];
+        "B_:r1368697098r4429r2" -> "B_:r1368697098r4429r2" [ label="Death" ];
+        "B_:r1368697098r4429r2" -> "B_:r1368697098r4429r3" [ label="Marriage" ];
+        "B_:r1368697098r4429r3" -> "LLise" [ label="name", maxlen=0.5, dir=back, color=gold ];
+        "B_:r1368697098r4429r3" -> "B_:r1368697098r4429r3" [ label="Death" ];
+        "B_:r1368697098r4429r3" -> "B_:r1368697098r4429r1" [ label="relationshipmother" ];
+        "B_:r1368697098r4429r4" -> "LMiss Wilson" [ label="name", maxlen=0.5, dir=back, color=gold ];
+        "B_:r1368697098r4429r4" -> "B_:r1368697098r4429r2" [ label="relationshipemployedBy" ];
+        "B_:r1368697098r4429r4" -> "B_:r1368697098r4429r1" [ label="relationshipapprenticeTo" ];
+        "B_:r1368697098r4429r4" -> "B_:r1368697098r4429r2" [ label="relationshipPositionChange" ];
+        "B_:r1368697098r4429r5" -> "LLauretta" [ label="name", maxlen=0.5, dir=back, color=gold ];
+        "B_:r1368697098r4429r5" -> "B_:r1368697098r4429r1" [ label="relationshipparentOf" ];
+        "B_:r1368697098r4429r5" -> "B_:r1368697098r4429r6" [ label="relationshipspouseOf" ];
+        "B_:r1368697098r4429r6" -> "LHeyward Bland" [ label="name", maxlen=0.5, dir=back, color=gold ];
+        "B_:r1368697098r4429r7" -> "LRachel Fielding" [ label="name", maxlen=0.5, dir=back, color=gold ];
+        "B_:r1368697098r4429r7" -> "B_:r1368697098r4429r1" [ label="relationshipmentorOf" ];
+        "B_:r1368697098r4429r7" -> "B_:r1368697098r4429r1" [ label="relationshipambivalentOf" ];
+        "B_:r1368697098r4429r7" -> "B_:r1368697098r4429r5" [ label="relationshipacquaintanceOf" ];
+        "B_:r1368697098r4429r8" -> "LSidney" [ label="name", maxlen=0.5, dir=back, color=gold ];
+        "B_:r1368697098r4429r8" -> "B_:r1368697098r4429r7" [ label="relationshipenemyOf" ];
+        "B_:r1368697098r4429r9" -> "LCatherine Howard" [ label="name", maxlen=0.5, dir=back, color=gold ];
+        "B_:r1368697098r4429r10" -> "LMatthew Kavan" [ label="name", maxlen=0.5, dir=back, color=gold ];
+        "B_:r1368697098r4429r10" -> "B_:r1368697098r4429r12" [ label="Promotion" ];
+        "B_:r1368697098r4429r10" -> "B_:r1368697098r4429r5" [ label="relationshipacquaintanceOf" ];
+        "B_:r1368697098r4429r11" -> "LAnna Kavan" [ label="name", maxlen=0.5, dir=back, color=gold ];
+        "B_:r1368697098r4429r12" -> "LRangoon" [ label="Place" ];
+        "B_:r1368697098r4429r12" -> "LPrise de poste Ã  Rangoon" [ label="title" ];
+
+
+        // Resources
+
+
+        // Anonymous nodes
+        "B_:r1368697098r4429r1" [ label="", shape = circle, color = lime ];
+        "B_:r1368697098r4429r2" [ label="", shape = circle, color = lime ];
+        "B_:r1368697098r4429r10" [ label="", shape = circle, color = lime ];
+        "B_:r1368697098r4429r11" [ label="", shape = circle, color = lime ];
+        "B_:r1368697098r4429r8" [ label="", shape = circle, color = lime ];
+        "B_:r1368697098r4429r9" [ label="", shape = circle, color = lime ];
+        "B_:r1368697098r4429r5" [ label="", shape = circle, color = lime ];
+        "B_:r1368697098r4429r4" [ label="", shape = circle, color = lime ];
+        "B_:r1368697098r4429r3" [ label="", shape = circle, color = lime ];
+        "B_:r1368697098r4429r6" [ label="", shape = circle, color = lime ];
+        "B_:r1368697098r4429r7" [ label="", shape = circle, color = lime ];
+        "B_:r1368697098r4429r12" [ label="", shape = circle, color = lime ];
+
+
+        // Literals
+        "LAnna-Marie Forrester" [ label="Anna-Marie Forrester", shape = ellipse, style=filled, fillcolor=gold ];
+        "LJames Forrester" [ label="James Forrester", shape = ellipse, style=filled, fillcolor=gold ];
+        "LLise" [ label="Lise", shape = ellipse, style=filled, fillcolor=gold ];
+        "LMiss Wilson" [ label="Miss Wilson", shape = ellipse, style=filled, fillcolor=gold ];
+        "LLauretta" [ label="Lauretta", shape = ellipse, style=filled, fillcolor=gold ];
+        "LHeyward Bland" [ label="Heyward Bland", shape = ellipse, style=filled, fillcolor=gold ];
+        "LRachel Fielding" [ label="Rachel Fielding", shape = ellipse, style=filled, fillcolor=gold ];
+        "LSidney" [ label="Sidney", shape = ellipse, style=filled, fillcolor=gold ];
+        "LCatherine Howard" [ label="Catherine Howard", shape = ellipse, style=filled, fillcolor=gold ];
+        "LMatthew Kavan" [ label="Matthew Kavan", shape = ellipse, style=filled, fillcolor=gold ];
+        "LAnna Kavan" [ label="Anna Kavan", shape = ellipse, style=filled, fillcolor=gold ];
+        "LRangoon" [ label="Rangoon", shape = ellipse];
+        "LPrise de poste Ã  Rangoon" [ label="Prise de poste Ã  Rangoon", shape = ellipse];
+
+
+        label="Let Me Alone in Triplets";
+}
+
