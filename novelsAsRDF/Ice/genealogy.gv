@@ -1,0 +1,12 @@
+digraph {
+   graph[splines=true, overlap=false, fontname="Montserrat", ratio=expand, size=20]
+
+   I -> girl [label = "ambivalentOf"]
+   warden -> girl [label = "ambivalentOf"]
+   girl -> husband [label = "spouseOf"]
+   husband -> I [label = "ambivalentOf"]
+   warden -> I [label = "ambivalentOf"]
+   girl -> husband [label = "victimOf"]
+   girl -> I [label = "victimOf"]
+   girl -> warden [label = "victimOf"]
+}
