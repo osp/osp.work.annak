@@ -1,65 +1,63 @@
-Anna
-Anthony
-Black
-Bond
-Britain
-California
-Carolina
-Case
-Cedric
-Chester
-China
-Christ
-Christmas
-D
-David
-Davis
-De
-December
-Don
-Down
-Edward
-England
-English
-Europe
-France
-French
-George
-Gerald
-Gill
-God
-Graham
-Helen
-Henri
-Howard
-Hubert
-Italy
-Jean
-John's
-Joseph
-London
-M.
-Madame
-Martin
-Mary
-May
-Miss
-Mr.
-Mrs.
-Nancy
-November
-O.
-Owen
-P.
-Paris
-Peter
-R
-R.
-Russian
-Sir
-Tony
-Virginia
-Walker
-Westinghouse
-Wilbur
-William
+ <li>Anna</li> 
+ <li>Anthony</li> 
+ <li>Bond</li> 
+ <li>Britain</li> 
+ <li>California</li> 
+ <li>Carolina</li> 
+ <li>Case</li> 
+ <li>Cedric</li> 
+ <li>Chester</li> 
+ <li>China</li> 
+ <li>Christ</li> 
+ <li>Christmas</li> 
+ <li>D</li> 
+ <li>David</li> 
+ <li>Davis</li> 
+ <li>De</li> 
+ <li>December</li> 
+ <li>Don</li> 
+ <li>Down</li> 
+ <li>Edward</li> 
+ <li>England</li> 
+ <li>English</li> 
+ <li>Europe</li> 
+ <li>France</li> 
+ <li>French</li> 
+ <li>George</li> 
+ <li>Gerald</li> 
+ <li>Gill</li> 
+ <li>God</li> 
+ <li>Graham</li> 
+ <li>Helen</li> 
+ <li>Henri</li> 
+ <li>Howard</li> 
+ <li>Hubert</li> 
+ <li>Italy</li> 
+ <li>Jean</li> 
+ <li>John's</li> 
+ <li>Joseph</li> 
+ <li>London</li> 
+ <li>M.</li> 
+ <li>Madame</li> 
+ <li>Martin</li> 
+ <li>Mary</li> 
+ <li>May</li> 
+ <li>Miss</li> 
+ <li>Mr.</li> 
+ <li>Mrs.</li> 
+ <li>Nancy</li> 
+ <li>November</li> 
+ <li>O.</li> 
+ <li>Owen</li> 
+ <li>P.</li> 
+ <li>Paris</li> 
+ <li>Peter</li> 
+ <li>R</li> 
+ <li>R.</li> 
+ <li>Sir</li> 
+ <li>Tony</li> 
+ <li>Virginia</li> 
+ <li>Walker</li> 
+ <li>Westinghouse</li> 
+ <li>Wilbur</li> 
+ <li>William</li> 
