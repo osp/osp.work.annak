@@ -87,7 +87,7 @@ _:abandon		 dc:title            "Abandoning the girl" ;
                  bio:participant	 "the warden" ;
 				 
    				 bio:initiatingEvent "Arriving in this vibrant town, the girl is back to life ; the 									  narrator decides to go away" ;
-				 bio:interval		 "The narrator joins the guerilla on the continen. There, he finds 								  back the warden" ;
+				 bio:interval		 "The narrator joins the guerilla on the continent. There, he finds 								  back the warden" ;
 				 bio:concludingEvent "The narrator and the warden run away by plane observing the 										  approaching ice ruining the region" .		
 				 
 _:run away				 
