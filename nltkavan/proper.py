@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/python2
 
 # Finds proper names in a text
 #
