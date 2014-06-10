@@ -19,6 +19,10 @@
   <defs
      id="defs3541">
     <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6645"
+       effect="spiro" />
+    <inkscape:path-effect
        effect="spiro"
        id="path-effect5863"
        is_visible="true" />
@@ -233,9 +237,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4209957"
-     inkscape:cx="741.29812"
-     inkscape:cy="-90.036586"
+     inkscape:zoom="0.71049785"
+     inkscape:cx="1062.5491"
+     inkscape:cy="-1676.9418"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -263,6 +267,26 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,2.988066e-5)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1279.062,2635.4774 0,128.3384"
+       id="path3853"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end-point="d4"
+       inkscape:connection-end="#g6482"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-start="#use9423-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 84.041269,2719.7254 107.462501,37.899"
+       id="path3851"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#use5476-8"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g8016-1-3-57"
+       inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 758.76766,1103.5049 112.39678,66.6992"
@@ -323,17 +347,7 @@
        inkscape:connection-start-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1164.3603,2551.8783 93.8401,159.1905"
-       id="path6522"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#use9689-3"
-       inkscape:connection-start-point="d4"
-       inkscape:connection-end="#g6482"
-       inkscape:connection-end-point="d4" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 715.37044,2738.3215 176.78222,64.2707"
+       d="m 725.37044,2710.3216 176.78222,64.2706"
        id="path6416"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -343,7 +357,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 715.37044,2738.3215 176.78223,0"
+       d="m 725.37044,2710.3216 176.78223,-1e-4"
        id="path6388"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -353,7 +367,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 710.55399,2556.055 144.30797,109.3095"
+       d="m 720.55399,2528.055 144.30797,109.3095"
        id="path6366"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -363,7 +377,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 854.86196,2556.0549 168.69114,105.9915"
+       d="m 864.86196,2528.0549 168.69114,105.9915"
        id="path6326"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -373,7 +387,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 854.86196,2556.0549 168.69114,0"
+       d="m 864.86196,2528.0549 168.69114,0"
        id="path6324"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -383,7 +397,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 854.86196,2556.0549 -144.30797,10e-5"
+       d="m 864.86196,2528.0549 -144.30797,10e-5"
        id="path6298"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -393,7 +407,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 424.78295,2810.7193 170.26852,30.1192"
+       d="m 466.71136,2746.567 170.26861,30.119"
        id="path6250"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -403,7 +417,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 424.78295,2872.6477 170.26852,-31.8092"
+       d="M 466.71135,2808.4954 636.97997,2776.686"
        id="path6252"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -413,7 +427,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 423.74432,2724.0829 167.3971,0"
+       d="m 302.85782,2660.747 165.694,0"
        id="path6224"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -423,39 +437,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 270.12052,2567.9977 152.75565,-10e-5"
-       id="path6200"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#use5936"
-       inkscape:connection-start-point="d4"
-       inkscape:connection-end="#g8016-1-3-57"
-       inkscape:connection-end-point="d4" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 93.455887,2567.9977 176.664633,0"
-       id="path5965"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#use5916"
-       inkscape:connection-start-point="d4"
-       inkscape:connection-end="#use5936"
-       inkscape:connection-end-point="d4"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 93.455887,2567.9977 176.664633,0"
-       id="path5938"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#use5916"
-       inkscape:connection-start-point="d4"
-       inkscape:connection-end="#use5936"
-       inkscape:connection-end-point="d4"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1572.3215,1665.0735 -0.065,112.7628"
+       d="m 533.30427,2178.6107 -0.0651,112.7628"
        id="path5823"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -475,7 +457,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1659.1075,1564.9778 -86.786,100.0957"
+       d="m 620.09035,2078.515 -86.78608,100.0957"
        id="path5761"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -563,7 +545,7 @@
        inkscape:connection-start-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 469.2536,1033.3389 145.24339,144.6182"
+       d="m 469.2536,1033.3389 145.94712,143.2108"
        id="path3581"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -2054,7 +2036,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon28"
-         points="868.5,-46.084 865,-36.084 861.5,-46.084 868.5,-46.084 " />
+         points="861.5,-46.084 868.5,-46.084 868.5,-46.084 865,-36.084 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2091,7 +2073,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon44"
-         points="846.507,-132.693 849.834,-122.634 840.961,-128.422 846.507,-132.693 " />
+         points="840.961,-128.422 846.507,-132.693 846.507,-132.693 849.834,-122.634 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2128,7 +2110,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon60"
-         points="817.702,-113.718 827.408,-109.47 817.172,-106.738 817.702,-113.718 " />
+         points="817.172,-106.738 817.702,-113.718 817.702,-113.718 827.408,-109.47 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2165,7 +2147,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon76"
-         points="300.554,-103.909 290.456,-107.114 300.349,-110.906 300.554,-103.909 " />
+         points="300.349,-110.906 300.554,-103.909 300.554,-103.909 290.456,-107.114 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2202,7 +2184,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon92"
-         points="880.217,-131.71 873.191,-123.78 873.739,-134.361 880.217,-131.71 " />
+         points="873.739,-134.361 880.217,-131.71 880.217,-131.71 873.191,-123.78 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2239,7 +2221,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon108"
-         points="942.291,-310.253 942.606,-299.663 935.756,-307.745 942.291,-310.253 " />
+         points="935.756,-307.745 942.291,-310.253 942.291,-310.253 942.606,-299.663 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2276,7 +2258,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon124"
-         points="960.677,-222.638 958.593,-212.25 953.745,-221.67 960.677,-222.638 " />
+         points="953.745,-221.67 960.677,-222.638 960.677,-222.638 958.593,-212.25 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2313,7 +2295,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon140"
-         points="824.578,-222.467 822.97,-211.995 817.697,-221.185 824.578,-222.467 " />
+         points="817.697,-221.185 824.578,-222.467 824.578,-222.467 822.97,-211.995 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2350,7 +2332,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon156"
-         points="599.706,-214.557 590.394,-209.504 594.522,-219.261 599.706,-214.557 " />
+         points="594.522,-219.261 599.706,-214.557 599.706,-214.557 590.394,-209.504 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2377,7 +2359,7 @@
          id="text165"
          font-size="14.00"
          y="5181.1519"
-         x="-3302.4146">gerald</text>
+         x="-3302.4146">gerard</text>
       <path
          style="fill:none;stroke:#000000;stroke-width:1.25"
          inkscape:connector-curvature="0"
@@ -2387,7 +2369,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon172"
-         points="537.204,-309.028 531.484,-300.11 530.394,-310.648 537.204,-309.028 " />
+         points="530.394,-310.648 537.204,-309.028 537.204,-309.028 531.484,-300.11 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2404,7 +2386,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon181"
-         points="542.075,-215.938 547.994,-207.151 537.887,-210.329 542.075,-215.938 " />
+         points="537.887,-210.329 542.075,-215.938 542.075,-215.938 547.994,-207.151 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2441,7 +2423,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon197"
-         points="913.438,-104.945 903.188,-107.625 912.872,-111.922 913.438,-104.945 " />
+         points="912.872,-111.922 913.438,-104.945 913.438,-104.945 903.188,-107.625 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2478,7 +2460,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon213"
-         points="1086.78,-210.799 1076.61,-207.842 1082.72,-216.498 1086.78,-210.799 " />
+         points="1082.72,-216.498 1086.78,-210.799 1086.78,-210.799 1076.61,-207.842 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2495,7 +2477,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon222"
-         points="892.421,-126.208 882.59,-122.258 887.812,-131.477 892.421,-126.208 " />
+         points="887.812,-131.477 892.421,-126.208 892.421,-126.208 882.59,-122.258 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2532,7 +2514,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon238"
-         points="991.663,-212.827 981.697,-209.231 987.246,-218.257 991.663,-212.827 " />
+         points="987.246,-218.257 991.663,-212.827 991.663,-212.827 981.697,-209.231 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2569,7 +2551,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon254"
-         points="913.061,-105.191 902.91,-108.227 912.738,-112.184 913.061,-105.191 " />
+         points="912.738,-112.184 913.061,-105.191 913.061,-105.191 902.91,-108.227 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2606,7 +2588,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon270"
-         points="816.94,-112.398 826.724,-108.333 816.54,-105.41 816.94,-112.398 " />
+         points="816.54,-105.41 816.94,-112.398 816.94,-112.398 826.724,-108.333 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2623,7 +2605,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon279"
-         points="825.575,-123.211 833.825,-116.564 823.23,-116.616 825.575,-123.211 " />
+         points="823.23,-116.616 825.575,-123.211 825.575,-123.211 833.825,-116.564 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2660,7 +2642,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon295"
-         points="283.953,-128.624 275.648,-122.045 278.038,-132.367 283.953,-128.624 " />
+         points="278.038,-132.367 283.953,-128.624 283.953,-128.624 275.648,-122.045 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2677,7 +2659,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon304"
-         points="234.873,-125.481 241.531,-117.24 231.187,-119.53 234.873,-125.481 " />
+         points="231.187,-119.53 234.873,-125.481 234.873,-125.481 241.531,-117.24 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2714,7 +2696,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon320"
-         points="226.012,-111.414 235.81,-107.383 225.637,-104.424 226.012,-111.414 " />
+         points="225.637,-104.424 226.012,-111.414 226.012,-111.414 235.81,-107.383 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2751,7 +2733,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon336"
-         points="40.5001,-222.084 37,-212.084 33.5001,-222.084 40.5001,-222.084 " />
+         points="33.5001,-222.084 40.5001,-222.084 40.5001,-222.084 37,-212.084 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2788,7 +2770,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon352"
-         points="226.41,-112.638 235.946,-108.023 225.613,-105.684 226.41,-112.638 " />
+         points="225.613,-105.684 226.41,-112.638 226.41,-112.638 235.946,-108.023 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -2825,7 +2807,7 @@
          transform="matrix(0.62079799,0,0,0.61971894,-3633.6907,5349.115)"
          style="fill:#000000;stroke:#000000;stroke-width:2.01528955"
          id="polygon368"
-         points="299.931,-109.614 289.425,-110.981 298.49,-116.464 299.931,-109.614 " />
+         points="298.49,-116.464 299.931,-109.614 299.931,-109.614 289.425,-110.981 " />
       <text
          transform="scale(1.0008702,0.99913057)"
          style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
@@ -4814,55 +4796,19 @@
        transform="translate(-65.376177,480.40837)"
        width="1488.189"
        height="1052.3622" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use10663"
-       id="use5916"
-       width="1"
-       height="1"
-       transform="translate(-105.4544,1081.7062)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use5891"
-       id="use5936"
-       transform="translate(-164.21245,75.44953)"
-       width="1488.189"
-       height="1052.3622" />
-    <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
-       id="text5706-6"
-       font-size="8.00"
-       y="2535.9143"
-       x="179.37836">
-      <tspan
-         id="tspan5708-5"
-         style="font-size:8px">rel: colleagueOf</tspan>
-    </text>
-    <text
-       x="180.8712"
-       y="2606.0776"
-       font-size="8.00"
-       id="text5961"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
-      <tspan
-         style="font-size:8px"
-         id="tspan5963">rel: enemyOf</tspan>
-    </text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 278.81964,2781.6538 144.92468,-57.5709"
+       d="M 84.041269,2719.7254 302.85782,2660.747"
        id="path5514-7"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
-       inkscape:connection-start="#use5476-8"
-       inkscape:connection-start-point="d4"
        inkscape:connection-end="#g10971-4-1"
-       inkscape:connection-end-point="d4" />
+       inkscape:connection-end-point="d4"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-start="#use5476-8" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 273.64666,2676.312 150.09766,-44.0031"
+       d="M 152.76014,2612.9761 302.85782,2568.973"
        id="path5474-8"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -4872,7 +4818,7 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 273.64666,2676.312 150.09766,47.7709"
+       d="m 152.76014,2612.9761 150.09768,47.7709"
        id="path5445-0"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -4885,11 +4831,11 @@
        y="0"
        xlink:href="#use10663"
        id="use3828-7"
-       transform="translate(74.736375,1190.0205)"
+       transform="translate(-46.150146,1126.6846)"
        width="1488.189"
        height="1052.3622" />
     <g
-       transform="translate(3432.1486,-3039.092)"
+       transform="translate(3311.2621,-3102.4279)"
        id="g10971-4-1">
       <text
          x="-2956.8811"
@@ -4938,15 +4884,15 @@
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
        id="text5447-1"
        font-size="8.00"
-       y="2715.084"
-       x="341.79196">
+       y="2651.748"
+       x="220.90544">
       <tspan
          id="tspan5449-0"
          style="font-size:8px">bio: organization</tspan>
     </text>
     <text
-       x="358.71085"
-       y="2667.9644"
+       x="237.82431"
+       y="2604.6284"
        font-size="8.00"
        id="text5451-7"
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
@@ -4956,7 +4902,7 @@
     </text>
     <g
        id="g5455-2"
-       transform="translate(3432.2505,-3138.2654)">
+       transform="translate(3311.364,-3201.6013)">
       <text
          style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat"
          id="text5457-9"
@@ -5010,21 +4956,21 @@
        y="0"
        xlink:href="#use10643"
        id="use5476-8"
-       transform="translate(166.73913,1295.3623)"
+       transform="translate(-28.03924,1233.4339)"
        width="1488.189"
        height="1052.3622" />
     <text
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
        id="text5516-5"
        font-size="8.00"
-       y="2766.9895"
-       x="364.1846">
+       y="2703.6536"
+       x="243.29807">
       <tspan
          id="tspan5518-0"
          style="font-size:8px">bio: demotion</tspan>
     </text>
     <g
-       transform="translate(3263.1003,-2560.1401)"
+       transform="translate(3031.7279,-2370.5133)"
        id="g8016-1-3-57">
       <ellipse
          cx="1023.85"
@@ -5051,8 +4997,8 @@
       </text>
     </g>
     <text
-       x="358.12625"
-       y="2561.9524"
+       x="126.75381"
+       y="2750.8755"
        font-size="8.00"
        id="text6192"
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
@@ -5060,18 +5006,8 @@
          style="font-size:8px"
          id="tspan6194">transit: stop</tspan>
     </text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 270.12052,2567.9977 0,0"
-       id="path6196"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#use5936"
-       inkscape:connection-start-point="d4"
-       inkscape:connection-end="#use5936"
-       inkscape:connection-end-point="d4" />
     <g
-       transform="translate(3599.6476,-3046.4914)"
+       transform="translate(3477.058,-3109.8273)"
        id="g6202">
       <text
          x="-2956.8811"
@@ -5122,8 +5058,8 @@
       </g>
     </g>
     <text
-       x="508.65106"
-       y="2716.4915"
+       x="383.61679"
+       y="2654.563"
        font-size="8.00"
        id="text6226"
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
@@ -5133,7 +5069,7 @@
     </text>
     <g
        id="g6234"
-       transform="translate(3435.2756,-2287.2992)">
+       transform="translate(3477.2041,-2351.4517)">
       <ellipse
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)"
          style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
@@ -5163,7 +5099,7 @@
        y="0"
        xlink:href="#use5887"
        id="use6242"
-       transform="translate(174.6312,318.17118)"
+       transform="translate(216.55961,254.01885)"
        width="1488.189"
        height="1052.3622" />
     <use
@@ -5171,15 +5107,15 @@
        y="0"
        xlink:href="#use5889"
        id="use6244"
-       transform="translate(84.493716,380.09959)"
+       transform="translate(126.42212,315.94726)"
        width="1488.189"
        height="1052.3622" />
     <text
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
        id="text6246"
        font-size="8.00"
-       y="2843.238"
-       x="529.68884">
+       y="2779.0859"
+       x="571.61719">
       <tspan
          id="tspan6248"
          style="font-size:8px">transit: stop</tspan>
@@ -5189,15 +5125,15 @@
        y="0"
        xlink:href="#use5867"
        id="use6254"
-       transform="translate(692.63977,63.50681)"
+       transform="translate(702.63977,35.50681)"
        width="1488.189"
        height="1052.3622" />
     <text
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
        id="text6274"
        font-size="8.00"
-       y="2549.0537"
-       x="781.30389">
+       y="2521.0537"
+       x="791.30389">
       <tspan
          id="tspan6276"
          style="font-size:8px">rel: spouseOf</tspan>
@@ -5209,10 +5145,10 @@
        id="use6278"
        width="1"
        height="1"
-       transform="translate(628.52074,63.506868)" />
+       transform="translate(638.52074,35.506868)" />
     <g
        id="g6300"
-       transform="translate(3863.7772,-2572.0828)">
+       transform="translate(3873.7772,-2600.0828)">
       <ellipse
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)"
          style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
@@ -5241,14 +5177,14 @@
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
        id="text6308"
        font-size="8.00"
-       y="2552.0002"
-       x="955.81738">
+       y="2524.0002"
+       x="965.81738">
       <tspan
          id="tspan6310"
          style="font-size:8px">transit: fromStop</tspan>
     </text>
     <g
-       transform="translate(3863.7772,-2466.0913)"
+       transform="translate(3873.7772,-2494.0913)"
        id="g6312">
       <ellipse
          cx="1023.85"
@@ -5275,8 +5211,8 @@
       </text>
     </g>
     <text
-       x="971.74109"
-       y="2610.2212"
+       x="981.74109"
+       y="2582.2212"
        font-size="8.00"
        id="text6320"
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
@@ -5286,7 +5222,7 @@
     </text>
     <g
        id="g6328"
-       transform="translate(3863.2909,-3105.2098)">
+       transform="translate(3873.2909,-3133.2098)">
       <text
          style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat"
          id="text6330"
@@ -5339,15 +5275,15 @@
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
        id="text6372"
        font-size="8.00"
-       y="2623.4377"
-       x="743.64874">
+       y="2595.4377"
+       x="753.64874">
       <tspan
          id="tspan6374"
          style="font-size:8px">bio: initiatingEvent</tspan>
     </text>
     <g
        id="g6378"
-       transform="translate(3732.3768,-2389.8162)">
+       transform="translate(3742.3768,-2417.8162)">
       <ellipse
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)"
          style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
@@ -5384,14 +5320,14 @@
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
        id="text6390"
        font-size="8.00"
-       y="2734.0781"
-       x="804.14325">
+       y="2706.0781"
+       x="814.14325">
       <tspan
          id="tspan6392"
          style="font-size:8px">transit: stop</tspan>
     </text>
     <g
-       transform="translate(3900.5816,-2967.9821)"
+       transform="translate(3910.5816,-2995.9821)"
        id="g6394">
       <text
          x="-2956.8811"
@@ -5445,15 +5381,15 @@
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
        id="text6418"
        font-size="8.00"
-       y="2782.6423"
-       x="771.69904">
+       y="2754.6423"
+       x="781.69904">
       <tspan
          id="tspan6420"
          style="font-size:8px">bio: concludingEvent</tspan>
     </text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1164.3603,2551.8783 170.1014,73.8175"
+       d="m 1156.3603,2551.8783 122.7017,-27.6956"
        id="path10136-7"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -5464,7 +5400,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1164.3603,2551.8783 170.1014,0"
+       d="m 1156.3603,2551.8783 122.7017,83.5991"
        id="path10134-1"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -5480,7 +5416,7 @@
        inkscape:connector-curvature="0"
        inkscape:connector-type="polyline"
        id="path9691-1"
-       d="m 1164.3603,2551.8783 170.1014,0"
+       d="m 1156.3603,2551.8783 122.7017,83.5991"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
@@ -5491,12 +5427,12 @@
        inkscape:connector-curvature="0"
        inkscape:connector-type="polyline"
        id="path9693-2"
-       d="m 1164.3603,2551.8783 170.1014,73.8175"
+       d="m 1156.3603,2551.8783 122.7017,-27.6956"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <use
        height="1052.3622"
        width="1488.189"
-       transform="translate(1037.6885,1936.549)"
+       transform="translate(982.28888,2020.1481)"
        id="use9423-9"
        xlink:href="#use8183"
        y="0"
@@ -5505,8 +5441,8 @@
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
        id="text9425-1"
        font-size="8.00"
-       y="2548.8022"
-       x="1244.6499">
+       y="2593.5874"
+       x="1246.6023">
       <tspan
          id="tspan9427-9"
          style="font-size:8px">rel: spouseOf</tspan>
@@ -5514,14 +5450,14 @@
     <use
        height="1052.3622"
        width="1488.189"
-       transform="translate(1125.9022,2010.3665)"
+       transform="translate(1070.5025,1908.8534)"
        id="use9433-1"
        xlink:href="#use8161"
        y="0"
        x="0" />
     <text
-       x="1248.9327"
-       y="2609.9988"
+       x="1215.0568"
+       y="2530.3809"
        font-size="8.00"
        id="text9443-0"
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
@@ -5531,7 +5467,7 @@
     </text>
     <g
        id="g6482"
-       transform="translate(4266.4094,-3063.6896)">
+       transform="translate(4287.271,-3010.9426)">
       <text
          style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat"
          id="text6484"
@@ -5593,14 +5529,14 @@
     <use
        height="1052.3622"
        width="1488.189"
-       transform="translate(1052.2176,1936.549)"
+       transform="translate(1044.2176,1936.549)"
        id="use9689-3"
        xlink:href="#use9657"
        y="0"
        x="0" />
     <text
-       x="1166.3799"
-       y="2646.1184"
+       x="1326.5732"
+       y="2728.7222"
        font-size="8.00"
        id="text6518"
        style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
@@ -5792,5 +5728,37 @@
          x="766.65564"
          id="tspan6637"
          sodipodi:role="line">bio: emigration</tspan></text>
-  </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 857.64702,180.4065 606.15758,0 0,293.8864 -606.15758,0 z"
+       inkscape:path-effect="#path-effect6645"
+       id="path6643"
+       d="m 857.64702,180.4065 606.15758,0 0,293.8864 -606.15758,0 0,-293.8864"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#Arrow1Mend)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6657"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       transform="translate(0,-2.99e-5)"><flowRegion
+         id="flowRegion6659"><rect
+           id="rect6661"
+           width="585.19354"
+           height="268.7113"
+           x="874.80469"
+           y="195.47157" /></flowRegion><flowPara
+         id="flowPara6663"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">GLOSSARY</flowPara><flowPara
+         id="flowPara6665"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat" /><flowPara
+         id="flowPara6667"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">TRANSIT: AGENCY</flowPara><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara6675">The agency that operates this public transportation route.</flowPara><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara6671" /><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         id="flowPara6673">TRANSIT: DROPOFF  </flowPara><flowPara
+         id="flowPara6669"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">The arrangement required for passengers to be dropped off at this service stop.</flowPara></flowRoot>  </g>
 </svg>

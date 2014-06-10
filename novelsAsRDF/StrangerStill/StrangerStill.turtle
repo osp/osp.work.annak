@@ -124,14 +124,10 @@ _:martin     rel:hasMet           _:anna .
 
 # Plot - part 3
                  
-_:hubert      rel:colleagueOf      _:william ;
-              rel:enemyOf          _:william ;
- _william    transit:stop         "London" .
-_:hubert     bio:organization     "Fairbrother" ;
-             bio:promotion        "Acquires majority shares." .
-
-_:william    bio:organization     "Fairbrother" ;
-             bio:demotion         _:o ;
+_:hubert     bio:promotion        "Acquires majority shares." ;
+             bio:organization     "Fairbrother" .
+ _william    transit:stop         "London" ;
+             bio:demotion         "Fairbrother" .
              bio:concludingEvent "William gets a heart attack" .
  _:martin    transit:stop         "London" .
  _:gwenda    transit:stop         "London" .
