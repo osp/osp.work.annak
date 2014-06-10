@@ -1,0 +1,30 @@
+digraph {
+    graph[splines=true, overlap=false, fontname="Montserrat", ratio=expand, size=20]
+
+    william -> "Joseph Lewisohn" [label = "ancestor of"]
+    cedric -> william [label = "child of"]
+    martin -> william [label = "child of"]
+    gwenda -> william [label = "child of"]
+    gwenda -> tony [label = "ambivalent of"]
+    jean -> cedric [label = "spouse of"]
+    germaine -> martin [label = "spouse of"]
+    germaine -> gerald [label = "mistress of"]
+    gerald -> martin [label = "close friend of"]
+    george -> william [label = "employed by"]
+    winny -> george [label = "spouse of"]
+    anthony -> william [label = "collaborates with"]
+    tony -> anthony [label = "child of"]
+    claydon -> anthony [label = "employed by"]
+    david -> william [label = "colleague of"]
+    byrne -> william [label = "colleague of"]
+    byrne -> william [label = "enemy of"]
+
+    catherine -> anna [label = "close friend of"]
+    catherine -> anna [label = "colleague of"]
+    lauretta -> anna [label = "parent of"]
+    mary -> lauretta [label = "old friend of"]
+    matthew -> anna [label = "husband of"]
+    edward -> anna [label = "would like to know"]
+    martin -> anna [label = "has met"]
+}
+
