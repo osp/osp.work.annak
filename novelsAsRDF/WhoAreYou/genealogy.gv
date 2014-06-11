@@ -1,0 +1,13 @@
+digraph {
+    graph[splines=true, overlap=false, fontname="Karla", ratio=expand, size=20]
+
+    MrDogHead -> elle [label = "ambivalent of"]
+    elle -> MrDogHead [label = "spouse of"]
+    elle -> BottesDeDaim [label = "would like to know"]
+    BottesDeDaim -> MrDogHead [label = "enemy of"]
+    boy -> MrDogHead [label = "employed by"]
+    boy -> elle [label = "enemy of"]
+    dr -> elle [label = "neighbor of"]
+    dr -> MrDogHead [label = "neighbor of"]
+}
+
