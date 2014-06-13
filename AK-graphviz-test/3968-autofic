@@ -1,0 +1,58 @@
+digraph {
+
+// HF/AK
+ {
+   AK[label="Anna Kavan\n1939-1968"];
+ }
+
+// Bibliography as author Anna Kavan
+ {
+  Asylum[label="1940\nAsylum piece and other stories"];
+  CTN[label="1941\nChange the name"];
+  Lazarus[label="1945\nI am Lazarus"];
+  SHHH[label="1948\nSleep has his house"];
+  Scarcity[label="1956\nA scarcity of love"];
+  Eagle[label="1957\nEagle's nest"];
+  Bright[label="1958\nA bright green field"];
+  WAY[label="1963\nWho Are You?"];
+  Ice[label="1967\nIce"];
+ }
+ 
+// villes & pays
+ { 
+   Bellevue[label="Sanitarium Bellevue\n Asylum"]
+   London_1925[label="1925\nLeaving her husband in Burma\nKavan returns to London"];
+   London_1943[label="1943\nWork at Mill Hill Hospital\nWork for Horizon review\nback to London"];
+   SA_1947[label="1947,48,49\nKavan visits her mother"];
+   NY[label="1939,40,43\nKavan stopped by 3 times\nin New-York"];
+   Far_east[label="1919\nMarries Donald Ferguson\nCouple moves to Burma"];
+   Auckland[label="1941-42\nKavan spent\n22 months in NZ"];  
+ }
+ 
+// Travels 1901 - 1939
+ { 
+   AK -> Bellevue
+   AK -> London_1925
+   AK -> London_1943
+   AK -> Far_east
+   AK -> SA_1947
+   AK -> NY
+   AK -> Auckland  
+ }
+   
+// Autofictional sources
+ {
+ 	Bellevue -> Asylum [dir=forward color="grey"]
+ 	Bellevue -> SHHH [dir=forward color="yellow"]
+ 	London_1943 -> Lazarus [dir=forward color="red"]
+ 	London_1925 -> CTN [dir=forward color="brown"]
+ 	Far_east -> CTN [dir=forward color="brown"]
+ 	Far_east -> WAY [dir=forward color="blue"]
+ 	SA_1947 -> Scarcity [dir=forward color="green"]
+ 	NY -> Bright [dir=forward color="purple"]
+ 	Auckland -> Ice [dir=forward color="pink"]
+ }
+ 
+}
+
+

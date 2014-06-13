@@ -1,0 +1,52 @@
+digraph {
+
+// Labels WWII life experience
+ {
+	3945[label="1939/1945"];
+	4345[label="London 1943/1945"];
+	travel[label="Travels"];
+	biblio[label="Bibliographie"];
+	horizon[label="Horizon\nassistant editor"];
+	MHEH[label="Mill Hill Emergency Hospital\nassistant researcher"];
+	1939[label="1939\nlegally changes name \nto Anna Kavan"];
+ }
+ 
+ // Labels bibliographie
+ {
+    asylum[label="Asylum Piece\n1940"]
+ 	change_the_name[label="Change The Name\n1941"]
+ 	lazarus[label="I Am Lazarus\n1945"]
+ 	lazarus_horizon[label="I Am Lazarus\n1943"]
+ 	NZ[label="New Zealand answer to an inquiry\n1943"]
+ 	face[label="Face of My People\n1944)"]
+ 	bill_william[label="The Case of Bill William\n1944"]
+ 	remember_NZ[label="5 Months Further\nWhat I remember about New Zealand\n1942-43"]
+}
+ 
+ // Autofiction
+ {
+   3945 -> 1939
+   1939 -> biblio [fontcolor="green" dir=forward color="green"]
+   1939 -> travel [fontcolor="blue" dir=forward color="blue"]
+   1939 -> 4345 [fontcolor="brown" dir=forward color="brown"]
+   travel -> NZ [fontcolor="blue" dir=forward color="blue"]
+   travel -> remember_NZ [fontcolor="blue" dir=forward color="blue"]
+   4345 -> MHEH [fontcolor="brown" dir=forward color="brown"]
+   4345 -> horizon [fontcolor="brown" dir=forward color="brown"]
+   horizon -> NZ
+   horizon -> bill_william
+   horizon -> face
+   horizon -> lazarus_horizon
+   lazarus_horizon -> lazarus
+   face -> lazarus
+   bill_william -> MHEH
+   biblio -> asylum [fontcolor="green" dir=forward color="green"]
+   biblio -> change_the_name [fontcolor="green" dir=forward color="green"]
+   biblio -> remember_NZ [fontcolor="green" dir=forward color="green"]
+   biblio -> lazarus [fontcolor="green" dir=forward color="green"]
+   
+ }
+ 
+}
+ 
+ 
