@@ -1,0 +1,62 @@
+digraph {
+
+// HF/AK
+ {
+   AK[label="Anna Kavan\nposthum"];
+ }
+
+// Published posthumously as author Anna Kavan
+ {
+  Julia[label="1970\nJulia and her bazooka"];
+  MySoul[label="1975\nMy soul in China"];
+  Mercury[label="1994\nMercury"];
+  Parson[label="1995\nThe parson"];
+  Guilty[label="2007\nGuilty"];
+ }
+ 
+// villes & pays
+ { 
+    UK[label="ENGLAND"];
+    Far_east[label="1919\nMarries Donald Ferguson\nCouple moves to Burma"];
+    London_1915[label="1915-18\nKavan sent to boarding school\nBack to London"];
+    SoF_32[label="1932-34\nTravels to\nFrance, Italy, Spain,\nand the Pyrenees"];
+    Bellevue[label="Sanitarium Bellevue"]
+    Carmel[label="1940\nKavan stayed\n6 months in Carmel"];
+   	island[label="1940\nKavan spent\n6 months on the island"]
+   	Oslo [label="1939\nLegally changes name \nMoves to New York\nWaiting for a boat in Oslo"]
+   	Auckland[label="1941-42\nKavan spent\n22 months in NZ"];
+   	London_1938[label="1938\nSecond marriage dissolves\nKavan attempts suicide\nadmitted to sanitarium"];
+ }
+ 
+// Travels 1901 - 1939
+ { 
+   AK -> UK
+   AK -> Far_east
+   UK -> London_1915
+   AK -> London_1938
+   AK -> SoF_32
+   AK -> Bellevue
+   AK -> Carmel
+   AK -> island
+   AK -> Oslo
+   AK -> Auckland 
+ }
+   
+// Autofictional sources
+ {
+ 	London_1915 -> Julia [dir=forward color="red"]
+ 	London_1938 -> Julia [dir=forward color="red"]
+ 	Far_east -> Julia [dir=forward color="red"]
+ 	UK -> Julia [dir=forward color="red"]
+ 	SoF_32 -> Julia [dir=forward color="red"]
+ 	Bellevue -> Julia [dir=forward color="red"]
+ 	Carmel -> MySoul [dir=forward color="yellow"]
+ 	island -> MySoul [dir=forward color="yellow"]
+ 	Oslo -> Mercury [dir=forward color="blue"]
+ 	Far_east -> Mercury [dir=forward color="blue"]
+ 	Auckland -> Mercury [dir=forward color="blue"]
+ 	Far_east -> Parson [dir=forward color="green"]
+ }
+}
+
+
