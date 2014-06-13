@@ -1,4 +1,4 @@
-# Déclaration de l'ensemble des protagonistes
+# Characters
 
 _:annak      foaf:name           "Anna Kavan" .
 _:matthew    foaf:name           "Matthew Kavan" .
@@ -21,7 +21,7 @@ _:hubert     foaf:name           "Hubert Byrne" .
 _:george     foaf:name           "George West" .
 _:winny      foaf:name           "Winny West" .
  
-# Description des relations de la famille Lewison
+# Relationships around the Lewisons
  
 _:william    rel:ancestorOf       _:Joseph Lewisohn .
 _:cedric     rel:childOf          _:william .
@@ -30,18 +30,18 @@ _:gwenda     rel:childOf          _:william ;
              rel:ambivalentOf     _:tony .
 _:jean       rel:spouseOf         _:cedric .
 _:germaine   rel:spouseOf         _:martin ;
-             rel:mistressOf       _:gerald . 
-_:gerald     rel:closeFriendOf    _:martin .
+             ak:mistressOf       _:gerard . 
+_:gerard     rel:closeFriendOf    _:martin .
 _:george     rel:employedBy       _:william .
 _:winny      rel:spouseOf         _:george .
 _:anthony    rel:collaboratesWith _:william .
 _:tony       rel:childOf          _:anthony
 _:claydon    rel:employedBy       _:anthony .     
 _:david      rel:colleagueOf      _:william .
-_:byrne      rel:colleagueOf      _:william ;
+_:hubert      rel:colleagueOf      _:william ;
              rel:enemyOf          _:william .
    
-# Description des relations autour du personnage Anna Kavan
+# Relationships around Anna Kavan
  
 _:catherine  rel:closeFriendOf   _:anna ;
              rel:colleagueOf     _:anna ;
@@ -51,126 +51,96 @@ _:matthew    rel:husbandOf       _:anna .
 _:edward     rel:wouldLikeToKnow _:anna .
 _:martin     rel:hasMet          _:anna .
 
-# Plot - part One
+# Plot - part 1
+# Scene 1: A clandestine love affair discovered
+_:germaine   rel:spouseOf         _:martin .
+_:gerard     rel:closeFriendOf    _:martin .
+_:germaine   ak:mistressOf       _:gerard . 
 
-_:LoveAffair dc:title            "A Clandestine Love Affair Discovered" ;
-             bio:place           "Paris" ;
-             bio:participant     "Germaine Lewison" ;
-             bio:participant     "Gerald Gill" ;
-             bio:participant     "Claydon" ;
-             bio:participant     "Martin Lewison" ;
+_:claydon    rel:employedBy      _:anthony ;
+             bio:position        "detective" ;
+             bio:followingEvent  "The 2 lovers discovered in an hotel room in Paris" ;
+             bio:place           "Paris" .
 
-            _:claydon    rel:employedBy      _:anthony ;
-                         bio:position        "detective" ;
-
-            _:anthony    rel:collaboratesWith _:william ;
-                         bio:position        "lawyer" ; 
+_:martin     rel:childOf          _:william .
+_:anthony    rel:collaboratesWith _:william ;
+             bio:position         "lawyer" .
                          
-             bio:event           "The 2 lovers discovered in an hotel room in Paris".
-            
-_:Divorce    dc:title            "Divorce proceedure engaged by Martin" ;
-             bio:place           "London" ;
-             bio:participant     "Martin Lewison" ;
-             bio:participant     "Germaine Lewison" ;
-             bio:participant     "Gerald Gill" ;
-             bio:participant     "Anthony Quested" ;
-             bio:participant     "william Lewison" ;
-             bio:event           "Done with the divorce".
+_:e          a                    bio:Divorce ;
+             bio:partner          _:martin ;
+             bio:partner          _:germaine ;
+             bio:place            _:london .
              
-_:LetMeAlone   dc:title            "Anna Kavan Desire Of Emancipation" ;
+# Scene 2: Let Me Alone, Anna Kavan's desire of emancipation
                
-               bio:place           "Thazila";
-               bio:participant     "Matthew Kavan" ;
-               bio:position        "Assistant Locomotive Super Intendant" ;
-               
-               bio:place           "London" ;
-               bio:participant     "Anna Kavan" ;
-               bio:participant     "Catherine Howard" ;
-               bio:participant     "Sir Edward Wilbur" ;
-               
-              _:catherine  rel:closeFriendOf   _:anna ;
-                           rel:colleagueOf     _:anna ;
-                           bio:position        "Partners in a Fashion Shop Buisiness" ;
-                           bio:event           "Conflictual situation" ;
-               
-              _:edward     rel:wouldLikeToKnow _:anna ;
-                           bio:event           "Anna practices evasion (to South of France)" ;    
-          
-               bio:place           "Nice" ;
-               bio:participant     "Anna Kavan" ;
-               bio:participant     "Lauretta" ;
-               bio:event           "Unexpected Visit to the Rich Old Aunt" .      
+_:matthew     bio:place           "Thazila";
+              bio:position        "Assistant locomotive super intendant" .
+
+
+_:catherine  rel:closeFriendOf     _:anna ;
+             rel:colleagueOf       _:anna ;
+             bio:position          "Partners in a fashion shop" ;
+             bio:place             "London" ;
+             bio:followingEvent    "Conflictual situation" .
+ 
+_:edward     rel:wouldLikeToKnow   _:anna .
+
+_:anna       bio:emigration        "Nice" ;
+             bio:participant       "Lauretta" ;
+             bio:concurringEvent   "Unexpected visit to the rich old aunt" .      
+    
    
 
-# Plot - part Two
-
-_:DirtyTricks    dc:title            "Dirty Trick from A Partner. And more";
-                 bio:place           "London" ;
-                 bio:organization    "Cray River Development Trust" ;
-                 bio:participant     "William Lewison" ;
-                 bio:participant     "Hubert Byrne" ;
-                 bio:participant     "David Fairbrother" ;
-                 bio:participant     "Cedric Lewison" ;
-                 bio:participant     "Martin Lewison" ;
-                 bio:participant     "Gwenda Lewison" ;
-                 bio:participant     "Gerald Gill" ;
-                 bio:participant     "Germaine Lewison" ;
-                 bio:participant     "Anthony Quested" ;
-                 bio:participant     "Tony Quested" ;
+# Plot - part 2
+# Scene 1: Dirty trick from a partner. And more.
                  
-               _:byrne     rel:playingWith     _:william ;
-                           rel:playingWith     _:david ;
-                           rel:hasMet          _:anthony ;
-                           rel:hasMet          _:cedric ;
-                           rel:wouldLikeToKnow _:tony .
-               _:tony      rel:playingWith     _:gwenda .
-               _:gerald    rel:playingWith     _:germaine .
-                           
-                 bio:initiatingEvent "Chauffeur George West, William Lewison, Gwenda and boy Martin                                       off to South of France" ;
-                 bio:interval        "Tribulations in Bandol" ;
-                 bio:concludingEvent "How Hubert Byrne betrayed William acquiring Fairbrother parts                                       holding yet the majority shares of the company" .
-                 
-_:Romance        dc:title            "Anna Kavan mythological incounter with a painter in the South                                           of France";
-                 bio:place           "Bandol, Toulon" ;
-                 bio:participant     "Anna Kavan" ;
-                 bio:participant     "Lauretta" ;
-                 bio:participant     "Mary Graham" ;
-                 bio:participant     "Martin Lewison" ; 
-                 bio:participant     "Gwenda Lewison" ; 
-                 bio:participant     "William Lewison" ;
-                 bio:participant     "George West" ;    
-                
-                _:mary      rel:oldFriendOf     _:lauretta ;
-                            bio:position        "Lauretta's eye on Anna" .
-               _:martin     rel:hasMet          _:anna .
-                
-                 bio:initatingEvent     "When Anna meets Stuart Martin Edmonds" ;
-                 bio:interval           "Anna & Martin travel to the Gardone Lake, Italy" ;
-                 bio:concludingEvent    "An affair of wronging one's own soul : Martin would never                                           marry Anna" .      
+_:hubert     bio:place            "London" ;
+             bio:organization     "Cray River Development Trust" ;
+             ak:playingWith       _:william ;
+             ak:playingWith       _:david ;
+             rel:hasMet           _:anthony ;
+             rel:hasMet           _:cedric ;
+             rel:wouldLikeToKnow  _:tony .
+_:tony       ak:playingWith       _:gwenda .
+_:gerard     ak:playingWith       _:germaine .
+                          
+_:e          a                    transit:dropoff ;
+             transit:agency       _:george ;
+             bio:participant      _:william ;
+             bio:participant      _:gwenda ;
+             bio:participant      _:martin ;
+             bio:place            "Bandol" .
 
-# Plot - part Three
+_:hubert     bio:organization     "Fairbrother" ;
+             bio:promotion        "Acquires majority shares." .
 
-_:BackHome       dc:title            "One way or another, they all get back to London ";
-                 bio:place           "Toulon, Gardone, Thazila, London" ;
-                 bio:participant     "Anna Kavan" ;
-                 bio:participant     "Matthew Kavan" ;
-                 bio:participant     "Martin Lewison" ; 
-                 bio:participant     "Gwenda Lewison" ; 
-                 bio:participant     "William Lewison" ;
-                 bio:participant     "George West" ;
+
+# Scene 2: Anna Kavan's mythological incounter with a painter in the South of France
+
+_:mary       rel:oldFriendOf      _:lauretta ;
+             bio:spectator        _:anna .
+_:martin     rel:hasMet           _:anna .
+ 
+
+# Plot - part 3
                  
-                 _:byrne        rel:colleagueOf      _:william ;
-                                rel:enemyOf          _:william ;
-                                bio:initiatingEvent "William Lewison travels back to England" ;
-                                bio:interval        "William visits his associate Byrne who                                                      announces him the new deal" ;
-                                bio:concludingEvent "William gets a heart attack. Martin & Gwenda                                                        urgently came back home to take care of their                                                       father" .
-                                
-                 _:george       bio:event           "George, convalescent, travels back to England                                                       and finds his wife Winny " .   
-                                        
-                 _:matthew      rel:husbandOf       _:anna ;
-                                bio:event           "After 2 years in Burma, Matthew goes back in                                                        England rabies in the heart being                                                       informed by a letter from his wife that she                                                         did not intend to live with him again" .
-                                
-                 _:anna         bio:event           "Anna Kavan travels back to England. Once in                                                         London, she sees her own error and                                                      send a cable to her husband".  
-                                
-                _:martin        bio:event           "Germaine & Gerald gone together, Martin starts                                                      to paint again alone in his studio. After                                                       several days, on his canvas, it was the                                                         likeness of a young woman which confronted                                                      him". 
+_:hubert     bio:promotion        "Acquires majority shares." ;
+             bio:organization     "Fairbrother" .
+ _william    transit:stop         "London" ;
+             bio:demotion         "Fairbrother" .
+             bio:concludingEvent "William gets a heart attack" .
+ _:martin    transit:stop         "London" .
+ _:gwenda    transit:stop         "London" .
+               
+_:anna        rel:spouseOf        _:matthew;
+              bio:initiatingEvent "tells him she doesn't want to live with him anymore" .
+_:matthew     transit:fromStop    "Burma" ;
+              transit:toStop      "London" .
+              
+_:anna        transit:stop        "London" ;
+_:anna        bio:concludingEvent "sees her own error and sends a cable to her husband".  
+               
+_:germaine    rel:spouseOf        _:martin ;
+_:germaine    transit:route       _:gerard ;
+              bio:concludingEvent "Martin starts to paint again alone in his studio. It was the likeness of a young woman confronting him on his canvas". 
 
