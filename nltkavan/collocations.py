@@ -1,4 +1,4 @@
-#! /usr/bin/python2
+#! /usr/bin/python
 
 # Finds bigrams (word couples) in a text
 #
