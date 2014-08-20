@@ -4,13 +4,15 @@ import os
 import sys
 import nltk
 
-LOCAL_PATH = sys.argv[1]
-PROJECT_DIR = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
-TEXT_DIR = PROJECT_DIR + "/" + "/".join(LOCAL_PATH.split("/")[1:-1]) + "/"
-text =  LOCAL_PATH.split("/")[-1]
+#LOCAL_PATH = sys.argv[1]
+#PROJECT_DIR = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
+#TEXT_DIR = PROJECT_DIR + "/" + "/".join(LOCAL_PATH.split("/")[1:-1]) + "/"
+#text =  LOCAL_PATH.split("/")[-1]
 
-corpus = nltk.corpus.PlaintextCorpusReader(TEXT_DIR, [text])
-n_text = nltk.text.Text(corpus.words(text))
+(txt_dir, txt_name) = os.path.split(sys.argv[1])
+
+corpus = nltk.corpus.PlaintextCorpusReader(txt_dir, [txt_name])
+n_text = nltk.text.Text(corpus.words(txt_name))
 
 stopwords = nltk.corpus.stopwords.words("english")
 
@@ -28,4 +30,4 @@ def diff(a, b):
 
 output = diff(unusual_words(n_text), stopwords)
 
-print( "\n".join(output))
+print( "\n".join(output)).encode("utf-8")

@@ -13,9 +13,11 @@ import os
 import sys
 
 
-LOCAL_PATH = sys.argv[1]
-PROJECT_DIR = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
-text = PROJECT_DIR + LOCAL_PATH.strip(".")
+#LOCAL_PATH = sys.argv[1]
+#PROJECT_DIR = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
+#text = PROJECT_DIR + LOCAL_PATH.strip(".")
+
+text = sys.argv[1]
 
 f = open(text, "r")
 text = f.readlines()
@@ -48,5 +50,5 @@ for line in text:
 tmp.close()
 
 # Sort list and remove duplicates
-os.system("cat /tmp/proper.txt | sort | uniq") 
+os.system("cat /tmp/proper.txt | sort | uniq")
 
