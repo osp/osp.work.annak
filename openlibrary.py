@@ -1,3 +1,5 @@
+# Prints a list of Open Library pages (related to Anna Kavan) to index
+
 import requests
 import json
 
@@ -5,18 +7,11 @@ import json
 author_key = 'OL200810A'
 
 
-#r = requests.get('http://openlibrary.org/query.json?type=/type/edition&authors=/authors/%s' % author_key)
-
-#data = r.json()
-
-#for i in data:
-    #print(i)
+print('https://openlibrary.org/authors/OL200810A/Anna_Kavan')
 
 r1 = requests.get('http://openlibrary.org/authors/%s/works.json' % author_key)
 
 works = r1.json()
-
-#print(json.dumps(data, sort_keys=True, indent=2))
 
 for work in works['entries']:
     print('https://openlibrary.org%s.rdf' % work['key'])
