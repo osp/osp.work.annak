@@ -1,3 +1,5 @@
+#! /usr/bin/env python2
+
 import nltk
 
 file = open("../osp.work.annak.books/AK/Ice/Ice.txt", "r")
@@ -13,12 +15,3 @@ ice_names = ["girl", "husband", "warden","I", "you", "he", "she", "we", "they"]
 
 # text.dispersion_plot(ice_locations)
 text.dispersion_plot(ice_names)
-
-
-       
- 
-      
-       
-
- 
-     

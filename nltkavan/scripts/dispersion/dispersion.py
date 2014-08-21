@@ -1,3 +1,5 @@
+#! /usr/bin/env python2
+
 import nltk
 
 file = open("../books-AK/Ice/Ice.txt", "r")

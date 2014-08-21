@@ -9,4 +9,3 @@
 
 
 cat $1 | tr -d "[:punct:]"  | tr " " "\n" | sort  | uniq -ci | sort -nr
-

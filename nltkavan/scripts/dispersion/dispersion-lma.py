@@ -1,3 +1,5 @@
+#! /usr/bin/env python2
+
 import nltk
 
 file = open("../osp.work.annak.books/AK/LetMeAlone/let_me_alone-all.txt", "r")

@@ -1,3 +1,5 @@
+#! /usr/bin/env python2
+
 import nltk
 
 file = open("../osp.work.annak.books/AK/AStrangerStill/a_stranger_still.txt", "r")
@@ -13,10 +15,3 @@ ss_names = ["William","Cedric","Jean","Martin","Germaine","Gwenda","Gerald","Ant
 
 # text.dispersion_plot(ss_locations)
 text.dispersion_plot(ss_names)
-
-       
-
-       
-
- 
-     

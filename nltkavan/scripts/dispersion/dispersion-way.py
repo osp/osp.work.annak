@@ -1,3 +1,5 @@
+#! /usr/bin/env python2
+
 import nltk
 
 file = open("../osp.work.annak.books/AK/WhoAreYou/who_are_you-all.txt", "r")
@@ -14,9 +16,9 @@ way_names = ["girl","birds", "Dog", "Head","rats","Dirwaza","Khan","Suede","Boot
 # text.dispersion_plot(way_locations)
 text.dispersion_plot(way_names)
 
-       
-  
-       
 
- 
-     
+
+
+
+
+

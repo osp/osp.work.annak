@@ -6,11 +6,11 @@
 # ./compare.sh /path/to/file1.txt /path/to/file2.txt
 #
 # Outputs a list of common words of two texts
-# ./compare.sh /path/to/file1.txt /path/to/file2.txt common 
+# ./compare.sh /path/to/file1.txt /path/to/file2.txt common
 
-if [ "$3" = "common" ]; 
+if [ "$3" = "common" ];
     then
-       comm -12 $1 $2
+        comm -12 $1 $2
     else
         comm $1 $2
 fi

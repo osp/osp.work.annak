@@ -6,5 +6,4 @@
 #
 # ./lexique.sh /path/to/file.txt
 
-cat $1 | tr -d "[:punct:]"  | tr " " "\n" | sort  | uniq -i 
-
+cat $1 | tr -d "[:punct:]"  | tr " " "\n" | sort  | uniq -i
