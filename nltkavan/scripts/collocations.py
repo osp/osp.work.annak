@@ -30,6 +30,12 @@ def collocations(text):
     finder.apply_word_filter(lambda w: len(w) < 3 or w.lower() in ignored_words)
     bigrams = finder.nbest(bigram_measures.likelihood_ratio, 20)
 
-    return dumps ({'name': text, 'bigrams': bigrams})
+    for bigram in bigrams:
+        print(" ".join(bigram).encode('utf-8'))
 
-print(collocations(txt_name))
+
+
+    #return dumps ({'name': text, 'bigrams': bigrams})
+
+#print(collocations(txt_name))
+collocations(txt_name)

@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*- 
+# -*- coding: utf-8 -*-
 
 
 import nltk
@@ -31,7 +31,6 @@ def concordance():
 def similar():
     text.similar('ice')
 
-
 def common_context():
     text.common_contexts(['Helen', 'Anna'])
 
@@ -58,9 +57,8 @@ def fdist():
 
     ctx = {
         'wl': fd.keys()[:50]
-
     }
-    
+
     return u"""
         <p>
         Les mots 50 mots les plus fréquents sont {wl}
@@ -72,7 +70,7 @@ def generate():
     settings.configure(
         TEMPLATE_DIRS=(os.path.join(PROJECT_DIR, 'templates'),),
     )
-    
+
     body = u"".join([
         len_statistics(),
         fdist(),
@@ -85,4 +83,9 @@ def generate():
     f.close()
 
 if __name__ == '__main__':
-    generate()
+    #generate()
+    plot_proper()
+    concordance()
+    similar()
+    common_context()
+
