@@ -8,18 +8,11 @@ from django.template import loader
 from django.conf import settings
 
 
-DC = rdflib.Namespace("http://purl.org/dc/elements/1.1/")
-BIB = rdflib.Namespace("http://purl.org/net/biblio#")
-Z = rdflib.Namespace("http://www.zotero.org/namespaces/export#")
-
-
-rdflib.plugin.register(
-    'sparql', rdflib.query.Processor,
-    'rdfextras.sparql.processor', 'Processor')
-
-rdflib.plugin.register(
-    'sparql', rdflib.query.Result,
-    'rdfextras.sparql.query', 'SPARQLQueryResult')
+ns = {
+    'dc': rdflib.Namespace("http://purl.org/dc/elements/1.1/"),
+    'bib': rdflib.Namespace("http://purl.org/net/biblio#"),
+    'z': rdflib.Namespace("http://www.zotero.org/namespaces/export#")
+}
 
 
 graph = rdflib.Graph()
@@ -33,7 +26,7 @@ book_list = graph.query("""\
         ?s dc:date ?date .
         ?s dc:date ?date .
         ?s z:language ?language .
-    }""", initNs=dict(bib=BIB, dc=DC, z=Z))
+    }""", initNs=ns)
 
 
 PROJECT_DIR = os.path.abspath(os.path.dirname(__file__))
@@ -42,7 +35,7 @@ settings.configure(
 )
 t = loader.get_template('gallery.html')
 c = Context({
-    'namespace_list': {'dc': DC, 'bib': BIB, 'rdf': RDF, 'z': Z},
+    'namespace_list': ns,
     'book_list': book_list
 })
 

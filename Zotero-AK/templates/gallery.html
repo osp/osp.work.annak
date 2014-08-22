@@ -40,7 +40,8 @@
 <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
-<script src="http://vestride.github.io/Shuffle/jquery.shuffle.min.js"></script>
+<script src="http://vestride.github.io/Shuffle/dist/jquery.shuffle.modernizr.js"></script>
+<script src="http://vestride.github.io/Shuffle/dist/jquery.shuffle.min.js"></script>
 <script>
 $(function() {
     var $grid = $('section');
@@ -68,11 +69,11 @@ $(function() {
     }).get().sort());
 
     var elt = $('<div>');
-    
+
     $.each(languages, function(index, value) {
         var label = $('<label>').text(value);
         var input = $('<input>').attr({
-            name: 'language', 
+            name: 'language',
             value: value,
             type: 'checkbox'
         });
