@@ -9,7 +9,9 @@ from optparse import OptionParser
 
 def dispersion(text, words):
     tokens = nltk.word_tokenize(text)
-    text = nltk.Text(tokens)
+    
+    # Passing a name fixes the UnicodeEncodeError we might encounter
+    text = nltk.Text(tokens, name="test")
     text.dispersion_plot(words)
 
 
