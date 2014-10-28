@@ -15,7 +15,10 @@
    id="svg3539"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="StrangerStill-manual.svg">
+   sodipodi:docname="StrangerStill-manual.svg"
+   inkscape:export-filename="/home/svilayphiou/work/osp.work.annak/novelsAsRDF/StrangerStill/StrangerStill-manual.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
   <defs
      id="defs3541">
     <inkscape:path-effect
@@ -237,9 +240,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71049785"
-     inkscape:cx="1062.5491"
-     inkscape:cy="-1676.9418"
+     inkscape:zoom="1"
+     inkscape:cx="390.74476"
+     inkscape:cy="236.08236"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -258,7 +261,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -880,9 +883,9 @@
        id="text9524"
        y="693.76843"
        x="808.87488"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="693.76843"
          x="808.87488"
          id="tspan9526"
@@ -892,9 +895,9 @@
        y="669.08728"
        font-size="8.00"
        id="text6522-6"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan6991-3">rel: employedBy</tspan>
     </text>
     <g
@@ -902,7 +905,7 @@
        transform="translate(-615.8931,-22.6732)">
       <ellipse
          transform="matrix(0.91736967,0,0,0.72304363,-335.68705,838.37628)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.52604735"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.52604735"
          sodipodi:ry="18"
          sodipodi:rx="32.43"
          sodipodi:cy="-1079.48"
@@ -914,13 +917,13 @@
          cy="-1079.48"
          cx="1090.4399" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text294"
          font-size="8.00"
          y="59.600452"
          x="664.43219">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan6985">Anna Kavan</tspan>
       </text>
     </g>
@@ -929,7 +932,7 @@
        transform="translate(-610.0965,-19.4945)">
       <ellipse
          transform="matrix(0.99845341,0,0,0.72304363,4.8100827,898.98856)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.46277082"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.46277082"
          sodipodi:ry="18"
          sodipodi:rx="38.663101"
          sodipodi:cy="-1170.11"
@@ -941,13 +944,13 @@
          cy="-1170.11"
          cx="736.83502" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text255"
          font-size="8.00"
          y="54.683296"
          x="739.41888">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan6983">Matthew Kavan</tspan>
       </text>
     </g>
@@ -965,16 +968,16 @@
          sodipodi:cy="-1079.48"
          sodipodi:rx="32.43"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.88316262"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.88316262"
          transform="matrix(0.60242747,0,0,0.72304363,7.5212045,838.37628)" />
       <text
          x="664.43219"
          y="59.600452"
          font-size="8.00"
          id="text6570"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan6987">annak</tspan>
       </text>
     </g>
@@ -992,16 +995,16 @@
          sodipodi:cy="-1170.11"
          sodipodi:rx="38.663101"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.71892905"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.71892905"
          transform="matrix(0.72304363,0,0,0.72304363,206.6551,898.98856)" />
       <text
          x="739.41888"
          y="54.683296"
          font-size="8.00"
          id="text6576"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan6989">matthew</tspan>
       </text>
     </g>
@@ -1010,7 +1013,7 @@
        transform="translate(159.5438,-25.553)">
       <ellipse
          transform="matrix(0.97172634,0,0,0.72304363,-41.744575,516.06891)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.48275101"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.48275101"
          sodipodi:ry="18"
          sodipodi:rx="42.818401"
          sodipodi:cy="-632.01501"
@@ -1022,13 +1025,13 @@
          cy="-632.01501"
          cx="105.094" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text340"
          font-size="8.00"
          y="60.829792"
          x="61.464584">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan6981">Catherine Howard</tspan>
       </text>
     </g>
@@ -1046,16 +1049,16 @@
          sodipodi:cy="-632.01501"
          sodipodi:rx="42.818401"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.85398185"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.85398185"
          transform="matrix(0.62154048,0,0,0.72304363,-3.4209706,516.06891)" />
       <text
          x="61.464584"
          y="60.829792"
          font-size="8.00"
          id="text6522"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan6991">catherine</tspan>
       </text>
     </g>
@@ -1064,7 +1067,7 @@
        transform="translate(-225.0685,-26.7822)">
       <ellipse
          transform="matrix(0.72304363,0,0,0.72304363,-220.29781,455.87847)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.71892905"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.71892905"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1076,13 +1079,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text356"
          font-size="8.00"
          y="62.058971"
          x="519.99036">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan6973">Lauretta</tspan>
       </text>
     </g>
@@ -1100,16 +1103,16 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.71892905"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.71892905"
          transform="matrix(0.72304363,0,0,0.72304363,-220.29781,455.87847)" />
       <text
          x="519.99036"
          y="62.058971"
          font-size="8.00"
          id="text6558"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan6999">lauretta</tspan>
       </text>
     </g>
@@ -1127,17 +1130,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.31437111"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.31437111"
          transform="matrix(1.2366432,0,0,0.72304363,-4186.0403,5438.4363)" />
       <text
          x="-2920.0024"
          y="5044.6167"
          font-size="8.00"
          id="text4447"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan4449"
-           style="font-size:8px">Mary Graham</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">Mary Graham</tspan>
       </text>
     </g>
     <g
@@ -1145,7 +1148,7 @@
        transform="translate(3281.8174,-5009.34)">
       <ellipse
          transform="matrix(1.6779047,0,0,0.72304363,-4561.7086,5438.4363)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.12838304"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12838304"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1157,13 +1160,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4461"
          font-size="8.00"
          y="5044.6167"
          x="-2843.8306">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4463">Sir Edward Wilbur</tspan>
       </text>
     </g>
@@ -1172,7 +1175,7 @@
        transform="translate(-168.8185,13.2028)">
       <ellipse
          transform="matrix(0.5783677,0,0,0.72304363,-71.842962,455.87847)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.9219327"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.9219327"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1184,14 +1187,14 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4455"
          font-size="8.00"
          y="62.058971"
          x="519.99036">
         <tspan
            id="tspan4457"
-           style="font-size:8px">mary</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">mary</tspan>
       </text>
     </g>
     <g
@@ -1208,16 +1211,16 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.71039438"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.71039438"
          transform="matrix(0.73027742,0,0,0.72304363,-227.82672,455.87847)" />
       <text
          x="519.99036"
          y="62.058971"
          font-size="8.00"
          id="text4469"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4471">edward</tspan>
       </text>
     </g>
@@ -1235,17 +1238,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.1804204"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.1804204"
          transform="matrix(1.5332287,0,0,0.72304363,-4306.0792,5438.4363)" />
       <text
          x="-2736.0181"
          y="5044.6167"
          font-size="8.00"
          id="text4512"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan4514"
-           style="font-size:8px">William Lewison</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">William Lewison</tspan>
       </text>
     </g>
     <g
@@ -1253,7 +1256,7 @@
        id="g4544">
       <ellipse
          transform="matrix(1.5332287,0,0,0.72304363,-4215.0636,5438.4363)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.1804204"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.1804204"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1265,13 +1268,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4526"
          font-size="8.00"
          y="5044.6167"
          x="-2645.0024">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4528">Cedric Lewison</tspan>
       </text>
     </g>
@@ -1280,7 +1283,7 @@
        transform="translate(15.166,13.2028)">
       <ellipse
          transform="matrix(0.73027742,0,0,0.72304363,-227.82672,455.87847)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.71039438"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.71039438"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1292,14 +1295,14 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4520"
          font-size="8.00"
          y="62.058971"
          x="519.99036">
         <tspan
            id="tspan4522"
-           style="font-size:8px">william</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">william</tspan>
       </text>
     </g>
     <g
@@ -1316,16 +1319,16 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.71039438"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.71039438"
          transform="matrix(0.73027742,0,0,0.72304363,-227.82672,455.87847)" />
       <text
          x="519.99036"
          y="62.058971"
          font-size="8.00"
          id="text4534"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4536">cedric</tspan>
       </text>
     </g>
@@ -1343,17 +1346,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.29189563"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.29189563"
          transform="matrix(1.2800459,0,0,0.72304363,-3955.6264,5438.4363)" />
       <text
          x="-2645.0024"
          y="5044.6167"
          font-size="8.00"
          id="text4558"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan4560"
-           style="font-size:8px">Jean Lewison</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">Jean Lewison</tspan>
       </text>
     </g>
     <g
@@ -1361,7 +1364,7 @@
        id="g4601">
       <ellipse
          transform="matrix(0.64347186,0,0,0.72304363,-3217.6914,5478.4213)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.82211351"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.82211351"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1373,14 +1376,14 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4566"
          font-size="8.00"
          y="5084.6016"
          x="-2558.3796">
         <tspan
            id="tspan4568"
-           style="font-size:8px">jean</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">jean</tspan>
       </text>
     </g>
     <g
@@ -1397,16 +1400,16 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.82211351"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.82211351"
          transform="matrix(0.64347186,0,0,0.72304363,-3141.5195,5478.4213)" />
       <text
          x="-2482.2078"
          y="5084.6016"
          font-size="8.00"
          id="text4580"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4582">martin</tspan>
       </text>
     </g>
@@ -1415,7 +1418,7 @@
        id="g4570">
       <ellipse
          transform="matrix(1.3885528,0,0,0.72304363,-4066.5372,5438.4363)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.24039209"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.24039209"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1427,13 +1430,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4574"
          font-size="8.00"
          y="5044.6167"
          x="-2645.0024">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4576">Martin Lewison</tspan>
       </text>
     </g>
@@ -1448,16 +1451,16 @@
        sodipodi:cy="-547.06897"
        sodipodi:rx="27"
        sodipodi:ry="18"
-       style="fill:#ffd700;stroke:#000000;stroke-width:1.49041462"
+       style="fill:#e7ffed;stroke:#000000;stroke-width:1.49041462"
        transform="matrix(0.9617589,0,0,0.72304363,-102.2979,469.0813)" />
     <text
        x="882.42206"
        y="75.261574"
        font-size="8.00"
        id="text4610"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan4612">germaine</tspan>
     </text>
     <g
@@ -1474,16 +1477,16 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.71892905"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.71892905"
          transform="matrix(0.72304363,0,0,0.72304363,-3031.3082,5478.4213)" />
       <text
          x="-2290.8174"
          y="5084.6016"
          font-size="8.00"
          id="text4624"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4626">gerard</tspan>
       </text>
     </g>
@@ -1501,17 +1504,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.12354958"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12354958"
          transform="matrix(1.6923722,0,0,0.72304363,-4377.8507,5438.4363)" />
       <text
          x="-2645.0024"
          y="5044.6167"
          font-size="8.00"
          id="text4618"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan4620"
-           style="font-size:8px">Germaine Lewison</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">Germaine Lewison</tspan>
       </text>
     </g>
     <g
@@ -1531,17 +1534,17 @@
            sodipodi:cy="-547.06897"
            sodipodi:rx="27"
            sodipodi:ry="18"
-           style="fill:#ffd700;stroke:#000000;stroke-width:1.35039818"
+           style="fill:#e7ffed;stroke:#000000;stroke-width:1.35039818"
            transform="matrix(1.1715388,0,0,0.72304363,-3844.6543,5438.4363)" />
         <text
            x="-2645.0024"
            y="5044.6167"
            font-size="8.00"
            id="text4632"
-           style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+           style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
           <tspan
              id="tspan4634"
-             style="font-size:8px">Gerard Gill</tspan>
+             style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">Gerard Gill</tspan>
         </text>
       </g>
     </g>
@@ -1550,7 +1553,7 @@
        id="g4653">
       <ellipse
          transform="matrix(0.72304363,0,0,0.72304363,-3031.3082,5478.4213)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.71892905"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.71892905"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1562,14 +1565,14 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4657"
          font-size="8.00"
          y="5084.6016"
          x="-2290.8174">
         <tspan
            id="tspan4659"
-           style="font-size:8px">gwenda</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">gwenda</tspan>
       </text>
     </g>
     <g
@@ -1591,17 +1594,17 @@
              sodipodi:cy="-547.06897"
              sodipodi:rx="27"
              sodipodi:ry="18"
-             style="fill:#ffd700;stroke:#000000;stroke-width:1.18886399"
+             style="fill:#e7ffed;stroke:#000000;stroke-width:1.18886399"
              transform="matrix(1.5115272,0,0,0.72304363,-4181.3644,5438.4363)" />
           <text
              x="-2633.6743"
              y="5044.6167"
              font-size="8.00"
              id="text4667"
-             style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+             style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
             <tspan
                id="tspan4669"
-               style="font-size:8px">Gwenda Lewison</tspan>
+               style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">Gwenda Lewison</tspan>
           </text>
         </g>
       </g>
@@ -1620,16 +1623,16 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.99837756"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.99837756"
          transform="matrix(0.53496493,0,0,0.72304363,-2838.7438,5478.4213)" />
       <text
          x="-2291.2085"
          y="5084.6016"
          font-size="8.00"
          id="text4680"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4682">tony</tspan>
       </text>
     </g>
@@ -1638,7 +1641,7 @@
        id="g4736">
       <ellipse
          transform="matrix(1.873217,0,0,0.72304363,-4043.4774,5438.4363)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.06793809"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.06793809"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1650,13 +1653,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4692"
          font-size="8.00"
          y="5044.6167"
          x="-2125.5442">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4694">Anthony Quested Jr.</tspan>
       </text>
     </g>
@@ -1674,17 +1677,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.13823998"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.13823998"
          transform="matrix(1.6489694,0,0,0.72304363,-3704.3584,5438.4363)" />
       <text
          x="-2015.7786"
          y="5044.6167"
          font-size="8.00"
          id="text4706"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan4708"
-           style="font-size:8px">Anthony Quested</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">Anthony Quested</tspan>
       </text>
     </g>
     <g
@@ -1692,7 +1695,7 @@
        id="g4696">
       <ellipse
          transform="matrix(0.86771956,0,0,0.72304363,-3179.4147,5478.4213)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.56909955"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.56909955"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1704,14 +1707,14 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4700"
          font-size="8.00"
          y="5084.6016"
          x="-2291.2085">
         <tspan
            id="tspan4702"
-           style="font-size:8px">anthony</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">anthony</tspan>
       </text>
     </g>
     <g
@@ -1719,7 +1722,7 @@
        transform="translate(3369.3174,-5009.34)">
       <ellipse
          transform="matrix(1.1860064,0,0,0.72304363,-3242.4362,5438.4363)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.34213626"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.34213626"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1731,13 +1734,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4745"
          font-size="8.00"
          y="5044.6167"
          x="-2028.2786">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4747">Mr. Claydon</tspan>
       </text>
     </g>
@@ -1755,17 +1758,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.14074492"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.14074492"
          transform="matrix(1.6417356,0,0,0.72304363,-3708.9248,5438.4363)" />
       <text
          x="-2028.2786"
          y="5044.6167"
          font-size="8.00"
          id="text4766"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan4768"
-           style="font-size:8px">David Fairbrother</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">David Fairbrother</tspan>
       </text>
     </g>
     <g
@@ -1782,16 +1785,16 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.56909955"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.56909955"
          transform="matrix(0.86771956,0,0,0.72304363,-3179.4147,5478.4213)" />
       <text
          x="-2290.9312"
          y="5084.6016"
          font-size="8.00"
          id="text4753"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4755">claydon</tspan>
       </text>
     </g>
@@ -1800,7 +1803,7 @@
        id="g4770">
       <ellipse
          transform="matrix(0.70134224,0,0,0.72304363,-3008.874,5478.4213)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.74532056"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.74532056"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1812,14 +1815,14 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4774"
          font-size="8.00"
          y="5084.6016"
          x="-2291.2085">
         <tspan
            id="tspan4776"
-           style="font-size:8px">david</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">david</tspan>
       </text>
     </g>
     <g
@@ -1827,7 +1830,7 @@
        transform="translate(3548.2236,-5009.34)">
       <ellipse
          transform="matrix(1.2872796,0,0,0.72304363,-3347.7728,5438.4363)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.28826058"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.28826058"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1839,13 +1842,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4790"
          font-size="8.00"
          y="5044.6167"
          x="-2028.2786">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4792">Hubert Byrne</tspan>
       </text>
     </g>
@@ -1863,16 +1866,16 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.74532056"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.74532056"
          transform="matrix(0.70134224,0,0,0.72304363,-3008.874,5478.4213)" />
       <text
          x="-2291.2085"
          y="5084.6016"
          font-size="8.00"
          id="text4798"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4800">hubert</tspan>
       </text>
     </g>
@@ -1890,17 +1893,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.28826058"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.28826058"
          transform="matrix(1.2872796,0,0,0.72304363,-2995.8197,5438.4363)" />
       <text
          x="-1678.0273"
          y="5044.6167"
          font-size="8.00"
          id="text4806"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan4808"
-           style="font-size:8px">George West</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">George West</tspan>
       </text>
     </g>
     <g
@@ -1908,7 +1911,7 @@
        id="g4838">
       <ellipse
          transform="matrix(1.1426036,0,0,0.72304363,-2767.3764,5438.4363)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.3673898"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.3673898"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1920,13 +1923,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4820"
          font-size="8.00"
          y="5044.6167"
          x="-1597.5586">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4822">Winny West</tspan>
       </text>
     </g>
@@ -1935,7 +1938,7 @@
        id="g4810">
       <ellipse
          transform="matrix(0.70134224,0,0,0.72304363,-3008.874,5478.4213)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.74532056"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.74532056"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -1947,14 +1950,14 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text4814"
          font-size="8.00"
          y="5084.6016"
          x="-2291.2085">
         <tspan
            id="tspan4816"
-           style="font-size:8px">george</tspan>
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold">george</tspan>
       </text>
     </g>
     <g
@@ -1971,16 +1974,16 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.74532056"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.74532056"
          transform="matrix(0.70134224,0,0,0.72304363,-3008.874,5478.4213)" />
       <text
          x="-2291.2085"
          y="5084.6016"
          font-size="8.00"
          id="text4828"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan4830">winny</tspan>
       </text>
     </g>
@@ -2002,7 +2005,7 @@
          cx="865" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text14"
          font-size="14.00"
          y="5290.3179"
@@ -2022,7 +2025,7 @@
          cx="865" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text21"
          font-size="14.00"
          y="5344.9004"
@@ -2039,7 +2042,7 @@
          points="861.5,-46.084 868.5,-46.084 868.5,-46.084 865,-36.084 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text30"
          font-size="14.00"
          y="5317.6089"
@@ -2059,7 +2062,7 @@
          cx="827" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text37"
          font-size="14.00"
          y="5235.7349"
@@ -2076,7 +2079,7 @@
          points="840.961,-128.422 846.507,-132.693 846.507,-132.693 849.834,-122.634 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text46"
          font-size="14.00"
          y="5253.9097"
@@ -2096,7 +2099,7 @@
          cx="572" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text53"
          font-size="14.00"
          y="5235.7349"
@@ -2113,7 +2116,7 @@
          points="817.172,-106.738 817.702,-113.718 817.702,-113.718 827.408,-109.47 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text62"
          font-size="14.00"
          y="5263.0264"
@@ -2133,7 +2136,7 @@
          cx="263" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text69"
          font-size="14.00"
          y="5290.3179"
@@ -2150,7 +2153,7 @@
          points="300.349,-110.906 300.554,-103.909 300.554,-103.909 290.456,-107.114 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text78"
          font-size="14.00"
          y="5263.0264"
@@ -2170,7 +2173,7 @@
          cx="916" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text85"
          font-size="14.00"
          y="5126.5693"
@@ -2187,7 +2190,7 @@
          points="873.739,-134.361 880.217,-131.71 880.217,-131.71 873.191,-123.78 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text94"
          font-size="14.00"
          y="5195.2749"
@@ -2207,7 +2210,7 @@
          cx="949" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text101"
          font-size="14.00"
          y="5181.1519"
@@ -2224,7 +2227,7 @@
          points="935.756,-307.745 942.291,-310.253 942.291,-310.253 942.606,-299.663 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text110"
          font-size="14.00"
          y="5153.8608"
@@ -2244,7 +2247,7 @@
          cx="961" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text117"
          font-size="14.00"
          y="5235.7349"
@@ -2261,7 +2264,7 @@
          points="953.745,-221.67 960.677,-222.638 960.677,-222.638 958.593,-212.25 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text126"
          font-size="14.00"
          y="5208.4434"
@@ -2281,7 +2284,7 @@
          cx="819" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text133"
          font-size="14.00"
          y="5181.1519"
@@ -2298,7 +2301,7 @@
          points="817.697,-221.185 824.578,-222.467 824.578,-222.467 822.97,-211.995 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text142"
          font-size="14.00"
          y="5208.4434"
@@ -2318,7 +2321,7 @@
          cx="585" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text149"
          font-size="14.00"
          y="5126.5693"
@@ -2335,7 +2338,7 @@
          points="594.522,-219.261 599.706,-214.557 599.706,-214.557 590.394,-209.504 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text158"
          font-size="14.00"
          y="5181.1519"
@@ -2355,7 +2358,7 @@
          cx="529" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text165"
          font-size="14.00"
          y="5181.1519"
@@ -2372,7 +2375,7 @@
          points="530.394,-310.648 537.204,-309.028 537.204,-309.028 531.484,-300.11 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text174"
          font-size="14.00"
          y="5153.8608"
@@ -2389,7 +2392,7 @@
          points="537.887,-210.329 542.075,-215.938 542.075,-215.938 547.994,-207.151 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text183"
          font-size="14.00"
          y="5208.4434"
@@ -2409,7 +2412,7 @@
          cx="1054" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text190"
          font-size="14.00"
          y="5235.7349"
@@ -2426,7 +2429,7 @@
          points="912.872,-111.922 913.438,-104.945 913.438,-104.945 903.188,-107.625 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text199"
          font-size="14.00"
          y="5263.0264"
@@ -2446,7 +2449,7 @@
          cx="1124" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text206"
          font-size="14.00"
          y="5181.1519"
@@ -2463,7 +2466,7 @@
          points="1082.72,-216.498 1086.78,-210.799 1086.78,-210.799 1076.61,-207.842 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text215"
          font-size="14.00"
          y="5208.4434"
@@ -2480,7 +2483,7 @@
          points="887.812,-131.477 892.421,-126.208 892.421,-126.208 882.59,-122.258 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text224"
          font-size="14.00"
          y="5252.897"
@@ -2500,7 +2503,7 @@
          cx="1032" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text231"
          font-size="14.00"
          y="5181.1519"
@@ -2517,7 +2520,7 @@
          points="987.246,-218.257 991.663,-212.827 991.663,-212.827 981.697,-209.231 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text240"
          font-size="14.00"
          y="5208.4434"
@@ -2537,7 +2540,7 @@
          cx="1139" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text247"
          font-size="14.00"
          y="5235.7349"
@@ -2554,7 +2557,7 @@
          points="912.738,-112.184 913.061,-105.191 913.061,-105.191 902.91,-108.227 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text256"
          font-size="14.00"
          y="5253.4028"
@@ -2574,7 +2577,7 @@
          cx="714" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text263"
          font-size="14.00"
          y="5235.7349"
@@ -2591,7 +2594,7 @@
          points="816.54,-105.41 816.94,-112.398 816.94,-112.398 826.724,-108.333 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text272"
          font-size="14.00"
          y="5252.897"
@@ -2608,7 +2611,7 @@
          points="823.23,-116.616 825.575,-123.211 825.575,-123.211 833.825,-116.564 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text281"
          font-size="14.00"
          y="5263.0264"
@@ -2628,7 +2631,7 @@
          cx="272" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text288"
          font-size="14.00"
          y="5235.7349"
@@ -2645,7 +2648,7 @@
          points="278.038,-132.367 283.953,-128.624 283.953,-128.624 275.648,-122.045 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text297"
          font-size="14.00"
          y="5253.9097"
@@ -2662,7 +2665,7 @@
          points="231.187,-119.53 234.873,-125.481 234.873,-125.481 241.531,-117.24 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text306"
          font-size="14.00"
          y="5263.0264"
@@ -2682,7 +2685,7 @@
          cx="37" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text313"
          font-size="14.00"
          y="5235.7349"
@@ -2699,7 +2702,7 @@
          points="225.637,-104.424 226.012,-111.414 226.012,-111.414 235.81,-107.383 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text322"
          font-size="14.00"
          y="5266.0649"
@@ -2719,7 +2722,7 @@
          cx="37" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text329"
          font-size="14.00"
          y="5181.1519"
@@ -2736,7 +2739,7 @@
          points="33.5001,-222.084 40.5001,-222.084 40.5001,-222.084 37,-212.084 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text338"
          font-size="14.00"
          y="5208.9497"
@@ -2756,7 +2759,7 @@
          cx="134" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text345"
          font-size="14.00"
          y="5235.7349"
@@ -2773,7 +2776,7 @@
          points="225.613,-105.684 226.41,-112.638 226.41,-112.638 235.946,-108.023 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text354"
          font-size="14.00"
          y="5253.9097"
@@ -2793,7 +2796,7 @@
          cx="410" />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text361"
          font-size="14.00"
          y="5235.7349"
@@ -2810,7 +2813,7 @@
          points="298.49,-116.464 299.931,-109.614 299.931,-109.614 289.425,-110.981 " />
       <text
          transform="scale(1.0008702,0.99913057)"
-         style="font-size:8.68361568px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:8.68361568px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text370"
          font-size="14.00"
          y="5263.0264"
@@ -2834,7 +2837,7 @@
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#Arrow1Mend)" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        x="24.353197"
        y="-23.22378"
        id="text6510"
@@ -2843,15 +2846,15 @@
          id="tspan6512"
          x="24.353197"
          y="-23.22378"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">CHARACTERS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">CHARACTERS</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7936"
        y="207.16098"
        x="38.595627"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="207.16098"
          x="38.595627"
          id="tspan7938"
@@ -2866,7 +2869,7 @@
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#Arrow1Mend)" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        x="38.595627"
        y="526.46375"
        id="text7977"
@@ -2875,7 +2878,7 @@
          id="tspan7979"
          x="38.595627"
          y="526.46375"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">ACT 1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">ACT 1</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#Arrow1Mend)"
        d="m 56.136703,547.81791 1288.579097,0 0,313.60078 -1288.579097,0 0,-313.60078"
@@ -2889,9 +2892,9 @@
        id="text7936-9"
        y="579.43445"
        x="71.471115"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="579.43445"
          x="71.471115"
          id="tspan7938-1"
@@ -2910,17 +2913,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)" />
       <text
          x="-2840.4197"
          y="5130.9697"
          font-size="8.00"
          id="text8020"
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan8022"
-           style="font-size:8px;fill:#ffffff">PARIS</tspan>
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold">PARIS</tspan>
       </text>
     </g>
     <use
@@ -3001,21 +3004,21 @@
          y="5759.9614"
          font-size="8.00"
          id="text9318"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan9320">detective</tspan>
       </text>
     </g>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text9377"
        font-size="8.00"
        y="693.0658"
        x="532.8869">
       <tspan
          id="tspan9379"
-         style="font-size:8px">bio: position</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: position</tspan>
     </text>
     <use
        height="1"
@@ -3034,14 +3037,14 @@
        y="0"
        x="0" />
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text9425"
        font-size="8.00"
        y="692.92517"
        x="229.89348">
       <tspan
          id="tspan9427"
-         style="font-size:8px">rel: spouseOf</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">rel: spouseOf</tspan>
     </text>
     <use
        height="1052.3622"
@@ -3056,9 +3059,9 @@
        y="736.03113"
        font-size="8.00"
        id="text9435"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan9437">rel: closeFriendOf</tspan>
     </text>
     <text
@@ -3066,14 +3069,14 @@
        y="723.86121"
        font-size="8.00"
        id="text9443"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan9445">ak: mistressOf</tspan>
     </text>
     <flowRoot
        transform="translate(437.56235,-90.98675)"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="flowRoot9494"
        xml:space="preserve"><flowRegion
          id="flowRegion9496"><rect
@@ -3081,8 +3084,9 @@
            x="280.08057"
            height="16.020411"
            width="229.80972"
-           id="rect9498" /></flowRegion><flowPara
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+           id="rect9498"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold" /></flowRegion><flowPara
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="flowPara9500" /></flowRoot>    <use
        height="1052.3622"
        width="1488.189"
@@ -3118,9 +3122,9 @@
          y="5759.9614"
          font-size="8.00"
          id="text9318-8"
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan9320-6">lawyer</tspan>
       </text>
     </g>
@@ -3129,9 +3133,9 @@
        id="text9524-0"
        y="731.92078"
        x="818.31219"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="731.92078"
          x="818.31219"
          id="tspan9526-2"
@@ -3155,7 +3159,7 @@
        height="1" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        x="71.471115"
        y="921.7536"
        id="text9622"
@@ -3164,7 +3168,7 @@
          id="tspan9624"
          x="71.471115"
          y="921.7536"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">SCENE 2: Let Me Alone, Anna Kavan's desire of emancipation</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">SCENE 2: Let Me Alone, Anna Kavan’s desire of emancipation</tspan></text>
     <g
        transform="translate(4092.0659,-4480.7003)"
        id="g8016-1">
@@ -3179,17 +3183,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)" />
       <text
          x="-2840.4197"
          y="5130.9697"
          font-size="8.00"
          id="text8020-1"
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan8022-1"
-           style="font-size:8px;fill:#ffffff">LONDON</tspan>
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold">LONDON</tspan>
       </text>
     </g>
     <use
@@ -3218,7 +3222,7 @@
        x="0" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        x="945.59363"
        y="682.04968"
        id="text9709"
@@ -3227,7 +3231,7 @@
          id="tspan9711"
          x="945.59363"
          y="682.04968"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">rel: childOf</tspan></text>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">rel: childOf</tspan></text>
     <use
        height="1052.3622"
        width="1488.189"
@@ -3267,16 +3271,16 @@
            y="5121.5786"
            font-size="8.00"
            id="text9739"
-           style="font-size:5.78434849px;text-anchor:middle;fill:#000000;font-family:Montserrat">
+           style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold">
           <tspan
              id="tspan9741"
-             style="font-size:8px;fill:#000000">Bio: Divorce</tspan>
+             style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold">Bio: Divorce</tspan>
         </text>
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        x="1131.5312"
        y="671.01068"
        id="text10150"
@@ -3285,22 +3289,22 @@
          id="tspan10152"
          x="1131.5312"
          y="671.01068"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">bio: place</tspan></text>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: place</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text10154"
        y="699.13568"
        x="1131.5312"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="699.13568"
          x="1131.5312"
          id="tspan10156"
          sodipodi:role="line">bio: partner</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        x="1131.5312"
        y="738.19818"
        id="text10158"
@@ -3309,13 +3313,13 @@
          id="tspan10160"
          x="1131.5312"
          y="738.19818"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">bio: partner</tspan></text>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: partner</tspan></text>
     <g
        id="g10162"
        transform="translate(3145.1954,-4044.3058)">
       <ellipse
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -3327,13 +3331,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text10166"
          font-size="8.00"
          y="5130.9697"
          x="-2840.4197">
         <tspan
-           style="font-size:8px;fill:#ffffff"
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold"
            id="tspan10168">THAZILA</tspan>
       </text>
     </g>
@@ -3382,26 +3386,26 @@
        y="1009.3314"
        font-size="8.00"
        id="text10222"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan10224" />
     </text>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text10226"
        font-size="8.00"
        y="1168.4415"
        x="202.32205">
       <tspan
          id="tspan10228"
-         style="font-size:8px">bio: position</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: position</tspan>
     </text>
     <g
        id="g10230"
        transform="translate(3313.8111,-4588.9646)">
       <text
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text10236"
          font-size="8.00"
          y="5759.9614"
@@ -3434,12 +3438,12 @@
            x="-2953.4062"
            style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
            xml:space="preserve"><tspan
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
              y="5754.1348"
              x="-2953.4062"
              id="tspan10260"
              sodipodi:role="line">Assistant Locomotive</tspan><tspan
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
              id="tspan10262"
              y="5764.1348"
              x="-2953.4062"
@@ -3451,9 +3455,9 @@
        y="1099.3881"
        font-size="8.00"
        id="text10275"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan10277">bio: place</tspan>
     </text>
     <g
@@ -3461,7 +3465,7 @@
        transform="translate(3356.0424,-3973.1852)">
       <ellipse
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -3473,34 +3477,34 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text10283"
          font-size="8.00"
          y="5130.9697"
          x="-2840.4197">
         <tspan
-           style="font-size:8px;fill:#ffffff"
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold"
            id="tspan10285">LONDON</tspan>
       </text>
     </g>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text10297"
        font-size="8.00"
        y="1002.6642"
        x="543.64447">
       <tspan
          id="tspan10299"
-         style="font-size:8px">rel: closeFriendOf</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">rel: closeFriendOf</tspan>
     </text>
     <text
        x="543.25385"
        y="1052.3041"
        font-size="8.00"
        id="text10305"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan10307">rel: colleagueOf</tspan>
     </text>
     <use
@@ -3524,9 +3528,9 @@
        y="1241.4432"
        font-size="8.00"
        id="text10315"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan10317">rel: wouldLikeToKnow</tspan>
     </text>
     <g
@@ -3537,7 +3541,7 @@
          y="5759.9614"
          font-size="8.00"
          id="text10331"
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat" />
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold" />
       <g
          transform="translate(-55.242717,12.03609)"
          id="g10333">
@@ -3570,11 +3574,11 @@
              x="-2953.4062"
              y="5754.1348"
              id="tspan10343"
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat">partner</tspan><tspan
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">partner</tspan><tspan
              sodipodi:role="line"
-             x="-2952.5859"
+             x="-2952.3906"
              y="5764.1348"
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
              id="tspan10349">in a fashion shop </tspan></text>
       </g>
     </g>
@@ -3599,9 +3603,9 @@
        y="1077.782"
        font-size="8.00"
        id="text10365"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan10367">bio: position</tspan>
     </text>
     <use
@@ -3622,7 +3626,7 @@
        height="1052.3622" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        x="818.02808"
        y="1097.3583"
        id="text10158-1"
@@ -3631,7 +3635,7 @@
          id="tspan10160-7"
          x="818.02808"
          y="1097.3583"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">bio: participant</tspan></text>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: participant</tspan></text>
     <use
        x="0"
        y="0"
@@ -3654,24 +3658,24 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)" />
       <text
          x="-2840.4197"
          y="5130.9697"
          font-size="8.00"
          id="text10375"
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan10377"
-           style="font-size:8px;fill:#ffffff">NICE</tspan>
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold">NICE</tspan>
       </text>
     </g>
     <g
        id="g10491"
        transform="translate(3873.2999,-4610.2504)">
       <text
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text10493"
          font-size="8.00"
          y="5759.9614"
@@ -3705,16 +3709,16 @@
            style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
            xml:space="preserve"><tspan
              id="tspan10505"
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
              y="5761.354"
-             x="-2946.2893"
+             x="-2946.094"
              sodipodi:role="line">unexpected </tspan><tspan
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
              y="5771.354"
-             x="-2946.2893"
+             x="-2946.094"
              sodipodi:role="line"
              id="tspan10509">visit to </tspan><tspan
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
              y="5781.354"
              x="-2947.1096"
              sodipodi:role="line"
@@ -3742,28 +3746,28 @@
        id="text10533"
        y="1157.8824"
        x="746.24396"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="1157.8824"
          x="746.24396"
          id="tspan10535"
          sodipodi:role="line">bio: concurringEvent</tspan></text>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text10539"
        font-size="8.00"
        y="1106.5865"
        x="491.68658">
       <tspan
          id="tspan10541"
-         style="font-size:8px">bio: place</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: place</tspan>
     </text>
     <g
        id="g10561"
        transform="translate(3849.7349,-5028.3995)">
       <text
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text10563"
          font-size="8.00"
          y="5759.9614"
@@ -3797,16 +3801,16 @@
            style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
            xml:space="preserve"><tspan
              id="tspan10575"
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
              y="5751.731"
-             x="-2947.2839"
+             x="-2947.0886"
              sodipodi:role="line">the two lovers </tspan><tspan
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
              y="5761.731"
              x="-2948.1042"
              sodipodi:role="line"
              id="tspan10579">discovered</tspan><tspan
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
              y="5771.731"
              x="-2948.1042"
              sodipodi:role="line"
@@ -3818,20 +3822,20 @@
        y="714.9408"
        font-size="8.00"
        id="text10581"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan10583">bio: followingEvent</tspan>
     </text>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text10585"
        font-size="8.00"
        y="749.3158"
        x="488.35565">
       <tspan
          id="tspan10587"
-         style="font-size:8px">bio: place</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: place</tspan>
     </text>
     <path
        sodipodi:nodetypes="ccccc"
@@ -3854,9 +3858,9 @@
        id="text10629"
        y="1407.0887"
        x="38.595627"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="1407.0887"
          x="38.595627"
          id="tspan10631"
@@ -3871,7 +3875,7 @@
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#Arrow1Mend)" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        x="71.471115"
        y="1455.0594"
        id="text10637"
@@ -3880,7 +3884,7 @@
          id="tspan10639"
          x="71.471115"
          y="1455.0594"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">SCENE 1: Dirty tricks from a partner. And more.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">SCENE 1: Dirty tricks from a partner. And more.</tspan></text>
     <use
        x="0"
        y="0"
@@ -3983,9 +3987,9 @@
        y="1624.3016"
        font-size="8.00"
        id="text10849"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan10851">ak: playingWith</tspan>
     </text>
     <use
@@ -4022,43 +4026,43 @@
        height="1"
        transform="translate(-656.24408,284.7762)" />
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text10928"
        font-size="8.00"
        y="1639.9266"
        x="246.82001">
       <tspan
          id="tspan10930"
-         style="font-size:8px">ak: playingWith</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">ak: playingWith</tspan>
     </text>
     <text
        x="226.50751"
        y="1700.8641"
        font-size="8.00"
        id="text10932"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan10934">rel: hasMet</tspan>
     </text>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text10936"
        font-size="8.00"
        y="1729.7704"
        x="246.82001">
       <tspan
          id="tspan10938"
-         style="font-size:8px">rel: hasMet</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">rel: hasMet</tspan>
     </text>
     <text
        x="252.28876"
        y="1745.3954"
        font-size="8.00"
        id="text10940"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan10942">rel: wouldLikeToKnow</tspan>
     </text>
     <g
@@ -4075,17 +4079,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)" />
       <text
          x="-2840.4197"
          y="5130.9697"
          font-size="8.00"
          id="text8020-1-6"
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan8022-1-5"
-           style="font-size:8px;fill:#ffffff">LONDON</tspan>
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold">LONDON</tspan>
       </text>
     </g>
     <g
@@ -4096,7 +4100,7 @@
          y="5759.9614"
          font-size="8.00"
          id="text10973"
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat" />
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold" />
       <g
          transform="translate(-55.242717,12.03609)"
          id="g10975">
@@ -4129,32 +4133,32 @@
              x="-2953.4062"
              y="5754.1348"
              id="tspan10985"
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat">Cray River</tspan><tspan
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">Cray River</tspan><tspan
              sodipodi:role="line"
              x="-2953.4062"
              y="5764.1348"
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
              id="tspan10989">Development Trust</tspan></text>
       </g>
     </g>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text10995"
        font-size="8.00"
        y="1806.2615"
        x="245.49612">
       <tspan
          id="tspan10997"
-         style="font-size:8px">bio: organization</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: organization</tspan>
     </text>
     <text
        x="167.91376"
        y="1793.0516"
        font-size="8.00"
        id="text10999"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan11001">bio: place</tspan>
     </text>
     <g
@@ -4165,7 +4169,7 @@
          y="5759.9614"
          font-size="8.00"
          id="text3552"
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat" />
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold" />
       <g
          transform="translate(-259.22649,-5.7776238)"
          id="g3554">
@@ -4198,11 +4202,11 @@
              sodipodi:role="line"
              x="-2947.1096"
              y="5761.354"
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat">conflictual</tspan><tspan
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">conflictual</tspan><tspan
              sodipodi:role="line"
              x="-2947.1096"
              y="5771.354"
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
              id="tspan3573">situation</tspan></text>
       </g>
     </g>
@@ -4211,9 +4215,9 @@
        y="1140.9615"
        font-size="8.00"
        id="text3575"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan3577">bio: followingEvent</tspan>
     </text>
     <use
@@ -4233,14 +4237,14 @@
        width="1488.189"
        height="1052.3622" />
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text3567"
        font-size="8.00"
        y="1672.3903"
        x="586.66376">
       <tspan
          id="tspan3569"
-         style="font-size:8px">ak: playingWith</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">ak: playingWith</tspan>
     </text>
     <use
        x="0"
@@ -4263,9 +4267,9 @@
        y="1728.3903"
        font-size="8.00"
        id="text3577"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan3579">ak: playingWith</tspan>
     </text>
     <use
@@ -4287,14 +4291,15 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3643"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        transform="translate(0,-2.99e-5)"><flowRegion
          id="flowRegion3645"><rect
            id="rect3647"
            width="37.818634"
            height="17.914089"
            x="734.47766"
-           y="1791.3184" /></flowRegion><flowPara
+           y="1791.3184"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold" /></flowRegion><flowPara
          id="flowPara3649" /></flowRoot>    <use
        x="0"
        y="0"
@@ -4311,7 +4316,7 @@
          y="5759.9614"
          font-size="8.00"
          id="text10973-3"
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat" />
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold" />
       <g
          transform="translate(-55.242717,12.03609)"
          id="g10975-7">
@@ -4342,7 +4347,7 @@
              style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
              xml:space="preserve"><tspan
                id="tspan10989-3"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                y="5754.1348"
                x="-2953.4062"
                sodipodi:role="line">Fairbrother</tspan></text>
@@ -4350,30 +4355,30 @@
       </g>
     </g>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text5447"
        font-size="8.00"
        y="1846.5669"
        x="922.46692">
       <tspan
          id="tspan5449"
-         style="font-size:8px">bio: organization</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: organization</tspan>
     </text>
     <text
        x="918.49036"
        y="1824.3279"
        font-size="8.00"
        id="text5451"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan5453">bio: promotion</tspan>
     </text>
     <g
        id="g5455"
        transform="translate(4001.6324,-3981.9019)">
       <text
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text5457"
          font-size="8.00"
          y="5759.9614"
@@ -4410,12 +4415,12 @@
                sodipodi:role="line"
                x="-2953.4062"
                y="5755.7183"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                id="tspan5469">acquires</tspan><tspan
                sodipodi:role="line"
                x="-2953.4062"
                y="5765.7183"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                id="tspan5471">majority shares</tspan></text>
         </g>
       </g>
@@ -4433,19 +4438,19 @@
        id="text5522"
        y="1975.0594"
        x="71.471115"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="1975.0594"
          x="71.471115"
          id="tspan5524"
-         sodipodi:role="line">SCENE 2: Anna Kavan's mythological incounter with a painter in the South of France.</tspan></text>
+         sodipodi:role="line">SCENE 2: Anna Kavan’s mythological incounter with a painter in the South of France.</tspan></text>
     <g
        id="g5528"
        transform="translate(3147.1538,-2945.1569)">
       <ellipse
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -4459,7 +4464,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot5554"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
          transform="translate(-3116.3142,3093.8293)"><flowRegion
            id="flowRegion5556"><rect
              id="rect5558"
@@ -4467,11 +4472,13 @@
              height="34.335365"
              x="255.27577"
              y="2024.2015"
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Montserrat;-inkscape-font-specification:Montserrat" /></flowRegion><flowPara
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Karla;-inkscape-font-specification:Karla Bold" /></flowRegion><flowPara
            id="flowPara5560"
-           style="text-align:center;text-anchor:middle">BANDOL ,TOULON</flowPara><flowPara
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Karla Bold">BANDOL,</flowPara><flowPara
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Karla Bold"
+           id="flowPara15877">TOULON</flowPara><flowPara
            id="flowPara5562"
-           style="text-align:center;text-anchor:middle" /></flowRoot>    </g>
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Karla Bold" /></flowRoot>    </g>
     <use
        x="0"
        y="0"
@@ -4525,7 +4532,7 @@
        transform="translate(2265.5367,-3030.7418)">
       <ellipse
          transform="matrix(1.2872796,0,0,0.72304363,-2995.8197,5438.4363)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.28826058"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.28826058"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -4537,13 +4544,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text6619"
          font-size="8.00"
          y="5044.6167"
          x="-1678.0273">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan6621">George West</tspan>
       </text>
     </g>
@@ -4564,14 +4571,14 @@
        width="1488.189"
        height="1052.3622" />
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text5692"
        font-size="8.00"
        y="2138.2219"
        x="168.50407">
       <tspan
          id="tspan5694"
-         style="font-size:8px">rel: oldFriendOf</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">rel: oldFriendOf</tspan>
     </text>
     <use
        x="0"
@@ -4586,20 +4593,20 @@
        y="2193.8167"
        font-size="8.00"
        id="text5700"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan5702">bio: place</tspan>
     </text>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text5706"
        font-size="8.00"
        y="2234.6331"
        x="226.21007">
       <tspan
          id="tspan5708"
-         style="font-size:8px">bio: spectator</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: spectator</tspan>
     </text>
     <use
        x="0"
@@ -4622,9 +4629,9 @@
        y="2073.3308"
        font-size="8.00"
        id="text5718"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan5720">rel: hasMet</tspan>
     </text>
     <g
@@ -4641,31 +4648,31 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)" />
       <flowRoot
          transform="translate(-3116.3142,3093.8293)"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="flowRoot5726"
          xml:space="preserve"><flowRegion
            id="flowRegion5728"><rect
-             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold"
              y="2024.2015"
              x="255.27577"
              height="34.335365"
              width="41.053108"
              id="rect5730" /></flowRegion><flowPara
-           style="text-align:center;text-anchor:middle"
+           style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Karla Bold"
            id="flowPara5734">GARDA LAKE</flowPara></flowRoot>    </g>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text3794-3"
        font-size="8.00"
        y="2142.3635"
        x="533.26733">
       <tspan
          id="tspan3796-2"
-         style="font-size:8px">transit: route</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">transit: route</tspan>
     </text>
     <g
        transform="translate(3541.8104,-3479.2008)"
@@ -4675,7 +4682,7 @@
          y="5759.9614"
          font-size="8.00"
          id="text5765"
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat" />
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold" />
       <g
          transform="translate(-55.242717,12.03609)"
          id="g5767">
@@ -4706,11 +4713,11 @@
              style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
              xml:space="preserve"><tspan
                id="tspan5779"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                y="5755.7183"
                x="-2953.4062"
                sodipodi:role="line">Martin would</tspan><tspan
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                y="5765.7183"
                x="-2953.4062"
                sodipodi:role="line"
@@ -4719,14 +4726,14 @@
       </g>
     </g>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text5829"
        font-size="8.00"
        y="2242.2266"
        x="485.79733">
       <tspan
          id="tspan5831"
-         style="font-size:8px">bio: concludingEvent</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: concludingEvent</tspan>
     </text>
     <path
        sodipodi:nodetypes="ccccc"
@@ -4738,7 +4745,7 @@
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#Arrow1Mend)" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        x="38.595627"
        y="2447.0889"
        id="text5835"
@@ -4747,7 +4754,7 @@
          id="tspan5837"
          x="38.595627"
          y="2447.0889"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">ACT 3: One way or another, they all get back to London</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">ACT 3: One way or another, they all get back to London</tspan></text>
     <use
        x="0"
        y="0"
@@ -4842,7 +4849,7 @@
          y="5759.9614"
          font-size="8.00"
          id="text10973-3-3"
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat" />
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold" />
       <g
          transform="translate(-55.242717,12.03609)"
          id="g10975-7-9">
@@ -4873,7 +4880,7 @@
              style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
              xml:space="preserve"><tspan
                id="tspan10989-3-1"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                y="5754.1348"
                x="-2953.4062"
                sodipodi:role="line">Fairbrother</tspan></text>
@@ -4881,30 +4888,30 @@
       </g>
     </g>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text5447-1"
        font-size="8.00"
        y="2651.748"
        x="220.90544">
       <tspan
          id="tspan5449-0"
-         style="font-size:8px">bio: organization</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: organization</tspan>
     </text>
     <text
        x="237.82431"
        y="2604.6284"
        font-size="8.00"
        id="text5451-7"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan5453-9">bio: promotion</tspan>
     </text>
     <g
        id="g5455-2"
        transform="translate(3311.364,-3201.6013)">
       <text
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text5457-9"
          font-size="8.00"
          y="5759.9614"
@@ -4941,12 +4948,12 @@
                sodipodi:role="line"
                x="-2953.4062"
                y="5755.7183"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                id="tspan5469-6">acquires</tspan><tspan
                sodipodi:role="line"
                x="-2953.4062"
                y="5765.7183"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                id="tspan5471-0">majority shares</tspan></text>
         </g>
       </g>
@@ -4960,14 +4967,14 @@
        width="1488.189"
        height="1052.3622" />
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text5516-5"
        font-size="8.00"
        y="2703.6536"
        x="243.29807">
       <tspan
          id="tspan5518-0"
-         style="font-size:8px">bio: demotion</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: demotion</tspan>
     </text>
     <g
        transform="translate(3031.7279,-2370.5133)"
@@ -4983,17 +4990,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)" />
       <text
          x="-2840.4197"
          y="5130.9697"
          font-size="8.00"
          id="text8020-1-6-4"
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan8022-1-5-6"
-           style="font-size:8px;fill:#ffffff">LONDON</tspan>
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold">LONDON</tspan>
       </text>
     </g>
     <text
@@ -5001,9 +5008,9 @@
        y="2750.8755"
        font-size="8.00"
        id="text6192"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan6194">transit: stop</tspan>
     </text>
     <g
@@ -5014,7 +5021,7 @@
          y="5759.9614"
          font-size="8.00"
          id="text6204"
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat" />
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold" />
       <g
          transform="translate(-55.242717,12.03609)"
          id="g6206">
@@ -5045,11 +5052,11 @@
              style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
              xml:space="preserve"><tspan
                id="tspan6218"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                y="5755.7183"
-               x="-2952.5859"
+               x="-2952.3906"
                sodipodi:role="line">William gets </tspan><tspan
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                y="5765.7183"
                x="-2953.4062"
                sodipodi:role="line"
@@ -5062,9 +5069,9 @@
        y="2654.563"
        font-size="8.00"
        id="text6226"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan6228">bio: concludingEvent</tspan>
     </text>
     <g
@@ -5072,7 +5079,7 @@
        transform="translate(3477.2041,-2351.4517)">
       <ellipse
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -5084,13 +5091,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text6238"
          font-size="8.00"
          y="5130.9697"
          x="-2840.4197">
         <tspan
-           style="font-size:8px;fill:#ffffff"
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold"
            id="tspan6240">LONDON</tspan>
       </text>
     </g>
@@ -5111,14 +5118,14 @@
        width="1488.189"
        height="1052.3622" />
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text6246"
        font-size="8.00"
        y="2779.0859"
        x="571.61719">
       <tspan
          id="tspan6248"
-         style="font-size:8px">transit: stop</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">transit: stop</tspan>
     </text>
     <use
        x="0"
@@ -5129,14 +5136,14 @@
        width="1488.189"
        height="1052.3622" />
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text6274"
        font-size="8.00"
        y="2521.0537"
        x="791.30389">
       <tspan
          id="tspan6276"
-         style="font-size:8px">rel: spouseOf</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">rel: spouseOf</tspan>
     </text>
     <use
        x="0"
@@ -5151,7 +5158,7 @@
        transform="translate(3873.7772,-2600.0828)">
       <ellipse
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -5163,25 +5170,25 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text6304"
          font-size="8.00"
          y="5130.9697"
          x="-2840.4197">
         <tspan
-           style="font-size:8px;fill:#ffffff"
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold"
            id="tspan6306">BURMA</tspan>
       </text>
     </g>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text6308"
        font-size="8.00"
        y="2524.0002"
        x="965.81738">
       <tspan
          id="tspan6310"
-         style="font-size:8px">transit: fromStop</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">transit: fromStop</tspan>
     </text>
     <g
        transform="translate(3873.7772,-2494.0913)"
@@ -5197,17 +5204,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)" />
       <text
          x="-2840.4197"
          y="5130.9697"
          font-size="8.00"
          id="text6316"
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat">
+         style="font-size:5.78434849000000018px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold;fill-opacity:1">
         <tspan
            id="tspan6318"
-           style="font-size:8px;fill:#ffffff">LONDON</tspan>
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold;fill-opacity:1">LONDON</tspan>
       </text>
     </g>
     <text
@@ -5215,16 +5222,16 @@
        y="2582.2212"
        font-size="8.00"
        id="text6320"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan6322">transit: toStop</tspan>
     </text>
     <g
        id="g6328"
        transform="translate(3873.2909,-3133.2098)">
       <text
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text6330"
          font-size="8.00"
          y="5759.9614"
@@ -5259,34 +5266,34 @@
              id="text6340"
              sodipodi:linespacing="125%"><tspan
                sodipodi:role="line"
-               x="-2952.5859"
+               x="-2952.3906"
                y="5755.7183"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-               id="tspan6350">tells him she  doesn't want </tspan><tspan
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
+               id="tspan6350">tells him she  doesn’t want </tspan><tspan
                sodipodi:role="line"
                x="-2953.4062"
                y="5765.7183"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                id="tspan6362">to live with him anymore</tspan></text>
         </g>
       </g>
     </g>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text6372"
        font-size="8.00"
        y="2595.4377"
        x="753.64874">
       <tspan
          id="tspan6374"
-         style="font-size:8px">bio: initiatingEvent</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: initiatingEvent</tspan>
     </text>
     <g
        id="g6378"
        transform="translate(3742.3768,-2417.8162)">
       <ellipse
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -5298,13 +5305,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text6382"
          font-size="8.00"
          y="5130.9697"
          x="-2840.4197">
         <tspan
-           style="font-size:8px;fill:#ffffff"
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold"
            id="tspan6384">LONDON</tspan>
       </text>
     </g>
@@ -5317,14 +5324,14 @@
        width="1488.189"
        height="1052.3622" />
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text6390"
        font-size="8.00"
        y="2706.0781"
        x="814.14325">
       <tspan
          id="tspan6392"
-         style="font-size:8px">transit: stop</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">transit: stop</tspan>
     </text>
     <g
        transform="translate(3910.5816,-2995.9821)"
@@ -5334,7 +5341,7 @@
          y="5759.9614"
          font-size="8.00"
          id="text6396"
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat" />
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold" />
       <g
          transform="translate(-55.242717,12.03609)"
          id="g6398">
@@ -5365,11 +5372,11 @@
              style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
              xml:space="preserve"><tspan
                id="tspan6410"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                y="5755.7183"
-               x="-2952.5859"
+               x="-2952.3906"
                sodipodi:role="line">sees her error and </tspan><tspan
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                y="5765.7183"
                x="-2953.4062"
                sodipodi:role="line"
@@ -5378,14 +5385,14 @@
       </g>
     </g>
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text6418"
        font-size="8.00"
        y="2754.6423"
        x="781.69904">
       <tspan
          id="tspan6420"
-         style="font-size:8px">bio: concludingEvent</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: concludingEvent</tspan>
     </text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -5438,14 +5445,14 @@
        y="0"
        x="0" />
     <text
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
        id="text9425-1"
        font-size="8.00"
        y="2593.5874"
        x="1246.6023">
       <tspan
          id="tspan9427-9"
-         style="font-size:8px">rel: spouseOf</tspan>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">rel: spouseOf</tspan>
     </text>
     <use
        height="1052.3622"
@@ -5460,16 +5467,16 @@
        y="2530.3809"
        font-size="8.00"
        id="text9443-0"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan9445-3">transit: route</tspan>
     </text>
     <g
        id="g6482"
        transform="translate(4287.271,-3010.9426)">
       <text
-         style="font-size:5.78434849px;text-align:center;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text6484"
          font-size="8.00"
          y="5759.9614"
@@ -5504,24 +5511,24 @@
              id="text6494"
              sodipodi:linespacing="125%"><tspan
                sodipodi:role="line"
-               x="-2952.5859"
+               x="-2952.3906"
                y="5755.7183"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                id="tspan6504">Martin starts to paint again alone in his studio. </tspan><tspan
                sodipodi:role="line"
-               x="-2952.5859"
+               x="-2952.3906"
                y="5765.7183"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                id="tspan6506">It was the likeness of a young woman </tspan><tspan
                sodipodi:role="line"
                x="-2953.4062"
                y="5775.7183"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                id="tspan6508">confronting him on his canvas.</tspan><tspan
                sodipodi:role="line"
                x="-2953.4062"
                y="5785.7183"
-               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
                id="tspan6502" /></text>
         </g>
       </g>
@@ -5539,9 +5546,9 @@
        y="2728.7222"
        font-size="8.00"
        id="text6518"
-       style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat">
+       style="font-size:5.78434849px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold">
       <tspan
-         style="font-size:8px"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="tspan6520">bio: concludingEvent</tspan>
     </text>
     <path
@@ -5578,17 +5585,17 @@
          sodipodi:cy="-547.06897"
          sodipodi:rx="27"
          sodipodi:ry="18"
-         style="fill:#0066ff;stroke:#000000;stroke-width:1.12391222"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.12391222"
          transform="matrix(0.90290999,0,0,1.354365,-3764.6685,5869.0688)" />
       <text
          x="-2840.4197"
          y="5130.9697"
          font-size="8.00"
          id="text8020-1-0"
-         style="font-size:5.78434849px;text-anchor:middle;fill:#ffffff;font-family:Montserrat">
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold">
         <tspan
            id="tspan8022-1-0"
-           style="font-size:8px;fill:#ffffff">BANDOL</tspan>
+           style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold">BANDOL</tspan>
       </text>
     </g>
     <use
@@ -5622,16 +5629,16 @@
            y="5121.5786"
            font-size="8.00"
            id="text9739-0"
-           style="font-size:5.78434849px;text-anchor:middle;fill:#000000;font-family:Montserrat">
+           style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;fill:#000000;font-family:Karla;-inkscape-font-specification:Karla Bold">
           <tspan
              id="tspan9741-2"
-             style="font-size:8px;fill:#000000">transit: dropoff</tspan>
+             style="font-size:8px;font-weight:bold;fill:#000000;-inkscape-font-specification:Karla Bold">transit: dropoff</tspan>
         </text>
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        x="896.86987"
        y="1614.3468"
        id="text10150-7"
@@ -5640,22 +5647,22 @@
          id="tspan10152-03"
          x="896.86987"
          y="1614.3468"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">bio: place</tspan></text>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: place</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text10154-1"
        y="1659.3613"
        x="877.86902"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="1659.3613"
          x="877.86902"
          id="tspan10156-2"
          sodipodi:role="line">bio: participant</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        x="870.12805"
        y="1707.5724"
        id="text10158-6"
@@ -5664,15 +5671,15 @@
          id="tspan10160-0"
          x="870.12805"
          y="1707.5724"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">bio: participant</tspan></text>
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">bio: participant</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6599"
        y="1735.7217"
        x="823.68164"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="1735.7217"
          x="823.68164"
          id="tspan6601"
@@ -5682,9 +5689,9 @@
        id="text6603"
        y="1587.2343"
        x="811.71826"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="1587.2343"
          x="811.71826"
          id="tspan6605"
@@ -5694,7 +5701,7 @@
        transform="translate(2577.007,-3485.9316)">
       <ellipse
          transform="matrix(1.2872796,0,0,0.72304363,-2995.8197,5438.4363)"
-         style="fill:#ffd700;stroke:#000000;stroke-width:1.28826058"
+         style="fill:#e7ffed;stroke:#000000;stroke-width:1.28826058"
          sodipodi:ry="18"
          sodipodi:rx="27"
          sodipodi:cy="-547.06897"
@@ -5706,13 +5713,13 @@
          cy="-547.06897"
          cx="1023.85" />
       <text
-         style="font-size:5.78434849px;text-anchor:middle;font-family:Montserrat"
+         style="font-size:5.78434849px;font-weight:bold;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="text6627"
          font-size="8.00"
          y="5044.6167"
          x="-1678.0273">
         <tspan
-           style="font-size:8px"
+           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Karla Bold"
            id="tspan6629">George West</tspan>
       </text>
     </g>
@@ -5721,9 +5728,9 @@
        id="text6635"
        y="1058.653"
        x="766.65564"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        xml:space="preserve"><tspan
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          y="1058.653"
          x="766.65564"
          id="tspan6637"
@@ -5739,26 +5746,27 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot6657"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Karla;-inkscape-font-specification:Karla Bold"
        transform="translate(0,-2.99e-5)"><flowRegion
          id="flowRegion6659"><rect
            id="rect6661"
            width="585.19354"
            height="268.7113"
            x="874.80469"
-           y="195.47157" /></flowRegion><flowPara
+           y="195.47157"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold" /></flowRegion><flowPara
          id="flowPara6663"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">GLOSSARY</flowPara><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">GLOSSARY</flowPara><flowPara
          id="flowPara6665"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat" /><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold" /><flowPara
          id="flowPara6667"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">TRANSIT: AGENCY</flowPara><flowPara
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">TRANSIT: AGENCY</flowPara><flowPara
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="flowPara6675">The agency that operates this public transportation route.</flowPara><flowPara
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="flowPara6671" /><flowPara
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold"
          id="flowPara6673">TRANSIT: DROPOFF  </flowPara><flowPara
          id="flowPara6669"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">The arrangement required for passengers to be dropped off at this service stop.</flowPara></flowRoot>  </g>
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Karla;-inkscape-font-specification:Karla Bold">The arrangement required for passengers to be dropped off at this service stop.</flowPara></flowRoot>  </g>
 </svg>
