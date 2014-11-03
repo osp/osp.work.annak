@@ -1,13 +1,13 @@
-# Déclaration de l'ensemble des protagonistes
+# Characters
 
-_:elle           foaf:name           "la jeune femme" .
-_:MrDogHead      foaf:name           "le mari" .
+_:elle           foaf:name           "the young girl" .
+_:MrDogHead      foaf:name           "the husband" .
 _:boy            foaf:name           "Mohamed Dirwaza Khan" .
-_:Bottes-de-Daim foaf:name           "l'homme aux bottes de Daim" .
-_:dr             foaf:name           "le médecin major" .
+_:Bottes-de-Daim foaf:name           "Suede Boots" .
+_:dr             foaf:name           "the army doctor" .
 _:birds          foaf:name           "Who Are You ?"
  
-# Description des relations 
+# Relationships
  
 _:MrDogHead      rel:ambivalentOf     _:elle .
 _:elle           rel:spouseOf         _:MrDogHead ;
@@ -20,7 +20,7 @@ _:dr             rel:neighborOf       _:elle .
  
 # Plot 
  
-_:huntingRats    dc:title            "MrDogHead, to kill the void & the boredom, drinks and hunts                                         rats with a tennis racket" ;
+_:huntingRats    dc:title            "MrDogHead, to kill the void & the boredom, drinks and hunts rats with a tennis racket" ;
                  bio:place           "Colonial house in the far-east jungle, probably in Burma" ;
                  bio:participant     "Who Are You ?" ;
                  bio:participant     "Mohamed Dirwaza Khan" ;
@@ -28,9 +28,9 @@ _:huntingRats    dc:title            "MrDogHead, to kill the void & the boredom,
                  bio:participant     "la jeune femme" ;
                  
                              
-                 bio:initiatingEvent "MrDogHead starts his favorite game : hunting rats and forces                                        her to play with him" ;
+                 bio:initiatingEvent "MrDogHead starts his favorite game : hunting rats and forces her to play with him" ;
                  bio:interval        "While hunting, MrDogHead too drunk, falls like a shit" ;
-                 bio:concludingEvent "MrDogHead falls asleep on the floor without reaching his bed.                                       She goes to bed : in her room" .
+                 bio:concludingEvent "MrDogHead falls asleep on the floor without reaching his bed. She goes to bed : in her room" .
                  
 _:Fever          dc:title            "MrDogHead got paludism" ;
                  bio:place           "Colonial house in the far-east jungle, probably in Burma" ;
@@ -40,7 +40,7 @@ _:Fever          dc:title            "MrDogHead got paludism" ;
                  bio:participant     "la jeune femme" ;
                  bio:participant     "le médecin major" ;
                              
-                 bio:initiatingEvent "Because of her lack of attention, MrDogHead was not protected                                       from the mosquitos and caught fever" ;
+                 bio:initiatingEvent "Because of her lack of attention, MrDogHead was not protected from the mosquitos and caught fever" ;
                  bio:interval        "Visit from the major doctor" ;
                  bio:concludingEvent "MrDogHead convalescent is still in rage with her" .
                  
@@ -51,7 +51,7 @@ _:aLetter        dc:title            "A letter from the University adressed to h
                  bio:participant     "le mari" ;
                  bio:participant     "la jeune femme" ;
                              
-                 bio:initiatingEvent "She reads the letter hundred times, regretting a life she was                                       even not allowed to choose, and hide it" ;         
+                 bio:initiatingEvent "She reads the letter hundred times, regretting a life she was even not allowed to choose, and hide it" ;         
                  
 _:aVisit         dc:title            "An unknown young boy who could become a friend" ;
                  bio:place           "Colonial house in the far-east jungle, probably in Burma" ;
@@ -62,8 +62,8 @@ _:aVisit         dc:title            "An unknown young boy who could become a fr
                  bio:participant      "l'homme aux bottes de Daim" ;
                              
                  bio:initiatingEvent "First visit of Bottes-de-Daim" ;
-                 bio:interval        "La jeune femme & Bottes-de-Daim have tea & share stories of a                                       stifling life" ;
-                 bio:concludingEvent "During all his visit, Mohamed Dirwaza Khan was somewhere                                        around, observing them" .
+                 bio:interval        "La jeune femme & Bottes-de-Daim have tea & share stories of a stifling life" ;
+                 bio:concludingEvent "During all his visit, Mohamed Dirwaza Khan was somewhere around, observing them" .
                  
 _:aVisit         dc:title            "Second visit of a young boy who could become a friend" ;
                  bio:place           "Colonial house in the far-east jungle, probably in Burma" ;
@@ -75,9 +75,9 @@ _:aVisit         dc:title            "Second visit of a young boy who could beco
                              
                  bio:initiatingEvent "Second visit of Bottes-de-Daim" ;
                  bio:interval        "They discuss, he's listening, they even plan an excursion" ;
-                 bio:concludingEvent "MrDogHead is back home earlier than forseen, he surprises the                                       2 of them discussing. He barks on Bottes-de-Daim to leave the                                       house and come back nore more" .
+                 bio:concludingEvent "MrDogHead is back home earlier than forseen, he surprises the 2 of them discussing. He barks on Bottes-de-Daim to leave the house and come back nore more" .
                  
-_:huntingRats    dc:title            "MrDogHead, to kill the void & the boredom, drinks and hunts                                         rats with a tennis racket" ;
+_:huntingRats    dc:title            "MrDogHead, to kill the void & the boredom, drinks and hunts rats with a tennis racket" ;
                  bio:place           "Colonial house in the far-east jungle, probably in Burma" ;
                  bio:participant     "le mari" ;
                  
@@ -90,7 +90,7 @@ _:aLetter        dc:title            "A letter from the University adressed to h
                  bio:participant     "le mari" ;
                  bio:participant     "la jeune femme" ;
 
-                 bio:interval        "Mohamed Dirwaza Khan searched, found the letter and gave it to                                          his master" ;
+                 bio:interval        "Mohamed Dirwaza Khan searched, found the letter and gave it to his master" ;
                  bio:concludingEvent "MrDogHead wants to make her talk and abuse her" .          
 
 _:nightVisit     dc:title            "MrDogHead wants revenge & also wants a son," ;
@@ -102,13 +102,13 @@ _:nightVisit     dc:title            "MrDogHead wants revenge & also wants a son
                  bio:interval        "And raped her" ;
                  bio:concludingEvent "Still, she keeps on ignoring him" .       
     
-_:huntingRats    dc:title            "MrDogHead, to kill the void & the boredom, drinks and hunts                                         rats with a tennis racket" ;
+_:huntingRats    dc:title            "MrDogHead, to kill the void & the boredom, drinks and hunts rats with a tennis racket" ;
                  bio:place           "Colonial house in the far-east jungle, probably in Burma" ;
                  bio:participant     "le mari" ;
                              
                  bio:initiatingEvent "MrDogHead plays his favorite game" ;
-                 bio:interval        "While hunting the King of Rat, MrDogHead too drunk, falls like                                          a shit" ;
-                 bio:concludingEvent "MrDogHead falls asleep on the floor without reaching his                                        bed" .    
+                 bio:interval        "While hunting the King of Rat, MrDogHead too drunk, falls like a shit" ;
+                 bio:concludingEvent "MrDogHead falls asleep on the floor without reaching his bed" .    
              
 _:aVisit         dc:title            "Another visit of a young boy who could become a friend" ;
                  bio:place           "Colonial house in the far-east jungle, probably in Burma" ;
@@ -119,7 +119,7 @@ _:aVisit         dc:title            "Another visit of a young boy who could bec
                              
                  bio:initiatingEvent "Another visit of Bottes-de-Daim" ;
                  bio:interval        "They discuss, he's reassuring" ;
-                 bio:concludingEvent "MrDogHead is back home earlier than forseen, he surprises the                                       2 of them discussing. He apologizes for his office hours that                                       doesn't allow him to join their conversation. Bottes-de-Daim,                                       sheepish, leave the house to leave the house. After he left,                                        MrDogHead barks on his wife" .
+                 bio:concludingEvent "MrDogHead is back home earlier than forseen, he surprises the 2 of them discussing. He apologizes for his office hours that doesn't allow him to join their conversation. Bottes-de-Daim, sheepish, leave the house to leave the house. After he left, MrDogHead barks on his wife" .
                  
 _:nightVisit     dc:title            "MrDogHead wants revenge & also wants a son," ;
                  bio:place           "Colonial house in the far-east jungle, probably in Burma" ;
@@ -130,13 +130,13 @@ _:nightVisit     dc:title            "MrDogHead wants revenge & also wants a son
                  bio:interval        "And raped her" ;
                  bio:concludingEvent "Still, she ignores him and he keeps on hunting rats" .
                  
-_:huntingRats    dc:title            "MrDogHead, to kill the void & the boredom, drinks and hunts                                         rats with a tennis racket" ;
+_:huntingRats    dc:title            "MrDogHead, to kill the void & the boredom, drinks and hunts rats with a tennis racket" ;
                  bio:place           "Colonial house in the far-east jungle, probably in Burma" ;
                  bio:participant     "Who Are You ?" ;
                  bio:participant     "le mari" ;
                  bio:participant     "la jeune femme" ;
                  
                              
-                 bio:initiatingEvent "MrDogHead starts his favorite game : hunting rats and forces                                        her to play with him" ;
+                 bio:initiatingEvent "MrDogHead starts his favorite game : hunting rats and forces her to play with him" ;
                  bio:interval        "While hunting, MrDogHead too drunk, falls like a shit" ;
-                 bio:concludingEvent "MrDogHead falls asleep on the floor without reaching his bed.                                       She goes to bed : in her room" .
+                 bio:concludingEvent "MrDogHead falls asleep on the floor without reaching his bed. She goes to bed : in her room" .
