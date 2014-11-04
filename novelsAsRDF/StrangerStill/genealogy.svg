@@ -18,7 +18,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="genealogie-gv.svg">
+   sodipodi:docname="genealogy.svg">
   <metadata
      id="metadata376">
     <rdf:RDF>
@@ -75,7 +75,7 @@
      y="289.70001"
      font-size="14.00"
      id="text14"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">william</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">william</text>
   <ellipse
      cx="865"
      cy="-18"
@@ -94,7 +94,7 @@
      y="377.70001"
      font-size="14.00"
      id="text21"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">Joseph Lewisohn</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Joseph Lewisohn</text>
   <path
      d="m 869,304.4034 c 0,11.8507 0,27.7797 0,41.3049"
      id="path26"
@@ -110,7 +110,7 @@
      y="333.70001"
      font-size="14.00"
      id="text30"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">ancestor of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">ancestor of</text>
   <ellipse
      cx="827"
      cy="-194"
@@ -129,7 +129,7 @@
      y="201.7"
      font-size="14.00"
      id="text37"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">cedric</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">cedric</text>
   <path
      d="m 832.297,216.169 c 1.267,10.204 3.769,23.19 8.703,33.831 1.804,3.892 4.13,7.73 6.669,11.358"
      id="path42"
@@ -145,7 +145,7 @@
      y="231.00169"
      font-size="14.00"
      id="text46"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">child of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">child of</text>
   <ellipse
      cx="572"
      cy="-194"
@@ -164,7 +164,7 @@
      y="201.7"
      font-size="14.00"
      id="text53"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">martin</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">martin</text>
   <path
      d="m 587.192,215.108 c 9.053,11.691 22.882,26.819 38.808,34.892 33.243,16.852 134.469,27.013 195.281,31.761"
      id="path58"
@@ -180,7 +180,7 @@
      y="245.7"
      font-size="14.00"
      id="text62"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">child of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">child of</text>
   <ellipse
      cx="263"
      cy="-106"
@@ -199,7 +199,7 @@
      y="289.70001"
      font-size="14.00"
      id="text69"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">anna</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">anna</text>
   <path
      d="M 559.358,213.811 C 545.147,225.593 523.627,241.471 502,250 435.824,276.098 352.161,282.917 304.603,284.589"
      id="path74"
@@ -215,7 +215,7 @@
      y="245.7"
      font-size="14.00"
      id="text78"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">has met</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">has met</text>
   <ellipse
      cx="916"
      cy="-370"
@@ -234,7 +234,7 @@
      y="25.700012"
      font-size="14.00"
      id="text85"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">gwenda</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">gwenda</text>
   <path
      d="M 918.74,40.115 C 915.61,78.383 906.082,173.519 884,250 c -0.825,2.858 -1.824,5.793 -2.909,8.689"
      id="path90"
@@ -250,7 +250,7 @@
      y="136.46912"
      font-size="14.00"
      id="text94"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">child of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">child of</text>
   <ellipse
      cx="949"
      cy="-282"
@@ -269,7 +269,7 @@
      y="113.70001"
      font-size="14.00"
      id="text101"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">tony</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">tony</text>
   <path
      d="m 926.52,39.991 c 4.685,12.211 11.091,28.904 16.428,42.814"
      id="path106"
@@ -285,7 +285,7 @@
      y="69.700012"
      font-size="14.00"
      id="text110"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">ambivalent of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">ambivalent of</text>
   <ellipse
      cx="961"
      cy="-194"
@@ -304,7 +304,7 @@
      y="201.7"
      font-size="14.00"
      id="text117"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">anthony</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">anthony</text>
   <path
      d="m 955.371,127.991 c 1.649,11.819 3.884,27.838 5.786,41.467"
      id="path122"
@@ -320,7 +320,7 @@
      y="157.7"
      font-size="14.00"
      id="text126"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">child of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">child of</text>
   <ellipse
      cx="819"
      cy="-282"
@@ -339,7 +339,7 @@
      y="113.70001"
      font-size="14.00"
      id="text133"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">jean</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">jean</text>
   <path
      d="m 822.579,128.048 c -0.056,9.933 0.194,22.683 1.421,33.952 0.282,2.587 0.66,5.268 1.094,7.941"
      id="path138"
@@ -355,7 +355,7 @@
      y="157.7"
      font-size="14.00"
      id="text142"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">spouse of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">spouse of</text>
   <ellipse
      cx="585"
      cy="-370"
@@ -374,7 +374,7 @@
      y="25.700012"
      font-size="14.00"
      id="text149"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">germaine</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">germaine</text>
   <path
      d="m 600.862,39.67 c 3.304,5.564 6.449,11.972 8.138,18.33 11.864,44.674 17.059,61.041 0,104 -1.83,4.609 -4.586,8.962 -7.741,12.931"
      id="path154"
@@ -390,7 +390,7 @@
      y="113.70001"
      font-size="14.00"
      id="text158"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">spouse of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">spouse of</text>
   <ellipse
      cx="529"
      cy="-282"
@@ -409,7 +409,7 @@
      y="113.70001"
      font-size="14.00"
      id="text165"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">gerald</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">gerald</text>
   <path
      d="M 567.126,37.745 C 560.166,43.371 552.989,50.304 548,58 c -4.659,7.188 -7.912,15.867 -10.165,24.012"
      id="path170"
@@ -425,7 +425,7 @@
      y="69.700012"
      font-size="14.00"
      id="text174"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">mistress of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">mistress of</text>
   <path
      d="M 527.911,127.922 C 525.761,138.279 524.8,151.51 530,162 c 3.174,6.403 8.142,11.953 13.66,16.628"
      id="path179"
@@ -441,7 +441,7 @@
      y="157.7"
      font-size="14.00"
      id="text183"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">close friend of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">close friend of</text>
   <ellipse
      cx="1054"
      cy="-194"
@@ -460,7 +460,7 @@
      y="201.7"
      font-size="14.00"
      id="text190"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">george</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">george</text>
   <path
      d="m 1051.28,215.725 c -5.43,11.373 -14.17,25.834 -26.28,34.275 -31.543,21.98 -74.62,30.421 -107.517,33.54"
      id="path195"
@@ -476,7 +476,7 @@
      y="245.7"
      font-size="14.00"
      id="text199"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">employed by</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">employed by</text>
   <ellipse
      cx="1124"
      cy="-282"
@@ -495,7 +495,7 @@
      y="113.70001"
      font-size="14.00"
      id="text206"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">winny</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">winny</text>
   <path
      d="m 1123.27,127.83 c -3.56,10.574 -9.21,24.074 -17.27,34.17 -4.78,5.983 -10.82,11.44 -17,16.172"
      id="path211"
@@ -511,7 +511,7 @@
      y="157.7"
      font-size="14.00"
      id="text215"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">spouse of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">spouse of</text>
   <path
      d="M 948.416,214.262 C 937.312,224.441 922.341,238.09 909,250 c -4.788,4.275 -9.928,8.811 -14.874,13.15"
      id="path220"
@@ -527,7 +527,7 @@
      y="229.36855"
      font-size="14.00"
      id="text224"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">collaborates with</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">collaborates with</text>
   <ellipse
      cx="1032"
      cy="-282"
@@ -546,7 +546,7 @@
      y="113.70001"
      font-size="14.00"
      id="text231"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">claydon</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">claydon</text>
   <path
      d="m 1028.66,128.096 c -4.95,10.423 -12.12,23.662 -20.66,33.904 -4.206,5.046 -9.226,9.89 -14.327,14.28"
      id="path236"
@@ -562,7 +562,7 @@
      y="157.7"
      font-size="14.00"
      id="text240"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">employed by</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">employed by</text>
   <ellipse
      cx="1139"
      cy="-194"
@@ -581,7 +581,7 @@
      y="201.7"
      font-size="14.00"
      id="text247"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">david</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">david</text>
   <path
      d="m 1138.46,215.959 c -3.98,11.482 -10.98,25.979 -22.46,34.041 -31.22,21.93 -136.467,30.253 -199.054,33.31"
      id="path252"
@@ -597,7 +597,7 @@
      y="230.18512"
      font-size="14.00"
      id="text256"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">colleague of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">colleague of</text>
   <ellipse
      cx="714"
      cy="-194"
@@ -616,7 +616,7 @@
      y="201.7"
      font-size="14.00"
      id="text263"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">byrne</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">byrne</text>
   <path
      d="M 696.997,210.991 C 681.506,221.35 664.899,236.705 676,250 c 18.071,21.643 93.516,29.931 144.55,33.085"
      id="path268"
@@ -632,7 +632,7 @@
      y="229.36855"
      font-size="14.00"
      id="text272"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">colleague of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">colleague of</text>
   <path
      d="m 733.283,213.902 c 11.961,11.06 29.416,25.926 46.717,36.098 15.053,8.85 32.759,16.336 48.397,22.085"
      id="path277"
@@ -648,7 +648,7 @@
      y="245.7"
      font-size="14.00"
      id="text281"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">enemy of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">enemy of</text>
   <ellipse
      cx="272"
      cy="-194"
@@ -667,7 +667,7 @@
      y="201.7"
      font-size="14.00"
      id="text288"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">catherine</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">catherine</text>
   <path
      d="m 285.322,215.592 c 4.435,10 8.099,22.973 4.678,34.408 -1.162,3.886 -2.91,7.74 -4.933,11.392"
      id="path293"
@@ -683,7 +683,7 @@
      y="231.00169"
      font-size="14.00"
      id="text297"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">close friend of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">close friend of</text>
   <path
      d="M 245.214,210.536 C 235.007,216.007 224.783,223.663 219,234 c -7.522,13.445 4.16,26.074 17.879,35.401"
      id="path302"
@@ -699,7 +699,7 @@
      y="245.7"
      font-size="14.00"
      id="text306"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">colleague of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">colleague of</text>
   <ellipse
      cx="37"
      cy="-194"
@@ -718,7 +718,7 @@
      y="201.7"
      font-size="14.00"
      id="text313"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">lauretta</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">lauretta</text>
   <path
      d="M 52.3952,215.357 C 61.2984,226.859 74.7014,241.636 90,250 c 43.902,24.002 101.928,31.678 139.36,34.056"
      id="path318"
@@ -734,7 +734,7 @@
      y="250.59943"
      font-size="14.00"
      id="text322"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">parent of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">parent of</text>
   <ellipse
      cx="37"
      cy="-282"
@@ -753,7 +753,7 @@
      y="113.70001"
      font-size="14.00"
      id="text329"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">mary</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">mary</text>
   <path
      d="m 41,128.403 c 0,11.851 0,27.78 0,41.305"
      id="path334"
@@ -769,7 +769,7 @@
      y="158.51657"
      font-size="14.00"
      id="text338"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">old friend of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">old friend of</text>
   <ellipse
      cx="134"
      cy="-194"
@@ -788,7 +788,7 @@
      y="201.7"
      font-size="14.00"
      id="text345"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">matthew</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">matthew</text>
   <path
      d="m 138.605,216.213 c 1.281,11.002 4.688,24.837 13.395,33.787 20.336,20.904 52.739,29.415 77.974,32.835"
      id="path350"
@@ -804,7 +804,7 @@
      y="231.00169"
      font-size="14.00"
      id="text354"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">husband of</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">husband of</text>
   <ellipse
      cx="410"
      cy="-194"
@@ -823,7 +823,7 @@
      y="201.7"
      font-size="14.00"
      id="text361"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">edward</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">edward</text>
   <path
      d="M 404.785,215.856 C 397.909,226.991 387.558,241.117 375,250 c -21.253,15.034 -49.325,23.872 -71.522,28.905"
      id="path366"
@@ -839,5 +839,5 @@
      y="245.7"
      font-size="14.00"
      id="text370"
-     style="font-size:14px;text-anchor:middle;font-family:Montserrat">would like to know</text>
+     style="font-size:14px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla Bold;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">would like to know</text>
 </svg>

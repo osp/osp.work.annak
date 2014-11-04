@@ -1,343 +1,2457 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created by diasvg.py -->
-<svg width="92.558cm" height="57.802cm" viewBox="-21.265 35.187 71.293 92.988"
- xmlns="http://www.w3.org/2000/svg"
- xmlns:xlink="http://www.w3.org/1999/xlink">
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M -5.659,65.725 A 24.987,24.987 0 0,0 13.678,81.497 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="13.256,81.686 13.788,81.515 13.332,81.192 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 4.910,76.518 A 5.985,5.985 0 0,0 -2.181,67.451 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="4.957,76.061 4.845,76.608 5.350,76.370 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 35.130,52.113 A 19.594,19.594 0 0,0 27.121,57.445 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="27.190,56.987 27.046,57.528 27.564,57.319 "/>
-<text x="-2.181" y="67.291"  fill="#000000" text-anchor="start" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-would like to know</text>
-<line x1="27.564" y1="52.152" x2="23.467" y2="68.388" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.30,0.30"/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="27.712,52.590 27.592,52.044 27.227,52.467 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="23.320,67.950 23.440,68.496 23.805,68.072 "/>
-<line x1="25.936" y1="50.058" x2="14.189" y2="50.063" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="25.548,50.309 26.048,50.058 25.548,49.809 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="14.577,49.813 14.077,50.064 14.577,50.313 "/>
-<text x="25.516" y="60.110"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-spouses</text>
-<line x1="21.921" y1="68.577" x2="13.050" y2="51.970" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.30,0.30"/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="21.518,68.353 21.974,68.676 21.959,68.117 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.453,52.194 12.997,51.871 13.012,52.430 "/>
-<text x="18.999" y="62.947"  fill="#000000" text-anchor="start" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-close friends</text>
-<text x="20.062" y="50.681"  fill="#000000" text-anchor="start" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-lovers</text>
-<line x1="21.050" y1="70.056" x2="-4.170" y2="64.367" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.30,0.30"/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-3.736,64.209 -4.279,64.343 -3.846,64.696 "/>
-<text x="12.571" y="68.763"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-has met</text>
-<line x1="24.978" y1="69.776" x2="39.992" y2="64.575" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="25.263,69.413 24.872,69.813 25.427,69.885 "/>
-<text x="32.379" y="67.052"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-father</text>
-<line x1="43.514" y1="62.601" x2="60.303" y2="49.317" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="43.663,62.164 43.426,62.671 43.973,62.556 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="60.153,49.753 60.390,49.247 59.843,49.361 "/>
-<text x="54.765" y="53.539"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-colleagues</text>
-<ellipse cx="57.458" cy="73.631" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="57.458" cy="73.631" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="57.458" cy="73.631" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="57.458" y="73.461"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Joseph</text>
-<text x="57.458" y="74.261"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Lewisohn</text>
-<ellipse cx="59.792" cy="58.144" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="59.792" cy="58.144" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="59.792" cy="58.144" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="59.792" y="58.374"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-David</text>
-<ellipse cx="41.820" cy="63.942" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="41.820" cy="63.942" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="41.820" cy="63.942" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="41.820" y="64.172"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-William</text>
-<ellipse cx="61.997" cy="47.976" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="61.997" cy="47.976" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="61.997" cy="47.976" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="61.997" y="48.206"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Hubert</text>
-<ellipse cx="22.939" cy="70.482" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="22.939" cy="70.482" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="22.939" cy="70.482" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="22.939" y="70.712"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Martin</text>
-<ellipse cx="28.093" cy="50.057" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="28.093" cy="50.057" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="28.093" cy="50.057" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="28.093" y="50.287"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Germaine</text>
-<ellipse cx="-6.277" cy="63.892" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="-6.277" cy="63.892" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="-6.277" cy="63.892" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="-6.277" y="64.122"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Anna</text>
-<ellipse cx="47.788" cy="73.082" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="47.788" cy="73.082" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="47.788" cy="73.082" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="47.788" y="73.312"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-George</text>
-<ellipse cx="45.274" cy="55.575" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="45.274" cy="55.575" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="45.274" cy="55.575" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="45.274" y="55.805"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Cedric</text>
-<ellipse cx="31.309" cy="45.356" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="31.309" cy="45.356" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="31.309" cy="45.356" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="31.309" y="45.586"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Anthony</text>
-<ellipse cx="31.879" cy="63.970" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="31.879" cy="63.970" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="31.879" cy="63.970" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="31.879" y="64.200"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Gwenda</text>
-<ellipse cx="47.752" cy="79.281" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="47.752" cy="79.281" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="47.752" cy="79.281" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="47.752" y="79.511"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Winny</text>
-<ellipse cx="31.301" cy="37.123" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="31.301" cy="37.123" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="31.301" cy="37.123" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="31.301" y="37.353"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Claydon</text>
-<ellipse cx="40.223" cy="49.012" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="40.223" cy="49.012" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="40.223" cy="49.012" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="40.223" y="49.242"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Tony</text>
-<ellipse cx="48.502" cy="47.340" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="48.502" cy="47.340" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="48.502" cy="47.340" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="48.502" y="47.570"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Jean</text>
-<line x1="43.466" y1="64.962" x2="55.622" y2="72.493" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="55.161,72.501 55.717,72.552 55.424,72.076 "/>
-<line x1="44.450" y1="57.572" x2="42.559" y2="62.152" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="44.533,58.026 44.493,57.469 44.071,57.835 "/>
-<line x1="32.371" y1="47.235" x2="40.757" y2="62.063" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="32.780,47.450 32.316,47.138 32.345,47.696 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="40.348,61.848 40.812,62.160 40.783,61.602 "/>
-<line x1="46.729" y1="71.461" x2="43.000" y2="65.750" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="43.422,65.939 42.939,65.657 43.003,66.212 "/>
-<line x1="57.736" y1="58.807" x2="43.876" y2="63.279" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="57.443,59.164 57.842,58.773 57.290,58.688 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="44.168,62.921 43.769,63.313 44.322,63.397 "/>
-<text x="50.806" y="61.663"  fill="#000000" text-anchor="start" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-colleagues</text>
-<text x="49.639" y="69.406"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-ancestor</text>
-<text x="44.804" y="69.132"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-employed by</text>
-<text x="35.130" y="52.733"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-collaborate</text>
-<text x="43.547" y="59.599"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-father</text>
-<line x1="46.062" y1="53.565" x2="47.714" y2="49.351" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="45.971,53.112 46.022,53.669 46.437,53.295 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="47.805,49.804 47.755,49.247 47.339,49.621 "/>
-<text x="46.888" y="51.298"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-spouses</text>
-<line x1="39.885" y1="63.947" x2="34.037" y2="63.964" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="34.424,63.713 33.925,63.964 34.426,64.213 "/>
-<text x="36.849" y="63.796"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-father</text>
-<line x1="32.823" y1="62.279" x2="39.171" y2="50.898" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="39.200,51.359 39.225,50.801 38.763,51.116 "/>
-<text x="36.051" y="56.331"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-ambivalent of</text>
-<line x1="33.100" y1="46.091" x2="38.225" y2="48.192" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="37.771,48.276 38.328,48.235 37.960,47.814 "/>
-<text x="35.766" y="47.024"  fill="#000000" text-anchor="start" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-father</text>
-<line x1="47.764" y1="77.314" x2="47.776" y2="75.049" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="47.516,76.924 47.763,77.426 48.016,76.927 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="48.024,75.439 47.777,74.937 47.524,75.436 "/>
-<text x="47.770" y="76.412"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-spouses</text>
-<line x1="31.303" y1="39.283" x2="31.307" y2="43.420" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="31.553,39.671 31.303,39.171 31.053,39.671 "/>
-<text x="31.305" y="41.470"  fill="#000000" text-anchor="start" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-employs</text>
-<ellipse cx="-14.838" cy="91.052" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="-14.838" cy="91.052" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="-14.838" cy="91.052" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="-14.838" y="91.282"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Mary</text>
-<ellipse cx="-19.328" cy="68.594" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="-19.328" cy="68.594" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="-19.328" cy="68.594" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="-19.328" y="68.824"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Catherine</text>
-<ellipse cx="1.915" cy="71.010" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="1.915" cy="71.010" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="1.915" cy="71.010" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="1.915" y="71.240"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Edward</text>
-<ellipse cx="-2.541" cy="82.221" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="-2.541" cy="82.221" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="-2.541" cy="82.221" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="-2.541" y="82.451"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Lauretta</text>
-<ellipse cx="-6.317" cy="49.255" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="-6.317" cy="49.255" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="-6.317" cy="49.255" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="-6.317" y="49.485"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Matthew</text>
-<line x1="0.454" y1="69.740" x2="-4.647" y2="65.308" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-4.190,65.374 -4.731,65.235 -4.518,65.751 "/>
-<line x1="-17.301" y1="67.864" x2="-8.303" y2="64.622" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-17.021,67.497 -17.407,67.901 -16.852,67.967 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-8.584,64.989 -8.198,64.584 -8.753,64.518 "/>
-<line x1="-6.311" y1="51.412" x2="-6.283" y2="61.735" stroke="#000000" stroke-width="0.100" stroke-dasharray="0.30,0.14,0.03,0.14"/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-6.060,51.800 -6.311,51.300 -6.560,51.801 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-6.534,61.348 -6.282,61.847 -6.034,61.346 "/>
-<line x1="-2.928" y1="80.323" x2="-5.845" y2="66.009" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-5.523,66.339 -5.868,65.899 -6.013,66.439 "/>
-<line x1="-13.271" y1="89.927" x2="-4.290" y2="83.477" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-4.460,83.907 -4.199,83.412 -4.751,83.500 "/>
-<text x="-6.297" y="56.414"  fill="#000000" text-anchor="start" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-spouses</text>
-<text x="-11.233" y="65.517"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-close friends</text>
-<text x="-8.690" y="87.257"  fill="#000000" text-anchor="start" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-old friend of</text>
-<text x="-4.409" y="72.897"  fill="#000000" text-anchor="start" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-parent of</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 31.305,41.240 A 11.004,11.004 0 0,0 20.109,49.842 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="19.938,49.412 20.085,49.951 20.428,49.511 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 20.062,50.061 A 8.334,8.334 0 0,0 24.285,58.135 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="23.823,58.178 24.382,58.190 24.056,57.736 "/>
-<rect x="21.723" y="43.053" width="3.913" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="21.723" y="43.053" width="3.913" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="23.679" y="43.864"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-discovers</text>
-<rect x="24.481" y="57.661" width="3.913" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="24.481" y="57.661" width="3.913" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="26.438" y="58.472"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-divorce</text>
-<path stroke="#000000" fill="none" stroke-width="0.100"  d ="M -6.317,47.369 A 3.522,3.522 0 0,0 -12.663,47.991 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-13.095,47.815 -12.606,48.087 -12.682,47.533 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="-13.194,48.229 -10.569,48.229 -9.256,49.579 -14.506,49.579 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-13.194,48.229 -10.569,48.229 -9.256,49.579 -14.506,49.579 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-13.194,48.229 -10.569,48.229 -9.256,49.579 -14.506,49.579 "/>
-<text x="-11.881" y="49.134"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Thazila</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M -17.431,69.623 A 8.398,8.398 0 0,0 -7.082,65.895 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="-7.038,66.357 -7.027,65.798 -7.481,66.124 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="-16.977,69.545 -17.535,69.583 -17.170,70.006 "/>
-<rect x="-13.053" y="67.866" width="3.913" height="2.020" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-13.053" y="67.866" width="3.913" height="2.020" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-11.097" y="68.706"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-conflictual</text>
-<text x="-11.097" y="69.506"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-situation</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M -9.681,69.936 A 54.508,54.508 0 0,0 1.041,75.980 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="0.586,76.062 1.144,76.024 0.779,75.601 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="12.586,81.532 15.211,81.532 16.524,82.881 11.274,82.881 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="12.586,81.532 15.211,81.532 16.524,82.881 11.274,82.881 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="12.586,81.532 15.211,81.532 16.524,82.881 11.274,82.881 "/>
-<text x="13.899" y="82.436"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Nice</text>
-<rect x="0.863" y="76.116" width="3.913" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="0.863" y="76.116" width="3.913" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="2.819" y="76.926"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-emigrates</text>
-<line x1="-0.606" y1="82.219" x2="11.635" y2="82.209" stroke="#000000" stroke-width="0.100" />
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="11.247,82.459 11.747,82.208 11.247,81.959 "/>
-<text x="5.627" y="82.054"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-lives in</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 43.806,63.094 A 55.010,55.010 0 0,0 61.997,49.863 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="44.059,62.708 43.704,63.140 44.263,63.165 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 61.997,49.863 A 8.533,8.533 0 0,0 59.493,56.006 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="59.225,55.628 59.494,56.118 59.725,55.609 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 61.087,46.268 A 11.640,11.640 0 0,0 41.072,47.028 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="41.026,46.567 41.018,47.126 41.470,46.797 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 60.110,47.976 A 45.999,45.999 0 0,0 33.423,44.915 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="33.758,44.597 33.313,44.935 33.851,45.088 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 56.866,46.658 A 6.288,6.288 0 0,0 53.650,41.903 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="54.111,41.851 53.552,41.849 53.886,42.297 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 60.110,47.976 A 11.511,11.511 0 0,0 46.079,53.571 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="46.024,53.112 46.028,53.671 46.472,53.332 "/>
-<rect x="55.184" y="46.658" width="3.364" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="55.184" y="46.658" width="3.364" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="56.866" y="47.469"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-has met</text>
-<rect x="47.842" y="40.587" width="7.008" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="47.842" y="40.587" width="7.008" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="51.346" y="41.398"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-would like to know</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 33.836,63.100 A 12.892,12.892 0 0,0 40.497,50.911 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="34.064,62.699 33.738,63.153 34.297,63.142 "/>
-<rect x="57.700" y="51.960" width="4.129" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="57.700" y="51.960" width="4.129" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="59.765" y="52.771"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-plays with</text>
-<rect x="38.270" y="53.523" width="4.129" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="38.270" y="53.523" width="4.129" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="40.334" y="54.333"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-plays with</text>
-<ellipse cx="12.032" cy="50.064" rx="1.887" ry="1.887" fill="#FFFFFF" stroke="none"  /><ellipse cx="12.032" cy="50.064" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><ellipse cx="12.032" cy="50.064" rx="1.887" ry="1.887" fill="none" stroke="#000000"  stroke-width="0.100" /><text x="12.032" y="50.294"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Gerard</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 13.604,51.192 A 12.459,12.459 0 0,0 26.330,51.301 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="26.129,51.718 26.426,51.244 25.869,51.290 "/>
-<rect x="15.195" y="52.193" width="4.129" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="15.195" y="52.193" width="4.129" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="17.260" y="53.004"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-plays with</text>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="19.025,81.521 21.650,81.521 22.963,82.871 17.713,82.871 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="19.025,81.521 21.650,81.521 22.963,82.871 17.713,82.871 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="19.025,81.521 21.650,81.521 22.963,82.871 17.713,82.871 "/>
-<text x="20.338" y="82.426"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Bandol</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 40.069,64.770 A 50.701,50.701 0 0,0 20.953,81.288 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="20.967,80.826 20.890,81.380 21.379,81.109 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 21.031,81.291 A 13.026,13.026 0 0,0 23.297,72.385 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="21.057,80.831 20.967,81.383 21.462,81.125 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 45.959,72.447 A 22.507,22.507 0 0,0 20.929,81.287 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="20.937,80.825 20.866,81.379 21.352,81.103 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 21.031,81.294 A 113.361,113.361 0 0,0 30.989,65.690 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="21.068,80.834 20.963,81.383 21.465,81.137 "/>
-<rect x="20.788" y="78.904" width="3.913" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="20.788" y="78.904" width="3.913" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="22.744" y="79.715"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-family trip</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 64.735,65.564 A 10.155,10.155 0 0,0 63.745,48.807 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="64.901,65.134 64.646,65.632 65.197,65.537 "/>
-<rect x="65.396" y="53.476" width="5.847" height="1.894" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="65.396" y="53.476" width="5.847" height="1.894" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="68.320" y="54.253"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-acquires </text>
-<text x="68.320" y="55.053"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-majority shares</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 24.700,79.485 A 26.279,26.279 0 0,0 68.571,55.638 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="68.891,55.973 68.551,55.528 68.400,56.066 "/>
-<text x="-14.372" y="66.648"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-colleagues</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M -14.020,89.297 A 101.871,101.871 0 0,0 -6.654,66.019 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="-6.479,66.446 -6.634,65.909 -6.971,66.355 "/>
-<rect x="-12.736" y="79.285" width="3.913" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-12.736" y="79.285" width="3.913" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-10.780" y="80.086"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-spectator</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 0.814,76.666 A 24.873,24.873 0 0,0 -9.387,79.137 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="-9.150,78.739 -9.487,79.185 -8.928,79.188 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="1.420,57.715 4.045,57.715 5.358,59.065 0.108,59.065 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="1.420,57.715 4.045,57.715 5.358,59.065 0.108,59.065 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="1.420,57.715 4.045,57.715 5.358,59.065 0.108,59.065 "/>
-<text x="2.733" y="58.620"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Italy</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 2.874,59.239 A 31.348,31.348 0 0,0 21.029,70.162 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="3.311,59.385 2.803,59.152 2.921,59.699 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M -4.408,64.397 A 6.495,6.495 0 0,0 2.691,59.285 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="2.874,59.711 2.714,59.175 2.381,59.625 "/>
-<rect x="1.452" y="60.096" width="3.138" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="1.452" y="60.096" width="3.138" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="3.021" y="60.906"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-route</text>
-<text x="4.091" y="66.071"  fill="#000000" text-anchor="start" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-would never marry</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 60.580,65.664 A 30.887,30.887 0 0,0 43.722,63.582 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="60.125,65.738 60.683,65.707 60.324,65.279 "/>
-<rect x="53.594" y="63.523" width="4.129" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="53.594" y="63.523" width="4.129" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="55.658" y="64.333"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-demotion</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 57.991,63.782 A 14.795,14.795 0 0,0 68.320,55.370 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="58.321,63.461 57.882,63.806 58.422,63.951 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M -4.773,62.672 A 8.674,8.674 0 0,0 -4.650,50.627 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="-4.197,50.724 -4.727,50.546 -4.552,51.076 "/>
-<rect x="-5.447" y="53.190" width="5.747" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-5.447" y="53.190" width="5.747" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-2.573" y="54.001"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-breaks up with</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M -8.221,49.609 A 5.981,5.981 0 0,0 -12.114,56.069 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="-12.433,55.731 -12.099,56.179 -11.941,55.643 "/>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="-13.214,56.339 -10.589,56.339 -9.277,57.689 -14.527,57.689 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-13.214,56.339 -10.589,56.339 -9.277,57.689 -14.527,57.689 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-13.214,56.339 -10.589,56.339 -9.277,57.689 -14.527,57.689 "/>
-<text x="-11.902" y="57.244"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-London</text>
-<rect x="-14.567" y="52.978" width="4.675" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-14.567" y="52.978" width="4.675" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-12.230" y="53.788"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-comes back</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M -4.267,53.141 A 12.162,12.162 0 0,0 -9.964,52.885 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="-9.637,52.557 -10.074,52.906 -9.533,53.046 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M -11.809,57.961 A 7.313,7.313 0 0,0 -8.086,63.200 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="-11.513,58.313 -11.827,57.850 -12.009,58.379 "/>
-<rect x="-13.262" y="59.665" width="4.675" height="1.161" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-13.262" y="59.665" width="4.675" height="1.161" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-10.925" y="60.476"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-comes back</text>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 6.876,60.670 A 5.279,5.279 0 0,0 4.091,66.231 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="6.627,61.056 6.976,60.619 6.417,60.603 "/>
-<path stroke="#1E90FF" fill="none" stroke-width="0.100"  d ="M 24.481,58.242 A 13.830,13.830 0 0,0 15.478,57.908 "/>
-<polyline fill="none" stroke="#1E90FF" stroke-width="0.100"  points="15.770,57.549 15.371,57.940 15.923,58.025 "/>
-<rect x="7.125" y="57.975" width="8.140" height="4.920" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="7.125" y="57.975" width="8.140" height="4.920" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="11.195" y="59.064"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Martin starts to paint.</text>
-<text x="11.195" y="59.864"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-It was the likeness </text>
-<text x="11.195" y="60.664"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-of a young woman</text>
-<text x="11.195" y="61.464"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-confronting him </text>
-<text x="11.195" y="62.264"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-on his canvas.</text>
-<polygon fill="#FFFFFF" stroke="none" stroke-width="0.100" points="60.904,65.698 64.556,65.698 66.382,67.652 59.078,67.652 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="60.904,65.698 64.556,65.698 66.382,67.652 59.078,67.652 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="60.904,65.698 64.556,65.698 66.382,67.652 59.078,67.652 "/>
-<text x="62.730" y="66.505"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-Fairbrother</text>
-<text x="62.730" y="67.305"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-company</text>
-<text x="49.052" y="58.059"  fill="#000000" text-anchor="end" font-size="0.80" font-family="Montserrat" font-style="normal" font-weight="400">
-enemies</text>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2038.6315"
+   height="1273.137"
+   viewBox="-21.265 35.187 44.316238 57.803002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="StrangerStill-flat.svg">
+  <metadata
+     id="metadata650">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs648" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1276"
+     inkscape:window-height="775"
+     id="namedview646"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.46091448"
+     inkscape:cx="1228.3633"
+     inkscape:cy="540.42507"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="m -29.772912,65.725999 a 24.987,24.987 0 0 0 19.337,15.772"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="13.256,81.686 13.788,81.515 13.332,81.192 "
+     id="polyline6"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m -19.203912,76.518999 a 5.985,5.985 0 0 0 -7.091,-9.067"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="4.957,76.061 4.845,76.608 5.350,76.370 "
+     id="polyline10"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m 11.016088,52.113999 a 19.594,19.594 0 0 0 -8.009,5.332"
+     id="path12"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="27.190,56.987 27.046,57.528 27.564,57.319 "
+     id="polyline14"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-26.294912"
+     y="67.288994"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text16"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:start;fill:#000000;font-family:Karla">would like to know</text>
+  <line
+     x1="3.4500871"
+     y1="52.153"
+     x2="-0.64691305"
+     y2="68.388992"
+     id="line18"
+     style="stroke:#000000;stroke-width:0.1;stroke-dasharray:0.3, 0.3" />
+  <polyline
+     points="27.712,52.590 27.592,52.044 27.227,52.467 "
+     id="polyline20"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polyline
+     points="23.320,67.950 23.440,68.496 23.805,68.073 "
+     id="polyline22"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <line
+     x1="1.8220887"
+     y1="50.058998"
+     x2="-9.9249125"
+     y2="50.063999"
+     id="line24"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="25.548,50.309 26.048,50.058 25.548,49.809 "
+     id="polyline26"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polyline
+     points="14.577,49.813 14.077,50.064 14.577,50.313 "
+     id="polyline28"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="1.4020889"
+     y="60.107998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text30"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">spouses</text>
+  <line
+     x1="-2.1929126"
+     y1="68.577995"
+     x2="-11.063912"
+     y2="51.971001"
+     id="line32"
+     style="stroke:#000000;stroke-width:0.1;stroke-dasharray:0.3, 0.3" />
+  <polyline
+     points="21.518,68.353 21.974,68.676 21.959,68.117 "
+     id="polyline34"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polyline
+     points="13.453,52.194 12.997,51.871 13.012,52.430 "
+     id="polyline36"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-5.1149111"
+     y="62.945999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text38"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:start;fill:#000000;font-family:Karla">close friends</text>
+  <text
+     x="-4.0519114"
+     y="50.648998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text40"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:start;fill:#000000;font-family:Karla">lovers</text>
+  <line
+     x1="-3.0639129"
+     y1="70.056992"
+     x2="-28.283915"
+     y2="64.367989"
+     id="line42"
+     style="stroke:#000000;stroke-width:0.1;stroke-dasharray:0.3, 0.3" />
+  <polyline
+     points="-3.736,64.209 -4.279,64.343 -3.846,64.696 "
+     id="polyline44"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-11.542912"
+     y="68.731995"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text46"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">has met</text>
+  <line
+     x1="0.86408854"
+     y1="69.776993"
+     x2="15.878088"
+     y2="64.575989"
+     id="line48"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="25.263,69.413 24.872,69.813 25.427,69.885 "
+     id="polyline50"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="8.265089"
+     y="67.050995"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text52"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">father</text>
+  <line
+     x1="19.400087"
+     y1="62.602001"
+     x2="36.189091"
+     y2="49.318001"
+     id="line54"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="43.663,62.164 43.426,62.671 43.973,62.556 "
+     id="polyline56"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polyline
+     points="60.153,49.753 60.390,49.247 59.843,49.361 "
+     id="polyline58"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="30.651087"
+     y="53.536999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text60"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">colleagues</text>
+  <ellipse
+     cx="57.458"
+     cy="73.630997"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse62"
+     sodipodi:cx="57.458"
+     sodipodi:cy="73.630997"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="57.458"
+     cy="73.630997"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse64"
+     sodipodi:cx="57.458"
+     sodipodi:cy="73.630997"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="57.458"
+     cy="73.630997"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse66"
+     sodipodi:cx="57.458"
+     sodipodi:cy="73.630997"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="33.34409"
+     y="73.444992"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text68"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Joseph</text>
+  <text
+     x="33.34409"
+     y="74.244995"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text70"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Lewisohn</text>
+  <ellipse
+     cx="59.792"
+     cy="58.144001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse72"
+     sodipodi:cx="59.792"
+     sodipodi:cy="58.144001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="59.792"
+     cy="58.144001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse74"
+     sodipodi:cx="59.792"
+     sodipodi:cy="58.144001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="59.792"
+     cy="58.144001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse76"
+     sodipodi:cx="59.792"
+     sodipodi:cy="58.144001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="35.678089"
+     y="58.356998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text78"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">David</text>
+  <ellipse
+     cx="41.82"
+     cy="63.942001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse80"
+     sodipodi:cx="41.82"
+     sodipodi:cy="63.942001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="41.82"
+     cy="63.942001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse82"
+     sodipodi:cx="41.82"
+     sodipodi:cy="63.942001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="41.82"
+     cy="63.942001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse84"
+     sodipodi:cx="41.82"
+     sodipodi:cy="63.942001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="17.706087"
+     y="64.154991"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text86"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">William</text>
+  <ellipse
+     cx="61.997002"
+     cy="47.976002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse88"
+     sodipodi:cx="61.997002"
+     sodipodi:cy="47.976002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="61.997002"
+     cy="47.976002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse90"
+     sodipodi:cx="61.997002"
+     sodipodi:cy="47.976002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="61.997002"
+     cy="47.976002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse92"
+     sodipodi:cx="61.997002"
+     sodipodi:cy="47.976002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="37.883091"
+     y="48.189999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text94"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Hubert</text>
+  <ellipse
+     cx="22.938999"
+     cy="70.482002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse96"
+     sodipodi:cx="22.938999"
+     sodipodi:cy="70.482002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="22.938999"
+     cy="70.482002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse98"
+     sodipodi:cx="22.938999"
+     sodipodi:cy="70.482002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="22.938999"
+     cy="70.482002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse100"
+     sodipodi:cx="22.938999"
+     sodipodi:cy="70.482002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-1.1749127"
+     y="70.695992"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text102"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Martin</text>
+  <ellipse
+     cx="28.093"
+     cy="50.056999"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse104"
+     sodipodi:cx="28.093"
+     sodipodi:cy="50.056999"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="28.093"
+     cy="50.056999"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse106"
+     sodipodi:cx="28.093"
+     sodipodi:cy="50.056999"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="28.093"
+     cy="50.056999"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse108"
+     sodipodi:cx="28.093"
+     sodipodi:cy="50.056999"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="3.9790885"
+     y="50.271"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text110"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Germaine</text>
+  <ellipse
+     cx="-6.277"
+     cy="63.891998"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse112"
+     sodipodi:cx="-6.277"
+     sodipodi:cy="63.891998"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="-6.277"
+     cy="63.891998"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse114"
+     sodipodi:cx="-6.277"
+     sodipodi:cy="63.891998"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="-6.277"
+     cy="63.891998"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse116"
+     sodipodi:cx="-6.277"
+     sodipodi:cy="63.891998"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-30.390913"
+     y="64.104988"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text118"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Anna</text>
+  <ellipse
+     cx="47.787998"
+     cy="73.082001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse120"
+     sodipodi:cx="47.787998"
+     sodipodi:cy="73.082001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="47.787998"
+     cy="73.082001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse122"
+     sodipodi:cx="47.787998"
+     sodipodi:cy="73.082001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="47.787998"
+     cy="73.082001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse124"
+     sodipodi:cx="47.787998"
+     sodipodi:cy="73.082001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="23.674086"
+     y="73.29599"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text126"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">George</text>
+  <ellipse
+     cx="45.273998"
+     cy="55.576"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse128"
+     sodipodi:cx="45.273998"
+     sodipodi:cy="55.576"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="45.273998"
+     cy="55.576"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse130"
+     sodipodi:cx="45.273998"
+     sodipodi:cy="55.576"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="45.273998"
+     cy="55.576"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse132"
+     sodipodi:cx="45.273998"
+     sodipodi:cy="55.576"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="21.160086"
+     y="55.788998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text134"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Cedric</text>
+  <ellipse
+     cx="31.309"
+     cy="45.355999"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse136"
+     sodipodi:cx="31.309"
+     sodipodi:cy="45.355999"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="31.309"
+     cy="45.355999"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse138"
+     sodipodi:cx="31.309"
+     sodipodi:cy="45.355999"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="31.309"
+     cy="45.355999"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse140"
+     sodipodi:cx="31.309"
+     sodipodi:cy="45.355999"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="7.1950879"
+     y="45.569"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text142"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Anthony</text>
+  <ellipse
+     cx="31.879"
+     cy="63.970001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse144"
+     sodipodi:cx="31.879"
+     sodipodi:cy="63.970001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="31.879"
+     cy="63.970001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse146"
+     sodipodi:cx="31.879"
+     sodipodi:cy="63.970001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="31.879"
+     cy="63.970001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse148"
+     sodipodi:cx="31.879"
+     sodipodi:cy="63.970001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="7.7650876"
+     y="64.18399"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text150"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Gwenda</text>
+  <ellipse
+     cx="47.751999"
+     cy="79.280998"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse152"
+     sodipodi:cx="47.751999"
+     sodipodi:cy="79.280998"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="47.751999"
+     cy="79.280998"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse154"
+     sodipodi:cx="47.751999"
+     sodipodi:cy="79.280998"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="47.751999"
+     cy="79.280998"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse156"
+     sodipodi:cx="47.751999"
+     sodipodi:cy="79.280998"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="23.638086"
+     y="79.494995"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text158"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Winny</text>
+  <ellipse
+     cx="31.301001"
+     cy="37.123001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse160"
+     sodipodi:cx="31.301001"
+     sodipodi:cy="37.123001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="31.301001"
+     cy="37.123001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse162"
+     sodipodi:cx="31.301001"
+     sodipodi:cy="37.123001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="31.301001"
+     cy="37.123001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse164"
+     sodipodi:cx="31.301001"
+     sodipodi:cy="37.123001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="7.1870885"
+     y="37.336998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text166"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Claydon</text>
+  <ellipse
+     cx="40.223"
+     cy="49.012001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse168"
+     sodipodi:cx="40.223"
+     sodipodi:cy="49.012001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="40.223"
+     cy="49.012001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse170"
+     sodipodi:cx="40.223"
+     sodipodi:cy="49.012001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="40.223"
+     cy="49.012001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse172"
+     sodipodi:cx="40.223"
+     sodipodi:cy="49.012001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="16.109087"
+     y="49.224998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text174"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Tony</text>
+  <ellipse
+     cx="48.501999"
+     cy="47.34"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse176"
+     sodipodi:cx="48.501999"
+     sodipodi:cy="47.34"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="48.501999"
+     cy="47.34"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse178"
+     sodipodi:cx="48.501999"
+     sodipodi:cy="47.34"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="48.501999"
+     cy="47.34"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse180"
+     sodipodi:cx="48.501999"
+     sodipodi:cy="47.34"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="24.388086"
+     y="47.554001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text182"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Jean</text>
+  <line
+     x1="19.352087"
+     y1="64.96299"
+     x2="31.508089"
+     y2="72.493988"
+     id="line184"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="55.161,72.501 55.717,72.552 55.424,72.076 "
+     id="polyline186"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <line
+     x1="20.336088"
+     y1="57.572998"
+     x2="18.445086"
+     y2="62.153"
+     id="line188"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="44.533,58.026 44.493,57.469 44.071,57.835 "
+     id="polyline190"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <line
+     x1="8.2570858"
+     y1="47.236"
+     x2="16.643087"
+     y2="62.063999"
+     id="line192"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="32.780,47.450 32.316,47.138 32.345,47.696 "
+     id="polyline194"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polyline
+     points="40.348,61.848 40.812,62.160 40.783,61.602 "
+     id="polyline196"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <line
+     x1="22.615088"
+     y1="71.46199"
+     x2="18.887087"
+     y2="65.751991"
+     id="line198"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="43.422,65.939 42.939,65.657 43.004,66.212 "
+     id="polyline200"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <line
+     x1="33.622089"
+     y1="58.807999"
+     x2="19.762087"
+     y2="63.279999"
+     id="line202"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="57.443,59.164 57.842,58.773 57.290,58.688 "
+     id="polyline204"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polyline
+     points="44.168,62.921 43.769,63.313 44.322,63.397 "
+     id="polyline206"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="26.692087"
+     y="61.631001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text208"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:start;fill:#000000;font-family:Karla">colleagues</text>
+  <text
+     x="25.525087"
+     y="69.374992"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text210"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">ancestor</text>
+  <text
+     x="20.690088"
+     y="69.099991"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text212"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">employed by</text>
+  <text
+     x="11.016089"
+     y="52.701"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text214"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">collaborate</text>
+  <text
+     x="19.433088"
+     y="59.597"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text216"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">father</text>
+  <line
+     x1="21.948088"
+     y1="53.565998"
+     x2="23.600088"
+     y2="49.352001"
+     id="line218"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="45.971,53.112 46.022,53.669 46.437,53.295 "
+     id="polyline220"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polyline
+     points="47.805,49.804 47.755,49.247 47.339,49.621 "
+     id="polyline222"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="22.774088"
+     y="51.295998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text224"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">spouses</text>
+  <line
+     x1="15.771086"
+     y1="63.947998"
+     x2="9.9230862"
+     y2="63.965"
+     id="line226"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="34.425,63.713 33.925,63.964 34.426,64.213 "
+     id="polyline228"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="12.735086"
+     y="63.794998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text230"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">father</text>
+  <line
+     x1="8.7090893"
+     y1="62.279999"
+     x2="15.057089"
+     y2="50.898998"
+     id="line232"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="39.200,51.359 39.225,50.801 38.763,51.116 "
+     id="polyline234"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="11.937087"
+     y="56.329998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text236"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">ambivalent of</text>
+  <line
+     x1="8.9860859"
+     y1="46.091999"
+     x2="14.111086"
+     y2="48.193001"
+     id="line238"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="37.771,48.276 38.328,48.235 37.960,47.814 "
+     id="polyline240"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="11.652087"
+     y="47.021999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text242"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:start;fill:#000000;font-family:Karla">father</text>
+  <line
+     x1="23.650087"
+     y1="77.314995"
+     x2="23.662088"
+     y2="75.049995"
+     id="line244"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="47.516,76.924 47.763,77.426 48.016,76.927 "
+     id="polyline246"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polyline
+     points="48.024,75.439 47.777,74.937 47.524,75.436 "
+     id="polyline248"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="23.656088"
+     y="76.394989"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text250"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">spouses</text>
+  <line
+     x1="7.1890869"
+     y1="39.284"
+     x2="7.1930866"
+     y2="43.420998"
+     id="line252"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="31.553,39.671 31.303,39.171 31.053,39.671 "
+     id="polyline254"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="7.1910882"
+     y="41.452999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text256"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:start;fill:#000000;font-family:Karla">employs</text>
+  <ellipse
+     cx="-14.838"
+     cy="91.052002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse258"
+     sodipodi:cx="-14.838"
+     sodipodi:cy="91.052002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="-14.838"
+     cy="91.052002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse260"
+     sodipodi:cx="-14.838"
+     sodipodi:cy="91.052002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="-14.838"
+     cy="91.052002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse262"
+     sodipodi:cx="-14.838"
+     sodipodi:cy="91.052002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-38.951912"
+     y="91.264992"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text264"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Mary</text>
+  <ellipse
+     cx="-19.327999"
+     cy="68.594002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse266"
+     sodipodi:cx="-19.327999"
+     sodipodi:cy="68.594002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="-19.327999"
+     cy="68.594002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse268"
+     sodipodi:cx="-19.327999"
+     sodipodi:cy="68.594002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="-19.327999"
+     cy="68.594002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse270"
+     sodipodi:cx="-19.327999"
+     sodipodi:cy="68.594002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-43.44191"
+     y="68.806992"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text272"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Catherine</text>
+  <ellipse
+     cx="1.915"
+     cy="71.010002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse274"
+     sodipodi:cx="1.915"
+     sodipodi:cy="71.010002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="1.915"
+     cy="71.010002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse276"
+     sodipodi:cx="1.915"
+     sodipodi:cy="71.010002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="1.915"
+     cy="71.010002"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse278"
+     sodipodi:cx="1.915"
+     sodipodi:cy="71.010002"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-22.198912"
+     y="71.222992"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text280"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Edward</text>
+  <ellipse
+     cx="-2.5409999"
+     cy="82.221001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse282"
+     sodipodi:cx="-2.5409999"
+     sodipodi:cy="82.221001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="-2.5409999"
+     cy="82.221001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse284"
+     sodipodi:cx="-2.5409999"
+     sodipodi:cy="82.221001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="-2.5409999"
+     cy="82.221001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse286"
+     sodipodi:cx="-2.5409999"
+     sodipodi:cy="82.221001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-26.654913"
+     y="82.43499"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text288"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Lauretta</text>
+  <ellipse
+     cx="-6.3169999"
+     cy="49.255001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse290"
+     sodipodi:cx="-6.3169999"
+     sodipodi:cy="49.255001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="-6.3169999"
+     cy="49.255001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse292"
+     sodipodi:cx="-6.3169999"
+     sodipodi:cy="49.255001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="-6.3169999"
+     cy="49.255001"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse294"
+     sodipodi:cx="-6.3169999"
+     sodipodi:cy="49.255001"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-30.430914"
+     y="49.468998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text296"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Matthew</text>
+  <line
+     x1="-23.659914"
+     y1="69.74099"
+     x2="-28.760912"
+     y2="65.30899"
+     id="line298"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="-4.190,65.374 -4.731,65.235 -4.518,65.751 "
+     id="polyline300"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <line
+     x1="-41.414913"
+     y1="67.86499"
+     x2="-32.416912"
+     y2="64.622993"
+     id="line302"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="-17.021,67.497 -17.407,67.901 -16.852,67.967 "
+     id="polyline304"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polyline
+     points="-8.584,64.989 -8.198,64.584 -8.753,64.518 "
+     id="polyline306"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <line
+     x1="-30.424913"
+     y1="51.412998"
+     x2="-30.396914"
+     y2="61.736"
+     id="line308"
+     style="stroke:#000000;stroke-width:0.1;stroke-dasharray:0.3, 0.14, 0.03, 0.14" />
+  <polyline
+     points="-6.060,51.800 -6.311,51.300 -6.560,51.801 "
+     id="polyline310"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polyline
+     points="-6.534,61.348 -6.282,61.847 -6.034,61.346 "
+     id="polyline312"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <line
+     x1="-27.041914"
+     y1="80.32399"
+     x2="-29.958914"
+     y2="66.009995"
+     id="line314"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="-5.523,66.339 -5.868,65.899 -6.013,66.439 "
+     id="polyline316"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <line
+     x1="-37.384911"
+     y1="89.927994"
+     x2="-28.403913"
+     y2="83.477989"
+     id="line318"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="-4.460,83.907 -4.199,83.412 -4.751,83.500 "
+     id="polyline320"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-30.410913"
+     y="56.411999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text322"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:start;fill:#000000;font-family:Karla">spouses</text>
+  <text
+     x="-35.346912"
+     y="65.515991"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text324"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">close friends</text>
+  <text
+     x="-32.803909"
+     y="87.224991"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text326"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:start;fill:#000000;font-family:Karla">old friend of</text>
+  <text
+     x="-28.522913"
+     y="72.894989"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text328"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:start;fill:#000000;font-family:Karla">parent of</text>
+  <path
+     d="m 7.1910876,41.240999 a 11.004,11.004 0 0 0 -11.1959996,8.602"
+     id="path330"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="19.938,49.412 20.085,49.951 20.428,49.511 "
+     id="polyline332"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m -4.051912,50.061999 a 8.334,8.334 0 0 0 4.223,8.074"
+     id="path334"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="23.823,58.178 24.382,58.190 24.056,57.736 "
+     id="polyline336"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="-2.3909123"
+     y="43.054001"
+     width="3.9130001"
+     height="1.161"
+     id="rect338"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="-2.3909125"
+     y="43.054001"
+     width="3.9130001"
+     height="1.161"
+     id="rect340"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="-0.43491098"
+     y="43.847"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text342"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">discovers</text>
+  <rect
+     x="0.36708906"
+     y="57.661999"
+     width="3.9130001"
+     height="1.161"
+     id="rect344"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="0.36708879"
+     y="57.661999"
+     width="3.9130001"
+     height="1.161"
+     id="rect346"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="2.3240879"
+     y="58.454998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text348"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">divorce</text>
+  <path
+     d="m -30.430912,47.369999 a 3.522,3.522 0 0 0 -6.346,0.622"
+     id="path350"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="-13.095,47.815 -12.606,48.087 -12.682,47.533 "
+     id="polyline352"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="-9.256,49.579 -14.506,49.579 -13.194,48.229 -10.569,48.229 "
+     id="polygon354"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="-14.506,49.579 -13.194,48.229 -10.569,48.229 -9.256,49.579 "
+     id="polygon356"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="-14.506,49.579 -13.194,48.229 -10.569,48.229 -9.256,49.579 "
+     id="polygon358"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-35.994911"
+     y="49.118"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text360"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Thazila</text>
+  <path
+     d="m -41.544912,69.623999 a 8.398,8.398 0 0 0 10.349,-3.728"
+     id="path362"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="-7.038,66.357 -7.027,65.798 -7.481,66.124 "
+     id="polyline364"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polyline
+     points="-16.977,69.545 -17.535,69.583 -17.170,70.006 "
+     id="polyline366"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="-37.166912"
+     y="67.866989"
+     width="3.9130001"
+     height="2.02"
+     id="rect368"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="-37.166912"
+     y="67.866989"
+     width="3.9130001"
+     height="2.02"
+     id="rect370"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="-35.210911"
+     y="68.688995"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text372"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">conflictual</text>
+  <text
+     x="-35.210911"
+     y="69.488991"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text374"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">situation</text>
+  <path
+     d="m -33.794912,69.936999 a 54.508,54.508 0 0 0 10.722,6.044"
+     id="path376"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="0.586,76.062 1.144,76.024 0.779,75.600 "
+     id="polyline378"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="16.524,82.881 11.274,82.881 12.586,81.531 15.211,81.531 "
+     id="polygon380"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="11.274,82.881 12.586,81.531 15.211,81.531 16.524,82.881 "
+     id="polygon382"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="11.274,82.881 12.586,81.531 15.211,81.531 16.524,82.881 "
+     id="polygon384"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-10.214911"
+     y="82.419991"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text386"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Nice</text>
+  <rect
+     x="-23.250914"
+     y="76.116989"
+     width="3.9130001"
+     height="1.161"
+     id="rect388"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="-23.250914"
+     y="76.116989"
+     width="3.9130001"
+     height="1.161"
+     id="rect390"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="-21.294912"
+     y="76.909988"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text392"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">emigrates</text>
+  <line
+     x1="-24.719912"
+     y1="82.219994"
+     x2="-12.478911"
+     y2="82.209991"
+     id="line394"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="11.247,82.459 11.747,82.208 11.247,81.959 "
+     id="polyline396"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-18.486914"
+     y="82.051994"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text398"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">lives in</text>
+  <path
+     d="m 19.692088,63.094999 a 55.01,55.01 0 0 0 18.191,-13.231"
+     id="path400"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="44.059,62.708 43.704,63.140 44.263,63.165 "
+     id="polyline402"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m 37.883088,49.863999 a 8.533,8.533 0 0 0 -2.504,6.143"
+     id="path404"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="59.225,55.628 59.494,56.118 59.725,55.609 "
+     id="polyline406"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m 36.973088,46.268999 a 11.64,11.64 0 0 0 -20.015,0.76"
+     id="path408"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="41.026,46.567 41.018,47.126 41.470,46.797 "
+     id="polyline410"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m 35.996088,47.976999 a 45.999,45.999 0 0 0 -26.6870004,-3.061"
+     id="path412"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="33.758,44.597 33.313,44.935 33.851,45.088 "
+     id="polyline414"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m 32.752088,46.658999 a 6.288,6.288 0 0 0 -3.216,-4.755"
+     id="path416"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="54.111,41.851 53.552,41.849 53.886,42.297 "
+     id="polyline418"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m 35.996088,47.976999 a 11.511,11.511 0 0 0 -14.031,5.595"
+     id="path420"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="46.024,53.112 46.028,53.671 46.472,53.332 "
+     id="polyline422"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="31.070086"
+     y="46.659"
+     width="3.3640001"
+     height="1.161"
+     id="rect424"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="31.070086"
+     y="46.659"
+     width="3.3640001"
+     height="1.161"
+     id="rect426"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="32.75209"
+     y="47.452"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text428"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">has met</text>
+  <rect
+     x="23.728086"
+     y="40.588001"
+     width="7.0079999"
+     height="1.161"
+     id="rect430"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="23.728086"
+     y="40.588001"
+     width="7.0079999"
+     height="1.161"
+     id="rect432"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="27.232088"
+     y="41.381001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text434"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">would like to know</text>
+  <path
+     d="m 9.7220876,63.100999 a 12.892,12.892 0 0 0 6.6610004,-12.189"
+     id="path436"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="34.064,62.699 33.738,63.153 34.297,63.142 "
+     id="polyline438"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="33.58609"
+     y="51.960999"
+     width="4.1290002"
+     height="1.161"
+     id="rect440"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="33.58609"
+     y="51.960999"
+     width="4.1290002"
+     height="1.161"
+     id="rect442"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="35.651089"
+     y="52.753998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text444"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">plays with</text>
+  <rect
+     x="14.156088"
+     y="53.523998"
+     width="4.1290002"
+     height="1.161"
+     id="rect446"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="14.156088"
+     y="53.523998"
+     width="4.1290002"
+     height="1.161"
+     id="rect448"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="16.220087"
+     y="54.317001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text450"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">plays with</text>
+  <ellipse
+     cx="12.032"
+     cy="50.063999"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse452"
+     sodipodi:cx="12.032"
+     sodipodi:cy="50.063999"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="12.032"
+     cy="50.063999"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse454"
+     sodipodi:cx="12.032"
+     sodipodi:cy="50.063999"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <ellipse
+     cx="12.032"
+     cy="50.063999"
+     rx="1.887"
+     ry="1.887"
+     id="ellipse456"
+     sodipodi:cx="12.032"
+     sodipodi:cy="50.063999"
+     sodipodi:rx="1.887"
+     sodipodi:ry="1.887"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-12.081912"
+     y="50.278"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text458"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Gerard</text>
+  <path
+     d="m -10.509912,51.192999 a 12.459,12.459 0 0 0 12.726,0.109"
+     id="path460"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="26.129,51.718 26.426,51.245 25.869,51.290 "
+     id="polyline462"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="-8.9189119"
+     y="52.194"
+     width="4.1290002"
+     height="1.161"
+     id="rect464"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="-8.9189119"
+     y="52.194"
+     width="4.1290002"
+     height="1.161"
+     id="rect466"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="-6.8539114"
+     y="52.987"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text468"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">plays with</text>
+  <polygon
+     points="22.963,82.871 17.713,82.871 19.025,81.521 21.65,81.521 "
+     id="polygon470"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="17.713,82.871 19.025,81.521 21.65,81.521 22.963,82.871 "
+     id="polygon472"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="17.713,82.871 19.025,81.521 21.65,81.521 22.963,82.871 "
+     id="polygon474"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-3.7759125"
+     y="82.409988"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text476"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Bandol</text>
+  <path
+     d="m 15.955088,64.770999 a 50.701,50.701 0 0 0 -19.116,16.518"
+     id="path478"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="20.967,80.826 20.890,81.380 21.379,81.109 "
+     id="polyline480"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m -3.082912,81.291999 a 13.026,13.026 0 0 0 2.265,-8.906"
+     id="path482"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="21.057,80.831 20.967,81.383 21.462,81.125 "
+     id="polyline484"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m 21.845088,72.447999 a 22.507,22.507 0 0 0 -25.03,8.84"
+     id="path486"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="20.937,80.825 20.866,81.379 21.352,81.103 "
+     id="polyline488"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m -3.082912,81.294999 a 113.361,113.361 0 0 0 9.9579996,-15.604"
+     id="path490"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="21.068,80.834 20.963,81.383 21.465,81.137 "
+     id="polyline492"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="-3.3259118"
+     y="78.904991"
+     width="3.9130001"
+     height="1.161"
+     id="rect494"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="-3.325912"
+     y="78.904991"
+     width="3.9130001"
+     height="1.161"
+     id="rect496"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="-1.3699124"
+     y="79.69799"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text498"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">family trip</text>
+  <path
+     d="m 40.621088,65.564999 a 10.155,10.155 0 0 0 -0.99,-16.757"
+     id="path500"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="64.901,65.134 64.646,65.632 65.197,65.537 "
+     id="polyline502"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="41.282093"
+     y="53.477001"
+     width="5.8470001"
+     height="1.8940001"
+     id="rect504"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="41.282093"
+     y="53.477001"
+     width="5.8470001"
+     height="1.8940001"
+     id="rect506"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="44.206089"
+     y="54.236"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text508"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">acquires</text>
+  <text
+     x="44.206089"
+     y="55.035999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text510"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">majority shares</text>
+  <path
+     d="m 0.586088,79.485999 a 26.279,26.279 0 0 0 43.871,-23.847"
+     id="path512"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="68.891,55.972 68.551,55.528 68.400,56.066 "
+     id="polyline514"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-38.485912"
+     y="66.646996"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text516"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">colleagues</text>
+  <path
+     d="m -38.133912,89.297999 a 101.87,101.87 0 0 0 7.366,-23.278"
+     id="path518"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="-6.479,66.446 -6.634,65.909 -6.971,66.355 "
+     id="polyline520"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="-36.849911"
+     y="79.285995"
+     width="3.9130001"
+     height="1.161"
+     id="rect522"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="-36.849911"
+     y="79.285995"
+     width="3.9130001"
+     height="1.161"
+     id="rect524"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="-34.893909"
+     y="80.078995"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text526"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">spectator</text>
+  <path
+     d="m -23.299912,76.666999 a 24.873,24.873 0 0 0 -10.201,2.471"
+     id="path528"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="-9.150,78.740 -9.487,79.185 -8.928,79.188 "
+     id="polyline530"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="5.358,59.065 0.108,59.065 1.42,57.715 4.045,57.715 "
+     id="polygon532"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="0.108,59.065 1.42,57.715 4.045,57.715 5.358,59.065 "
+     id="polygon534"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="0.108,59.065 1.42,57.715 4.045,57.715 5.358,59.065 "
+     id="polygon536"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-21.380915"
+     y="58.604"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text538"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Italy</text>
+  <path
+     d="m -21.239912,59.239999 a 31.348,31.348 0 0 0 18.155,10.923"
+     id="path540"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="3.311,59.385 2.803,59.152 2.921,59.699 "
+     id="polyline542"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m -28.521912,64.397999 a 6.495,6.495 0 0 0 7.099,-5.112"
+     id="path544"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="2.874,59.711 2.714,59.175 2.381,59.625 "
+     id="polyline546"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="-22.661913"
+     y="60.097"
+     width="3.138"
+     height="1.161"
+     id="rect548"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="-22.661913"
+     y="60.097"
+     width="3.138"
+     height="1.161"
+     id="rect550"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="-21.092913"
+     y="60.889999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text552"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">route</text>
+  <text
+     x="-20.022913"
+     y="66.068993"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text554"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:start;fill:#000000;font-family:Karla">would never marry</text>
+  <path
+     d="m 36.466088,65.664999 a 30.887,30.887 0 0 0 -16.858,-2.082"
+     id="path556"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="60.125,65.738 60.683,65.707 60.324,65.279 "
+     id="polyline558"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="29.480089"
+     y="63.523998"
+     width="4.1290002"
+     height="1.161"
+     id="rect560"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="29.480089"
+     y="63.523998"
+     width="4.1290002"
+     height="1.161"
+     id="rect562"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="31.544088"
+     y="64.316994"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text564"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">demotion</text>
+  <path
+     d="m 33.877088,63.782999 a 14.795,14.795 0 0 0 10.329,-8.412"
+     id="path566"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="58.321,63.461 57.882,63.806 58.422,63.951 "
+     id="polyline568"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m -28.886912,62.672999 a 8.674,8.674 0 0 0 0.123,-12.045"
+     id="path570"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="-4.197,50.724 -4.727,50.546 -4.552,51.076 "
+     id="polyline572"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="-29.560911"
+     y="53.190998"
+     width="5.7470002"
+     height="1.161"
+     id="rect574"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="-29.560911"
+     y="53.190998"
+     width="5.7470002"
+     height="1.161"
+     id="rect576"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="-26.686914"
+     y="53.984001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text578"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">breaks up with</text>
+  <path
+     d="m -32.334912,49.609999 a 5.981,5.981 0 0 0 -3.893,6.46"
+     id="path580"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="-12.433,55.731 -12.099,56.179 -11.941,55.643 "
+     id="polyline582"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="-9.277,57.689 -14.527,57.689 -13.214,56.339 -10.589,56.339 "
+     id="polygon584"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="-14.527,57.689 -13.214,56.339 -10.589,56.339 -9.277,57.689 "
+     id="polygon586"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="-14.527,57.689 -13.214,56.339 -10.589,56.339 -9.277,57.689 "
+     id="polygon588"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="-36.015911"
+     y="57.228001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text590"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">London</text>
+  <rect
+     x="-38.680912"
+     y="52.979"
+     width="4.6750002"
+     height="1.161"
+     id="rect592"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="-38.680912"
+     y="52.979"
+     width="4.6750002"
+     height="1.161"
+     id="rect594"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="-36.34391"
+     y="53.771999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text596"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">comes back</text>
+  <path
+     d="m -28.380912,53.141999 a 12.163,12.163 0 0 0 -5.697,-0.256"
+     id="path598"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="-9.637,52.557 -10.074,52.906 -9.533,53.046 "
+     id="polyline600"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m -35.922912,57.961999 a 7.313,7.313 0 0 0 3.723,5.239"
+     id="path602"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="-11.513,58.313 -11.827,57.850 -12.009,58.379 "
+     id="polyline604"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="-37.375912"
+     y="59.666"
+     width="4.6750002"
+     height="1.161"
+     id="rect606"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="-37.375912"
+     y="59.666"
+     width="4.6750002"
+     height="1.161"
+     id="rect608"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="-35.03891"
+     y="60.459"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text610"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">comes back</text>
+  <path
+     d="m -17.237912,60.670999 a 5.279,5.279 0 0 0 -2.785,5.561"
+     id="path612"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="6.627,61.056 6.975,60.619 6.417,60.603 "
+     id="polyline614"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <path
+     d="m 0.367088,58.242999 a 13.829,13.829 0 0 0 -9.003,-0.334"
+     id="path616"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1" />
+  <polyline
+     points="15.770,57.549 15.371,57.940 15.923,58.025 "
+     id="polyline618"
+     style="fill:none;stroke:#1e90ff;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <rect
+     x="-16.988913"
+     y="57.975998"
+     width="8.1400003"
+     height="4.9200001"
+     id="rect620"
+     style="fill:#ffffff;stroke:none" />
+  <rect
+     x="-16.988913"
+     y="57.975998"
+     width="8.1400003"
+     height="4.9200001"
+     id="rect622"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="-12.918912"
+     y="59.048"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text624"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Martin starts to paint.</text>
+  <text
+     x="-12.918912"
+     y="59.848"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text626"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">It was the likeness</text>
+  <text
+     x="-12.918912"
+     y="60.647999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text628"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">of a young woman</text>
+  <text
+     x="-12.918912"
+     y="61.447998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text630"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">confronting him</text>
+  <text
+     x="-12.918912"
+     y="62.248001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text632"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">on his canvas.</text>
+  <polygon
+     points="66.382,67.652 59.078,67.652 60.904,65.698 64.556,65.698 "
+     id="polygon634"
+     style="fill:#ffffff;stroke:none"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="59.078,67.652 60.904,65.698 64.556,65.698 66.382,67.652 "
+     id="polygon636"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <polygon
+     points="59.078,67.652 60.904,65.698 64.556,65.698 66.382,67.652 "
+     id="polygon638"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-24.113912,9.9886683e-4)" />
+  <text
+     x="38.616089"
+     y="66.488991"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text640"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">Fairbrother</text>
+  <text
+     x="38.616089"
+     y="67.288994"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text642"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:Karla">company</text>
+  <text
+     x="24.938086"
+     y="58.057999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="700"
+     id="text644"
+     style="font-size:0.72643244px;font-style:normal;font-weight:700;text-anchor:end;fill:#000000;font-family:Karla">enemies</text>
 </svg>
