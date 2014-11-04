@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL25448717M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL11334034W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        <bibo:contributorList rdf:parseType="Collection">
+         <foaf:Person><foaf:name>Brian Aldiss</foaf:name></foaf:Person>
+        </bibo:contributorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>Ice</dcterms:title>
+    
+
+            <dcterms:publisher>Double Day</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>US</rdvocab:placeOfPublication>
+
+            <dcterms:issued>1970</dcterms:issued>
+    
+
+            <dcterms:extent>176</dcterms:extent>
+    
+
+            <rdvocab:dimensions>22 x  x  centimeters</rdvocab:dimensions>
+    
+
+        
+        <!-- subjects -->
+        
+        <!-- description -->
+        
+        
+        <dcterms:language>eng</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL25448717M</dcterms:identifier>
+    
+
+            <bibo:oclcnum>97374</bibo:oclcnum>
+
+        
+        
+        
+        <!-- administrative -->
+            <dcterms:modified>2014-07-18 09:39:31.802599</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

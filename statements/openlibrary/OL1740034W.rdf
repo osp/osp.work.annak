@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740034W/">
+            <dcterms:title>Mercury</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>Autobiographical fiction</dcterms:subject>
+    <dcterms:subject>Psychological fiction</dcterms:subject>
+    <dcterms:subject>surrealism fiction</dcterms:subject>
+    <dcterms:subject>Abusive Men</dcterms:subject>
+
+            <dcterms:coverage>jungle</dcterms:coverage>
+    <dcterms:coverage>mountains</dcterms:coverage>
+
+        
+            <dcterms:description>FROM THE BOOK JACKET:
+
+This hitherto unpublished novel, an exciting literary discovery, is from Anna Kavan&#39;s most creative period. A work of sustained imaginative vision, it contains some of the novelists&#39; best hallucinogenic writing.
+
+The beautiful &#39;glass girl&#39; Luz is pursued from one imaginary country to another by Luke, whose love for her becomes a pathological obsession. Luke is as bewitched, too, by the Indris, singing lemurs whose magical harmonies he encounters in a tropical forest of pellucid charms. The lemurs have no enemies in their jungle world &#39;where intelligence and affection were cherished, and destruction and cruelty had no place&#39;.
+
+Luke has chosen his wandering life of exile to escape his own shortcomings and failure in human relations. And he wants to protect Luz, estranged from her sadistic husband Chas. Luke himself reveals shades of latent sadism and becomes dependent on tablets that induce horror, shame and ecstatic excitement.
+
+The narrative is projected like a series of dream sequences, enigma and illusion intertwined in the mound of Kafka. Yet, as in her novel Ice, Anna Kavan has fashioned a coruscating landscape of her own making - apocalyptic, compelling, unforgettable.</dcterms:description>
+    
+
+
+        <dcterms:subject>
+            <rdf:Description>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DDC"/>
+            <rdf:value>823/.912</rdf:value>
+        </rdf:Description>
+        </dcterms:subject>
+        <dcterms:subject>
+            <rdf:Description>
+                <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+                <rdf:value>PR6009.D63 M47 1994</rdf:value>
+            </rdf:Description>
+        </dcterms:subject>
+        
+            <dcterms:date>1994</dcterms:date>
+    
+
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448775M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740034W/"
+             </rdrel:workManifested>
+            <dcterms:title>Mercury</dcterms:title>
+            <dcterms:date>2006</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL852136M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740034W/"
+             </rdrel:workManifested>
+            <dcterms:title>Mercury</dcterms:title>
+            <dcterms:date>1994</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL1740034W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-21 12:15:36.087464</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
+        <ov:versionnumber>6</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740045W/">
+            <dcterms:title>A Scarcity of Love</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>Autobiographical fiction</dcterms:subject>
+    <dcterms:subject>Psychological fiction</dcterms:subject>
+    <dcterms:subject>Protected DAISY</dcterms:subject>
+
+            <dcterms:coverage>castle</dcterms:coverage>
+
+        
+            <dcterms:description>FROM THE BOOK JACKET:
+
+The author of this extraordinary novel was a heroin addict who died by her own hand in December of 1968 [Note: this is not proven - J.H.]. Out of her terrifying experience with mental illness she created a body of fiction of intense, near-surrealist artistry, but it is only posthumously that she is receiving the wider acclaim which her writing commands.
+
+The present work, first published in 1956, contains some of her finest prose and is clearly autobiographical in nature. It tells the story of a young girl, rejected by her narcissistic and vengeful mother, whose life thereafter is yet another series of betrayal that can lead only to the dead-end of madness and death. Like Sylvia Plath, Anna Kavan was capable of nearly perfect control over language as she strove to describe, in the simplest and most ordinary of terms, the bizarre and hallucinatory landscape of her oncoming and inevitable derangement.</dcterms:description>
+    
+
+
+        <dcterms:subject>
+            <rdf:Description>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DDC"/>
+            <rdf:value>823/.9/12</rdf:value>
+        </rdf:Description>
+        </dcterms:subject>
+            <dcterms:date>1971</dcterms:date>
+    
+
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448705M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740045W/"
+             </rdrel:workManifested>
+            <dcterms:title>Mal aimées</dcterms:title>
+            <dcterms:date>1975</dcterms:date>
+        </rdf:Description>    
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448704M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740045W/"
+             </rdrel:workManifested>
+            <dcterms:title>A Scarcity of Love: A novel</dcterms:title>
+            <dcterms:date>2009</dcterms:date>
+        </rdf:Description>    
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448703M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740045W/"
+             </rdrel:workManifested>
+            <dcterms:title>A Scarcity of Love: A novel</dcterms:title>
+            <dcterms:date>1956</dcterms:date>
+        </rdf:Description>    
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL5737262M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740045W/"
+             </rdrel:workManifested>
+            <dcterms:title>A scarcity of love: A novel</dcterms:title>
+            <dcterms:date>1971</dcterms:date>
+        </rdf:Description>    
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL5108571M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740045W/"
+             </rdrel:workManifested>
+            <dcterms:title>A Scarcity of Love: A Novel</dcterms:title>
+            <dcterms:date>1972</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL1740045W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-07-18 07:18:07.785691</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
+        <ov:versionnumber>9</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

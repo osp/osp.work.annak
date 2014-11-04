@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL16819062W/">
+            <dcterms:title>The Horse&#39;s Tale</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>Existential psychology</dcterms:subject>
+
+            <dcterms:coverage>asylum</dcterms:coverage>
+
+            <dcterms:coverage>20th century</dcterms:coverage>
+
+            <dcterms:description>FROM &quot;THE CASE OF ANNA KAVAN&quot;
+BY DAVID CALLARD:
+
+The book, whose equine hero Kathbar takes his name from an acronymic amalgam of Kavan and Karl Theodore Bluth, is a highly personal dream allegory. Kathbar is a circus horse and, at the end of the war, all circus horses are to be sent to the slaughterhouse. However, Kathbar, is an exceptional horse who can sing and recite poetry. He runs away from his owner (significantly named Hugh), to become a celebrity in an artist&#39;s colony by founding a school of &#39;Hoofism&#39;. When Kathbar learns that Hoofism is finished, he falls into depression. Yet, depression is never far from the surface of Kathbar&#39;s life. &#39;Life can&#39;t exist without the pull of annihilation.&#39; He comments at one point. Again: &#39;It&#39;s amazing how people who refuse to accept death existentially are the very ones most apt to disseminate it in a factual way. You open up your arms to death and create a living process out of the pull of nothing. These others don&#39;t create anything, they simply kill.&#39;
+
+At a party held for him Kathbar becomes obstreperous and drunk, passes out and wakes up in an asylum, uncertain as to whether he is a man or a horse. &#39;I got the impression that it was not the hospital which existing for the benefit of the patients, but the patients whose function it was to provide the staff with an excuse for drawing their salaries. … It was a rule of the asylum to accede to every request made by an inmate, then simply ignore it.&#39;
+
+A &#39;Mr. Patronage&#39;, a friend from the past, sends Kathbar to a &#39;mountain clinic&#39;, where a Dr Hieronymus tells him that his depression is due to the constitutional abnormality and that he is &#39;too gifted to lead the life of a horse&#39;. Hieronymus, an alter-ego of Bluth, explains his &#39;existential psychology&#39;, Kathbar recovers his memory and sanity and returns to the circus.</dcterms:description>
+    
+
+
+        
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445774M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL16819062W/"
+             </rdrel:workManifested>
+            <dcterms:title>The Horse&#39;s Tale</dcterms:title>
+            <dcterms:date>1949</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL16819062W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-12 07:53:19.917511</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-12 07:48:12.104942</dcterms:created>
+        <ov:versionnumber>2</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

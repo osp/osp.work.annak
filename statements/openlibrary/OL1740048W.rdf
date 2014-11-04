@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740048W/">
+            <dcterms:title>Asylum piece and other stories</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>Autobiographical fiction</dcterms:subject>
+    <dcterms:subject>Psychological fiction</dcterms:subject>
+    <dcterms:subject>Mentally ill women</dcterms:subject>
+    <dcterms:subject>Psychiatric hospital patients</dcterms:subject>
+    <dcterms:subject>surrealism fiction</dcterms:subject>
+
+            <dcterms:coverage>Switzerland</dcterms:coverage>
+    <dcterms:coverage>Bellevue sanatorium</dcterms:coverage>
+
+            <dcterms:coverage>1940</dcterms:coverage>
+
+            <dcterms:description>FROM THE BOOK JACKET:
+
+Since Anna Kavan died in 1968 there has been a strong revival of interest in her writings. Asylum Piece, a study of various aspects of insanity, first appeared in 1940 and still enjoys a reputation as one of its author&#39;s most original and perceptive books. It as, however, long been out of print.
+
+Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
+
+&#39;If Asylum Piece is not based on actual experience it is certainly an astonishing achievement. ... What is remarkable is that the subject of these stories not only kept the lamp alight in the fog of, at any rate, impending insanity, but was able to project dramatically the experience of fellow sufferers. That is just what the really insane can never do. ... There is a beauty about these stories which has nothing to do with their pathological interest, and is the result of art. Two or three, if signed by a famous name, might rank among the story-teller&#39;s memorable achievements. There is beauty in the stillness of the author&#39;s ultimate despair.&#39;</dcterms:description>
+    
+
+
+            <dcterms:date>1972</dcterms:date>
+    
+
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445743M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740048W/"
+             </rdrel:workManifested>
+            <dcterms:title>Une représentation à l&#39;asile</dcterms:title>
+            <dcterms:date>1983</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445734M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740048W/"
+             </rdrel:workManifested>
+            <dcterms:title>Asylum piece and other stories</dcterms:title>
+            <dcterms:date>1946</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445723M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740048W/"
+             </rdrel:workManifested>
+            <dcterms:title>Asylum piece and other stories</dcterms:title>
+            <dcterms:date>1940</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL8392682M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740048W/"
+             </rdrel:workManifested>
+            <dcterms:title>Asylum Piece and Other Stories</dcterms:title>
+            <dcterms:date>February 1984</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL4423885M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740048W/"
+             </rdrel:workManifested>
+            <dcterms:title>Asylum piece and other stories</dcterms:title>
+            <dcterms:date>1980</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL5326674M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740048W/"
+             </rdrel:workManifested>
+            <dcterms:title>Asylum piece and other stories</dcterms:title>
+            <dcterms:date>1972</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL9337426M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740048W/"
+             </rdrel:workManifested>
+            <dcterms:title>Asylum Piece and Other Stories</dcterms:title>
+            <dcterms:date>February 1984</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL3748674M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740048W/"
+             </rdrel:workManifested>
+            <dcterms:title>Asylum piece and other stories</dcterms:title>
+            <dcterms:date>2001</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL1740048W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 20:34:11.771617</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
+        <ov:versionnumber>6</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740030W/">
+            <dcterms:title>Guilty</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>Autobiographical fiction</dcterms:subject>
+    <dcterms:subject>Psychological fiction</dcterms:subject>
+
+        
+            <dcterms:coverage>wartime</dcterms:coverage>
+
+            <dcterms:description>FROM THE BOOK JACKET:
+
+Set in an unspecified but eerily familiar landscape, Guilty is told from the point of view of a young man named Mark. The novel begins in his childhood and as his father returns from war. In spite of being garlanded as a hero, Mark&#39;s father declares himself a pacifist and is immediately reviled in a country still suffering from wartime divisions. When he is forced into exile Mark meets Mr Spector, a mysterious figure who becomes a dominant force in his life, overseeing his schooling, his employment and even his accommodation. When he tries to break way from Mr Spector to pursue and engagement with the beautiful Carla, Mark&#39;s life beins to unravel. Thwarted at every turn by a Kafkaesque bureaucracy, he falls prey to the machinations and insecurities of his guilt-ridden mind.
+
+Drawing on many of Kavan&#39;s familiar themes, &quot;Guilty&quot; will be welcomed by those who already know and appreciate her work and a revelation to those who don&#39;t.</dcterms:description>
+    
+
+
+            <dcterms:date>2007</dcterms:date>
+    
+
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL17243182M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740030W/"
+             </rdrel:workManifested>
+            <dcterms:title>Guilty</dcterms:title>
+            <dcterms:date>2007</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL1740030W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-07-18 14:17:02.433450</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
+        <ov:versionnumber>4</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL910610M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL1740037W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>A stranger still</dcterms:title>
+    
+
+            <dcterms:publisher>Peter Owen</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>London</rdvocab:placeOfPublication>
+
+            <dcterms:issued>1995</dcterms:issued>
+    
+
+            <dcterms:extent>310</dcterms:extent>
+    
+
+            <rdvocab:dimensions>21 x 14,5 x 2,9 inches</rdvocab:dimensions>
+    
+
+        
+        <!-- subjects -->
+            <dc:subject>Women -- England -- Fiction</dc:subject>
+
+        <dcterms:subject>
+            <rdf:Description>
+                <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DDC"/>
+                <rdf:value>823/.912</rdf:value>
+            </rdf:Description>
+        </dcterms:subject>
+         <dcterms:subject>
+            <rdf:Description>
+                <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+                <rdf:value>PR6009.D63 S77 1995</rdf:value>
+            </rdf:Description>
+        </dcterms:subject>
+        <!-- description -->
+            <dcterms:description>This Edition is a British reprint published in 1995 by Peter Owen Limited London, U.K and distributed in the U.S. by Dufour Editions, Inc. It was originally published by Jonathan Cape, London, 1935 as author Helen Ferguson.</dcterms:description>
+    
+
+        
+        <dcterms:language>eng</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL910610M</dcterms:identifier>
+    
+
+            <bibo:oclcnum>32731363</bibo:oclcnum>
+
+            <bibo:lccn>95205684</bibo:lccn>
+
+            <bibo:isbn10>0720609550</bibo:isbn10>
+
+        
+        <!-- administrative -->
+            <dcterms:modified>2014-06-11 18:27:20.174921</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

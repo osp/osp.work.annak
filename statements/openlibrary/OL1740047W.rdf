@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740047W/">
+            <dcterms:title>Sleep Has His House</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>Autobiographical fiction</dcterms:subject>
+    <dcterms:subject>Psychological fiction</dcterms:subject>
+    <dcterms:subject>Mentally ill women</dcterms:subject>
+    <dcterms:subject>Psychiatric hospital patients</dcterms:subject>
+    <dcterms:subject>surrealism fiction</dcterms:subject>
+
+        
+            <dcterms:coverage>20th century</dcterms:coverage>
+
+            <dcterms:description>FROM THE BOOK JACKET:
+
+Since her death in 1968, there has been a strong revival of interest in Anna Kavan&#39;s work. Sleep Has His House, combining autobiography with surrealist experimentation, deserves to rank with the author&#39;s best works.
+
+In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension; without tension the creative impulse cannot exist. If human life be taken as the result of tension between the two polarities night and day, night, the negative pole, must share equal importance with the positive day. At night, under the influence of cosmic radiations quite different from those of the day, human affairs are apt to come to a crisis. At night most human beings die and are born. Sleep Has His House describes in the night-time language certain stages in the development of one individual human being. No interpretation is needed of this language we have all spoken in childhood and in our dreams; but for the sake of unity a few words before every section indicate the corresponding events of the day.&#39;</dcterms:description>
+    
+
+
+            <dcterms:date>1973</dcterms:date>
+    
+
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445769M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740047W/"
+             </rdrel:workManifested>
+            <dcterms:title>Casa del sono</dcterms:title>
+            <dcterms:date>1980</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445766M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740047W/"
+             </rdrel:workManifested>
+            <dcterms:title>Demeure du sommeil</dcterms:title>
+            <dcterms:date>1977</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445765M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740047W/"
+             </rdrel:workManifested>
+            <dcterms:title>Sleep Has His House</dcterms:title>
+            <dcterms:date>2003</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445764M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740047W/"
+             </rdrel:workManifested>
+            <dcterms:title>Sleep Has His House</dcterms:title>
+            <dcterms:date>1974</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445763M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740047W/"
+             </rdrel:workManifested>
+            <dcterms:title>Sleep Has His House</dcterms:title>
+            <dcterms:date>1948</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445761M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740047W/"
+             </rdrel:workManifested>
+            <dcterms:title>The House of Sleep</dcterms:title>
+            <dcterms:date>1947</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL8392681M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740047W/"
+             </rdrel:workManifested>
+            <dcterms:title>Sleep Has His House</dcterms:title>
+            <dcterms:date>February 1984</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL8392680M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740047W/"
+             </rdrel:workManifested>
+            <dcterms:title>Sleep Has His House</dcterms:title>
+            <dcterms:date>1984</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL5115206M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740047W/"
+             </rdrel:workManifested>
+            <dcterms:title>Sleep has his house</dcterms:title>
+            <dcterms:date>1973</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL4422282M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740047W/"
+             </rdrel:workManifested>
+            <dcterms:title>Sleep has his house</dcterms:title>
+            <dcterms:date>1981</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL1740047W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 21:09:22.969829</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
+        <ov:versionnumber>5</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740037W/">
+            <dcterms:title>A stranger still</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>female emancipation</dcterms:subject>
+    <dcterms:subject>bildungsroman</dcterms:subject>
+    <dcterms:subject>autobiographical</dcterms:subject>
+    <dcterms:subject>In Library</dcterms:subject>
+    <dcterms:subject>Protected DAISY</dcterms:subject>
+
+            <dcterms:coverage>Starling Hill</dcterms:coverage>
+    <dcterms:coverage>Worcester Road</dcterms:coverage>
+    <dcterms:coverage>Ethelbert Place</dcterms:coverage>
+    <dcterms:coverage>London</dcterms:coverage>
+    <dcterms:coverage>Thazila</dcterms:coverage>
+    <dcterms:coverage>Nice</dcterms:coverage>
+    <dcterms:coverage>Bandol</dcterms:coverage>
+    <dcterms:coverage>Toulon</dcterms:coverage>
+    <dcterms:coverage>Riviera</dcterms:coverage>
+    <dcterms:coverage>Gardone Lake</dcterms:coverage>
+    <dcterms:coverage>Bellevue hotel</dcterms:coverage>
+
+            <dcterms:coverage>1930-1940</dcterms:coverage>
+
+            <dcterms:description>FROM THE BOOK JACKET:
+
+A Stranger Still was first published in 1935 under Anna Kavan&#39;s early married name of Helen Ferguson. An intriguing, well-plotted story, it was much acclaimed at the time, and its freshness and vigour remain undiminished.
+
+The wealthy Lewison family occupy centre stage. William, a widower, presides forcefully over his empire of Greater London stores, as well as over his sons, Cedric and Martin, and his impressionable daughter, Gwenda. A fictional &#39;Anna Kavan&#39; appears as a young girl adrift from her husband and now in pursuit of romantic fulfillment. The story takes us from fashionable and Bohemian London to Paris, the South of France and Italy. The autobiographical element is implicit for those familiar with the author&#39;s enigmatic life.
+
+Anna Kavan captures the ambience of the thirties with conviction, yet her pre-hallucinogenic writing has the uninhibitedness and immediacy of a novel of today.</dcterms:description>
+    
+
+
+        <dcterms:subject>
+            <rdf:Description>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DDC"/>
+            <rdf:value>823/.912</rdf:value>
+        </rdf:Description>
+        </dcterms:subject>
+        <dcterms:subject>
+            <rdf:Description>
+                <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+                <rdf:value>PR6009.D63 S77 1995</rdf:value>
+            </rdf:Description>
+        </dcterms:subject>
+        
+            <dcterms:date>1995</dcterms:date>
+    
+
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL24931083M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740037W/"
+             </rdrel:workManifested>
+            <dcterms:title>A stranger still</dcterms:title>
+            <dcterms:date>1935</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL910610M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740037W/"
+             </rdrel:workManifested>
+            <dcterms:title>A stranger still</dcterms:title>
+            <dcterms:date>1995</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL1740037W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-21 11:43:12.752251</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
+        <ov:versionnumber>13</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

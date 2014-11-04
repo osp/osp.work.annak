@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL25448771M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL11334026W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        <bibo:contributorList rdf:parseType="Collection">
+         <foaf:Person><foaf:name>Laura Freixas</foaf:name></foaf:Person>
+        </bibo:contributorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>Mi alma en China</dcterms:title>
+    
+
+            <dcterms:publisher>El Nadir ediciones</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>Valencia</rdvocab:placeOfPublication>
+
+            <dcterms:issued>2004</dcterms:issued>
+    
+
+            <dcterms:extent>128</dcterms:extent>
+    
+
+            <rdvocab:dimensions>21 x  x  inches</rdvocab:dimensions>
+    
+
+        
+        <!-- subjects -->
+        
+        <!-- description -->
+        
+        
+        <dcterms:language>spa</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL25448771M</dcterms:identifier>
+    
+
+            <bibo:oclcnum>57548455</bibo:oclcnum>
+
+        
+            <bibo:isbn10>8493176184</bibo:isbn10>
+
+            <bibo:isbn13>9788493176181</bibo:isbn13>
+
+        <!-- administrative -->
+            <dcterms:modified>2014-07-18 13:45:22.675115</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

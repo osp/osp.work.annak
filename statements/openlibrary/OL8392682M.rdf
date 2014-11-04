@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL8392682M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL1740048W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>Asylum Piece and Other Stories</dcterms:title>
+    
+
+            <dcterms:publisher>Michael Kesend Pub Ltd</dcterms:publisher>
+
+        
+            <dcterms:issued>February 1984</dcterms:issued>
+    
+
+        
+        
+        
+        <!-- subjects -->
+        
+        <!-- description -->
+        
+        
+        <dcterms:language>eng</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL8392682M</dcterms:identifier>
+    
+
+        
+        
+            <bibo:isbn10>0935576037</bibo:isbn10>
+
+            <bibo:isbn13>9780935576030</bibo:isbn13>
+
+        <!-- administrative -->
+            <dcterms:modified>2010-08-10 02:27:29.942870</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

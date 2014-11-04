@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL15185654M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL11334022W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>A charmed circle</dcterms:title>
+    
+
+            <dcterms:publisher>Peter Owen</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>London</rdvocab:placeOfPublication>
+
+            <dcterms:issued>1994</dcterms:issued>
+    
+
+            <dcterms:extent>317p. ;</dcterms:extent>
+    
+
+            <rdvocab:dimensions>21 x 13,9 x 2,5 centimeters</rdvocab:dimensions>
+    
+
+            <bibo:edition>New edition</bibo:edition>
+    
+
+        <!-- subjects -->
+        
+        <dcterms:subject>
+            <rdf:Description>
+                <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DDC"/>
+                <rdf:value>823.912</rdf:value>
+            </rdf:Description>
+        </dcterms:subject>
+        <!-- description -->
+        
+            <rdvocab:note>Originally published as Helen Ferguson</rdvocab:note>
+    
+
+        <dcterms:language>eng</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL15185654M</dcterms:identifier>
+    
+
+            <bibo:oclcnum>31080682</bibo:oclcnum>
+
+            <bibo:lccn>94203074</bibo:lccn>
+
+            <bibo:isbn10>0720609410</bibo:isbn10>
+
+            <bibo:isbn13>9780720609417</bibo:isbn13>
+
+        <!-- administrative -->
+            <dcterms:modified>2014-06-11 13:12:02.614336</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

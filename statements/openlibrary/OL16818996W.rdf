@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL16818996W/">
+            <dcterms:title>Rich Get Rich</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+        
+        
+        
+            <dcterms:description>FROM THE BOOK JACKET:
+
+THE BOOK is the story of the struggle in a young man&#39;s nature of two opposing forces, one of which urges him to escape the painful realities of life through wealth, which alone seems to him to give its possessor leisure and opportunity for the appreciation of beauty, while the other, with equal insistence, forces him into the fight that is being waged to set that beauty free for all mankind.
+
+It shows something of the conflict in which the gentle, the innocent, the dreamers of this world inevitably become involved with cruelty, ugliness, and oppression. Swithin&#39;s struggle is one in which every reader, to a greater or lesser extent, has shared; its echo is to be found in every human heart.
+
+Helen Ferguson has written in Rich Get Rich a beautiful and moving book, which helps the reader to think as well as to feel.</dcterms:description>
+    
+
+
+        
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445691M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL16818996W/"
+             </rdrel:workManifested>
+            <dcterms:title>Rich Get Rich</dcterms:title>
+            <dcterms:date>1937</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL16818996W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-21 11:36:01.782036</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 11:28:44.697122</dcterms:created>
+        <ov:versionnumber>3</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

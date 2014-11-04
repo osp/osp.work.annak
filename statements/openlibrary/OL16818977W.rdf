@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL16818977W/">
+            <dcterms:title>The Dark Sisters</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>female emancipation</dcterms:subject>
+    <dcterms:subject>bildungsroman</dcterms:subject>
+    <dcterms:subject>First World War</dcterms:subject>
+
+            <dcterms:coverage>London</dcterms:coverage>
+
+            <dcterms:coverage>1920</dcterms:coverage>
+
+            <dcterms:description>FROM &quot;THE CASE OF ANNA KAVAN&quot;
+BY DAVID CALLARD:
+
+The Dark Sisters is set in the London of the twenties, in a world in which the convulsions of the First World War, female emancipation and general social upheaval have made possible the life towards which Beryl Dean aspires. The sisters, Emerald and Karen, live an independent metropolitan life: Emerald as a successful but manipulative fashion model. Her younger sister Karen seems to be unmotivated and content to live in a fantasy world of her own making, so Emerald tries to engineer a match with a rich young man. As in A Charmed Circle, the novel seems to end with a return to the status quo. Emerald, afflicted by guilt, takes Karen back to London, where she can return to her imaginary life.</dcterms:description>
+    
+
+
+        
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445667M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL16818977W/"
+             </rdrel:workManifested>
+            <dcterms:title>The Dark Sisters</dcterms:title>
+            <dcterms:date>1930</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL16818977W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 08:35:04.319040</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 08:27:02.656979</dcterms:created>
+        <ov:versionnumber>2</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

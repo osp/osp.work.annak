@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL25448727M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL11334034W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>Hielo</dcterms:title>
+    
+
+            <dcterms:publisher>El Nadir Ediciones</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>Valencia</rdvocab:placeOfPublication>
+
+            <dcterms:issued>2005</dcterms:issued>
+    
+
+        
+        
+        
+        <!-- subjects -->
+        
+        <!-- description -->
+        
+        
+        <dcterms:language>spa</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL25448727M</dcterms:identifier>
+    
+
+        
+        
+            <bibo:isbn10>84-931761-9-2</bibo:isbn10>
+
+        
+        <!-- administrative -->
+            <dcterms:modified>2014-07-18 10:37:26.159828</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

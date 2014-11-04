@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL25445761M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL1740047W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>The House of Sleep</dcterms:title>
+    
+
+            <dcterms:publisher>Double Day</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>New York</rdvocab:placeOfPublication>
+
+            <dcterms:issued>1947</dcterms:issued>
+    
+
+            <dcterms:extent>223</dcterms:extent>
+    
+
+        
+            <bibo:edition>First edition</bibo:edition>
+    
+
+        <!-- subjects -->
+        
+        <!-- description -->
+        
+            <rdvocab:note>House of Sleep (New York: Doubleday) appeared first in United States. House of Sleep appears in Great Britain one year later as Sleep has his House (London: Cassell).</rdvocab:note>
+    
+
+        <dcterms:language>eng</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL25445761M</dcterms:identifier>
+    
+
+            <bibo:oclcnum>1972413</bibo:oclcnum>
+
+            <bibo:lccn>47005147</bibo:lccn>
+
+        
+        
+        <!-- administrative -->
+            <dcterms:modified>2014-06-11 21:18:12.942164</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>
