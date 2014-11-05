@@ -1,11 +1,15 @@
 digraph {
+    graph[overlap=false]
+    node[style="filled", fillcolor=white, fontname="Karla", penwidth=2]
+    edge[penwidth=2]
 
 // HF/AK
  {
-   AK[label="Anna Kavan\n1939-1968"];
+   AK[label="Anna Kavan\n1939–1968", shape="rect", margin=0.25];
  }
 
 // Bibliography as author Anna Kavan
+ node[fillcolor="#E7FFED"]
  {
   Asylum[label="1940\nAsylum Piece and other stories"];
   CTN[label="1941\nChange The Name"];
@@ -24,6 +28,7 @@ digraph {
   Guilty[label="2007\nGuilty"];
  }
  
+node[fillcolor=white]
 // Writes
  {
  	AK -> Asylum
@@ -38,11 +43,15 @@ digraph {
  	AK -> MySoul
  	AK -> Mercury
  	AK -> Parson
+    AK -> Julia[style=dotted]
+    AK -> Guilty[style=dotted]
+    AK -> Eagle[style=dotted]
  }
+
 
 // villes & pays
  { 
-   London_1915[label="1915-18\nKavan sent to boarding school\nBack to London"];
+   London_1915[label="1915–18\nKavan sent to boarding school\nBack to London"];
    Far_east[label="1919\nMarries Donald Ferguson\nCouple moves to Burma"];
    London_1925[label="1925\nLeaving her husband in Burma\nKavan returns to London"];
    SoF_25[label="1925\nMeets Stuart Edmonds\nSouth of France"];
@@ -50,7 +59,7 @@ digraph {
    SB_1936[label="1936\nTreatment of drug addiction\nat sanatorium Bellevue"];
    NY[label="1939,40,43\nKavan stopped by 3 times\nin New-York"];
    Carmel[label="1940\nKavan stayed\n6 months in Carmel"];
-   Auckland[label="1941-42\nKavan spent\n22 months in NZ"];
+   Auckland[label="1941–42\nKavan spent\n22 months in NZ"];
    London_1943[label="1943\nWork at Mill Hill Hospital\nWork for Horizon review\nback to London"];
    SA_1947[label="1947,48,49\nKavan visits her mother"]; 
    SB_1947[label="1947,48\nTreatment of drug addiction\nat sanatorium Bellevue"];
