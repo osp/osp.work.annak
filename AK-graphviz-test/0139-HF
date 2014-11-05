@@ -7,12 +7,12 @@ digraph {
  
 // Bibliography as author Helen Ferguson
  {
-  Charmed[label="1929\nA charmed circle"];
-  DarkS[label="1930\nDark sisters"];
-  LMA[label="1930\nLet me Alone"];
+  Charmed[label="1929\nA Charmed Circle"];
+  DarkS[label="1930\nDark Sisters"];
+  LMA[label="1930\nLet Me Alone"];
   SS[label="1935\nStranger Still"];
   Goose[label="1936\nGoose Cross"];
-  Rich[label="1937\nRich get rich"];
+  Rich[label="1937\nRich Get rich"];
  }
  
 // Writes
@@ -32,7 +32,7 @@ digraph {
    London_1925[label="1925\nLeaving her husband in Burma\nKavan returns to London"];
    SoF_25[label="1925\nMeets Stuart Edmonds\nSouth of France"];
    countryside[label="1931\nDivorces Ferguson\nMarries Stuart Edmonds\nMoves to countryside (England)"];
-   SoF_32[label="1932-34\nTravels to\South of France"];
+   SoF_32[label="1932-34\nTravels to\nSouth of France"];
    It[label="1932-34\nTravels to\nItaly"];
  }
   

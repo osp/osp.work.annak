@@ -16,7 +16,7 @@ digraph {
    California[label="California"];
    Rialto[label="1905\nWoods family moves to Rialto"];
    Swiss[label="SWITZERLAND"];
-   Bellevue[label="Sanitarium Bellevue"]
+   Bellevue[label="Sanatorium Bellevue"]
    Lausanne[label="1914\nClaude Woods commits suicide\nKavan sent to boarding school\nLausanne"];
    SB_1936[label="1936\nTreatment of drug addiction"];
    SB_1947[label="1947,48\nTreatment of drug addiction"];
