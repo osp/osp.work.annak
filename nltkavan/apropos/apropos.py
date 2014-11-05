@@ -9,7 +9,7 @@ from django.template import loader
 from django.conf import settings
 
 
-f = open('../Ice.txt')
+f = codecs.open('../../osp.work.annak.books/AK/Ice/ice-txtonly.txt', "r", encoding="utf-8")
 raw = f.read()
 f.close()
 

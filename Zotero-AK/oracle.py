@@ -201,6 +201,33 @@ def self_portrait():
         print("""\n\n""")
 
 
+def generic(tag):
+    """
+    Beyond her books, who does mention her paintings?
+    """
+    qs = """SELECT ?doc ?title ?date ?surname ?abstract
+    WHERE {
+        ?doc a bib:Document .
+        ?doc z:itemType "blogPost" .
+        ?doc dc:subject "%s" .
+        ?doc dc:title ?title .
+        ?doc dc:date ?date .
+        ?doc dcterms:abstract ?abstract .
+
+        ?doc bib:authors ?seq .
+        ?seq ?seq_index ?seq_bnode .
+        ?seq_bnode foaf:surname ?surname .
+    } ORDER BY ?date
+    """ % tag
+
+    results = g.query(qs, initNs=ns)
+
+    if results:
+        for res in results:
+            print(u"""<article><header><p>le <time>{}</time>, par <span>{}</span></p><h1><a href="{}">{}</a></h1><blockquote>{}</blockquote></article>\n\n""".format(res.date, res.surname, res.doc, res.title, res.abstract).encode('utf-8'))
+        print("""\n\n""")
+
+
 
 
 
@@ -213,4 +240,7 @@ if __name__ == "__main__":
     #drug_addict()
     #scotland_yard()
     #like()
-    self_portrait()
+    #self_portrait()
+
+    print("<p>Where Anna Kavan's paintings re-appeared on-line whereas in the physical world museal institutions newly acquired her works or exhibited them in galleries.</p>")
+    generic('self-portrait')

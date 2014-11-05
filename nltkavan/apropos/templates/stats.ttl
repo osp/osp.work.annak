@@ -1,0 +1,5 @@
+<{{ url }}>
+    stats:hasCharacterCount "{{ cc }}"^^xsd:integer ;
+    stats:hasWordCount "{{ wc }}"^^xsd:integer ;
+    stats:hasUniqueWordCount "{{ uwc }}"^^xsd:integer ;
+    stats:hasDiversityIndice "{{ idx }}"^^xsd:decimal .
