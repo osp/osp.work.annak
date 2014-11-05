@@ -1,27 +1,28 @@
 digraph {
+    graph[overlap=false]
+    node[style="filled", fillcolor=white, fontname="Karla", penwidth=2]
+    edge[fontname="Karla", penwidth=2]
 
 // Labels Time Space
  {
-	travel[label="World travels\nzoom 1939-43"];
-	Oslo[label="OSLO\nseptember 1939"];
-	NY[label="NEW YORK\noctober 1939\noctober 1940\njanuary 1943"];
-	SF[label="SAN FRANCISCO\n1939-40\n(6 months)"];
-	Bali[label="BALI\napril 1940"];
-	NZ[label="AUCKLAND\narrival february 1941\n(22 months)"];
-	London[label="LONDON\ndeparture 1939\nback home february 1943"];
+	London[label="LONDON\ndeparture 1939\nback home February 1943"];
+	Oslo[label="OSLO\nSeptember 1939"];
+	NY[label="NEW YORK\nOctober 1939\nOctober 1940\nJanuary 1943", shape="rect", margin=0.25];
+	SF[label="SAN FRANCISCO\n1939–40\n(6 months)"];
+	Bali[label="BALI\nApril 1940"];
+	NZ[label="AUCKLAND\narrival February 1941\n(22 months)"];
  }
 
 // Déplacements et récits de voyage
  {
- 	travel -> London 
- 	London -> Oslo [label="Asylum Piece goes published" fontcolor="red" dir=forward color="red"];
- 	Oslo -> NY
- 	NY -> SF
- 	SF -> Bali[label="begin" fontcolor="blue" dir=forward color="blue"];
- 	Bali -> NY[label="end\nCactus Sign" fontcolor="blue" dir=forward color="blue"];
+ 	London -> Oslo 
+ 	Oslo -> NY [label="Asylum Piece gets published" fontcolor="gold" dir=forward color="gold"];
+ 	NY -> SF [label="begin" fontcolor="#1E90FF" dir=forward color="#1E90FF"];
+ 	SF -> Bali[fontcolor="#1E90FF" dir=forward color="#1E90FF"];
+ 	Bali -> NY[label="end\nCactus Sign" fontcolor="#1E90FF" dir=forward color="#1E90FF"];
  	NY -> NZ
- 	NZ -> NY[label="begin" fontcolor="green" dir=forward color="green"];
- 	NY -> London[label="end\nFive Months Further" fontcolor="green" dir=forward color="green"];
+ 	NZ -> NY[label="begin" fontcolor="seagreen" dir=forward color="seagreen"];
+ 	NY -> London[label="end\nFive Months Further" fontcolor="seagreen" dir=forward color="seagreen"];
  }
 }
 

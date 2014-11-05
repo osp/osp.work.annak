@@ -1,0 +1,95 @@
+digraph {
+    graph[overlap=false]
+    node[style="filled", fillcolor=white, fontname="Karla", penwidth=2]
+    edge[penwidth=2]
+
+// HF/AK
+ {
+   AK[label="Anna Kavan\n1939–1968", shape="rect", margin=0.25];
+ }
+
+// Bibliography as author Anna Kavan
+ node[fillcolor="#E7FFED"]
+ {
+  Asylum[label="1940\nAsylum Piece and other stories"];
+  CTN[label="1941\nChange The Name"];
+  Lazarus[label="1945\nI Am Lazarus"];
+  SHHH[label="1948\nSleep Has His house"];
+  Horse[label="1949\nThe Horse's Tale"];
+  Scarcity[label="1956\nA Scarcity of Love"];
+  Eagle[label="1957\nEagle's Nest"];
+  Bright[label="1958\nA Bright Green Field"];
+  WAY[label="1963\nWho Are You?"];
+  Ice[label="1967\nIce"];
+  Julia[label="1970\nJulia and her Bazooka"];
+  MySoul[label="1975\nMy Soul in China"];
+  Mercury[label="1994\nMercury"];
+  Parson[label="1995\nThe parson"];
+  Guilty[label="2007\nGuilty"];
+ }
+ 
+node[fillcolor=white]
+// Writes
+ {
+ 	AK -> Asylum
+ 	AK -> CTN
+ 	AK -> Lazarus
+ 	AK -> SHHH
+ 	AK -> Horse
+ 	AK -> Scarcity
+ 	AK -> Bright
+ 	AK -> WAY
+ 	AK -> Ice
+ 	AK -> MySoul
+ 	AK -> Mercury
+ 	AK -> Parson
+    AK -> Julia[style=dotted]
+    AK -> Guilty[style=dotted]
+    AK -> Eagle[style=dotted]
+ }
+
+
+// villes & pays
+ { 
+   London_1915[label="1915–18\nKavan sent to boarding school\nBack to London"];
+   Far_east[label="1919\nMarries Donald Ferguson\nCouple moves to Burma"];
+   London_1925[label="1925\nLeaving her husband in Burma\nKavan returns to London"];
+   SoF_25[label="1925\nMeets Stuart Edmonds\nSouth of France"];
+   London_1938[label="1938\nSecond marriage dissolves\nKavan attempts suicide\nadmitted to sanatorium"];	
+   SB_1936[label="1936\nTreatment of drug addiction\nat sanatorium Bellevue"];
+   NY[label="1939,40,43\nKavan stopped by 3 times\nin New-York"];
+   Carmel[label="1940\nKavan stayed\n6 months in Carmel"];
+   Auckland[label="1941–42\nKavan spent\n22 months in NZ"];
+   London_1943[label="1943\nWork at Mill Hill Hospital\nWork for Horizon review\nback to London"];
+   SA_1947[label="1947,48,49\nKavan visits her mother"]; 
+   SB_1947[label="1947,48\nTreatment of drug addiction\nat sanatorium Bellevue"];
+ }
+  
+// Autofiction
+ {
+  Asylum -> SB_1936
+  Asylum ->  London_1938
+  CTN -> Far_east
+  CTN -> London_1925
+  Lazarus -> London_1943
+  SHHH -> SA_1947
+  SHHH -> SB_1947
+  Horse -> SB_1947
+  Scarcity -> SA_1947
+  Bright -> NY
+  WAY -> Far_east
+  Ice -> Auckland
+  Julia -> London_1915
+  Julia -> SoF_25
+  Julia -> SB_1936
+  Julia -> London_1938
+  Julia -> Auckland
+  MySoul -> SB_1936
+  MySoul -> London_1938
+  MySoul -> Carmel
+  Mercury -> Auckland
+  Parson -> Far_east
+ }
+}
+
+
