@@ -1,0 +1,126 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://openlibrary.org/works/OL11334021W/> stats:hasCharacter "Captain",
+        "Chief",
+        "officers",
+        "schoolboy",
+        "student",
+        "uncle" .
+
+<https://openlibrary.org/works/OL11334022W/> stats:hasCharacter "Beryl Deane",
+        "Doctor Deane",
+        "Molly Maguilar",
+        "Mrs Deane",
+        "Olive Deane",
+        "Ronald Deane",
+        "Will Trenchard" .
+
+<https://openlibrary.org/works/OL11334023W/> stats:hasCharacter "A." .
+
+<https://openlibrary.org/works/OL11334025W/> stats:hasCharacter "Anna Kavan",
+        "Catherine Howard",
+        "Heyward Bland",
+        "James Forrester",
+        "Lauretta Bland",
+        "Lise Forrester",
+        "Matthew Kavan",
+        "Miss Wilson",
+        "Rachel Fielding",
+        "Sidney Reeve" .
+
+<https://openlibrary.org/works/OL11334026W/> stats:hasCharacter "Irving",
+        "John",
+        "Kay",
+        "Martin",
+        "Max",
+        "Oblomov",
+        "doctors",
+        "patient",
+        "the Australian" .
+
+<https://openlibrary.org/works/OL11334031W/> stats:hasCharacter "Carla",
+        "Julia",
+        "M",
+        "Oblomov",
+        "Torquil" .
+
+<https://openlibrary.org/works/OL11334034W/> stats:hasCharacter "girl",
+        "husband",
+        "warden" .
+
+<https://openlibrary.org/works/OL16818977W/> stats:hasCharacter "Carew",
+        "Edmond",
+        "Emerald",
+        "Karen",
+        "Morgan" .
+
+<https://openlibrary.org/works/OL16818996W/> stats:hasCharacter "Swithin" .
+
+<https://openlibrary.org/works/OL16819062W/> stats:hasCharacter "Dr Hieronymus",
+        "Hugh",
+        "Kathbar",
+        "Mr Patronage" .
+
+<https://openlibrary.org/works/OL1740026W/> stats:hasCharacter "Celia" .
+
+<https://openlibrary.org/works/OL1740029W/> stats:hasCharacter "Adam Green",
+        "Judith Spender",
+        "Thomas Spender" .
+
+<https://openlibrary.org/works/OL1740030W/> stats:hasCharacter "Carla",
+        "Mark",
+        "Mr Spector" .
+
+<https://openlibrary.org/works/OL1740034W/> stats:hasCharacter "Chas",
+        "Luke",
+        "Luz" .
+
+<https://openlibrary.org/works/OL1740037W/> stats:hasCharacter "Anna Kavan",
+        "Anthony Quested",
+        "Catherine Howard",
+        "Cedric Lewison",
+        "Claydon",
+        "David Fairborther",
+        "Edward Wilbur",
+        "George West",
+        "Gerald Gill",
+        "Germaine Lewison",
+        "Gwenda Lewison",
+        "Hubert Byrne",
+        "Lauretta Bland",
+        "Martin Lewison",
+        "Mary Graham",
+        "Matthew Kavan",
+        "Tony Quested",
+        "William Lewison",
+        "Winny West" .
+
+<https://openlibrary.org/works/OL1740040W/> stats:hasCharacter "Thomas Bow",
+        "doctor",
+        "patient" .
+
+<https://openlibrary.org/works/OL1740044W/> stats:hasCharacter "Oswald",
+        "Rejane" .
+
+<https://openlibrary.org/works/OL1740045W/> stats:hasCharacter "Gerda",
+        "Regina" .
+
+<https://openlibrary.org/works/OL1740046W/> stats:hasCharacter "Mohamed Dirwaza Khan",
+        "Mr DogHead",
+        "Suede Boots",
+        "doctor",
+        "girl" .
+
+<https://openlibrary.org/works/OL1740047W/> stats:hasCharacter "doctor",
+        "girl",
+        "mother" .
+
+<https://openlibrary.org/works/OL1740048W/> stats:hasCharacter "R.",
+        "doctor",
+        "patient" .
+
+
