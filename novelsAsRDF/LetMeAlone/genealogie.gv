@@ -1,24 +1,27 @@
 digraph {
-    james -> lise [label=époux]
+    node [fontname="Karla"]
+    edge [fontname="Karla"]
+
+    james -> lise [label=spouse]
     james -> anna [label=father]
     lise -> anna [label=mother]
 
 
-    james -> nurse [label=employeur]
-    nurse -> anna [label=éducatrice]
+    james -> nurse [label=employer]
+    nurse -> anna [label=educator]
 
 
     lauretta -> anna [label=parent]
-    lauretta -> heyward [label=époux]
+    lauretta -> heyward [label=spouse]
 
 
-    rachel -> lauretta [label=connaissance]
+    rachel -> lauretta [label=acquaintance]
     rachel -> anna  [label=mentor]
-    anna   -> sidney [label=ami]
-    sidney -> rachel [label=ennemi]
-    anna   -> catherine [label=ami]
+    anna   -> sidney [label=friend]
+    sidney -> rachel [label=enemy]
+    anna   -> catherine [label=friend]
 
-    matthew -> lauretta [label=connaissance]
-    anna    -> matthew [label=époux]
-    anna    -> anna [label="devient Anna Kavan"]
+    matthew -> lauretta [label=acquaintance]
+    anna    -> matthew [label=spouse]
+    anna    -> anna [label="becomes Anna Kavan"]
 }
