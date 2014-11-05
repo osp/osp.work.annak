@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL25448705M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL1740045W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        <bibo:contributorList rdf:parseType="Collection">
+         <foaf:Person><foaf:name>Ronald Blunden et Marie Noël</foaf:name></foaf:Person>
+         <foaf:Person><foaf:name>Brian Aldiss et Anaïs Nin</foaf:name></foaf:Person>
+        </bibo:contributorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>Mal aimées</dcterms:title>
+    
+
+            <dcterms:publisher>Stock</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>Paris</rdvocab:placeOfPublication>
+
+            <dcterms:issued>1975</dcterms:issued>
+    
+
+            <dcterms:extent>561</dcterms:extent>
+    
+
+            <rdvocab:dimensions>20 x  x  centimeters</rdvocab:dimensions>
+    
+
+        
+        <!-- subjects -->
+        
+        <!-- description -->
+            <dcterms:description>French edition, Neige suivi de Mal aimées.</dcterms:description>
+    
+
+        
+        <dcterms:language>fre</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL25448705M</dcterms:identifier>
+    
+
+            <bibo:oclcnum>9303523</bibo:oclcnum>
+
+        
+        
+        
+        <!-- administrative -->
+            <dcterms:modified>2014-07-18 07:42:25.162863</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

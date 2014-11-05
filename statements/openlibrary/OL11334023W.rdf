@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334023W/">
+            <dcterms:title>Eagles&#39; nest</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+        
+            <dcterms:coverage>rock-fortress</dcterms:coverage>
+
+        
+            <dcterms:description>FROM THE BOOK JACKET:
+
+In this powerful fantasy Anna Kavan, whose work has become an international cult in recent years, describes the quality of life for an individual who cannot face the harsh impact of modern civilization. Exploring the shifting territory between the concrete world and the world of dreams, she questions both the ultimate reality of personal identity, and of existence itself.
+
+Her narrator, reduced to the lowest depths of misfortune by some unexplained event, sets out on a Kafkaesque journey to the rock-fortress of Eagles&#39; Nest, and finds himself in some far-off, alien landscape, now vast and arid, burning under a searing sun, now lush with tropical vegetation or drenched by torrential waterfalls. His struggles to meet his former benefactor and future employer, A., his sinister encounters with the master&#39;s servants and with the local inhabitants, and this hallucinatory visions, lead to a crushing denouement that brings final recognition of his role in the scheme of things.
+
+First published in 1957 and now re-issued, this novel is one of the finest examples of Anna Kavan&#39;s powers to explore &#39;the nocturnal worlds of our dreams, fantasies, imagination and non-reason&#39; (Anais Nin in The Novel of the Future).</dcterms:description>
+    
+
+
+        
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448708M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334023W/"
+             </rdrel:workManifested>
+            <dcterms:title>Eagles&#39; nest</dcterms:title>
+            <dcterms:date>1976</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL19275902M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334023W/"
+             </rdrel:workManifested>
+            <dcterms:title>Eagles&#39; nest.</dcterms:title>
+            <dcterms:date>1957</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL11334023W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-21 11:53:16.215405</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-11 04:28:29.374443</dcterms:created>
+        <ov:versionnumber>5</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

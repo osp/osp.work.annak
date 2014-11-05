@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740026W/">
+            <dcterms:title>Change the name</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>female emancipation</dcterms:subject>
+    <dcterms:subject>bildungsroman</dcterms:subject>
+    <dcterms:subject>autobiographical</dcterms:subject>
+
+            <dcterms:coverage>England</dcterms:coverage>
+    <dcterms:coverage>Far East</dcterms:coverage>
+
+            <dcterms:coverage>1940</dcterms:coverage>
+
+            <dcterms:description>FROM THE BOOK JACKET:
+
+Frustrated by her wealthy father in her attempt to attend university, Celia becomes hard and selfish, taking what she wants.
+
+In order to escape from her parents, she marries the first man she meets and accompanies him to the Far East. After his early death, she returns to England with her baby daughter.
+
+Celia becomes a successful writer and lives with a variety of men. She destroys the life of her daughter, and also that of the sister-in-law who befriends her.
+
+Set earlier in this century. Change the Name is among the best of Anna Kavan&#39;s novels written when she used the name Helen Ferguson. It combines a strong story line with a firsthand account of English rural life, and foreshadows Kavan&#39;s development as one of the most exceptional writers of her time.</dcterms:description>
+    
+
+
+        <dcterms:subject>
+            <rdf:Description>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DDC"/>
+            <rdf:value>823/.912</rdf:value>
+        </rdf:Description>
+        </dcterms:subject>
+        <dcterms:subject>
+            <rdf:Description>
+                <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+                <rdf:value>PR6009.D63 C47 1993</rdf:value>
+            </rdf:Description>
+        </dcterms:subject>
+        
+            <dcterms:date>1993</dcterms:date>
+    
+
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445759M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740026W/"
+             </rdrel:workManifested>
+            <dcterms:title>Change the name</dcterms:title>
+            <dcterms:date>1941</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL1509066M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740026W/"
+             </rdrel:workManifested>
+            <dcterms:title>Change the name</dcterms:title>
+            <dcterms:date>1993</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL1740026W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 20:46:52.928385</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
+        <ov:versionnumber>5</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

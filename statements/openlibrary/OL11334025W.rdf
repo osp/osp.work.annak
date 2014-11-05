@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334025W/">
+            <dcterms:title>Let me alone</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>female emancipation</dcterms:subject>
+    <dcterms:subject>bildungsroman</dcterms:subject>
+    <dcterms:subject>autobiographical</dcterms:subject>
+    <dcterms:subject>First World War</dcterms:subject>
+    <dcterms:subject>colonialism</dcterms:subject>
+
+            <dcterms:coverage>Pyrenees</dcterms:coverage>
+    <dcterms:coverage>Blue Hills</dcterms:coverage>
+    <dcterms:coverage>River House</dcterms:coverage>
+    <dcterms:coverage>London</dcterms:coverage>
+    <dcterms:coverage>Oxford</dcterms:coverage>
+    <dcterms:coverage>Port Said</dcterms:coverage>
+    <dcterms:coverage>Rangoon</dcterms:coverage>
+
+            <dcterms:coverage>1920-1930</dcterms:coverage>
+
+            <dcterms:description>FROM THE BOOK JACKET:
+
+Anna Kavan&#39;s reputation is escalating internationally, and translations of her books are appearing in many languages. This early novel is therefore of especial interest, as an account of personal stresses which she was later to use and develop in more subjective and experimental ways. Indeed, it was the name of the central character of Let Me Alone that the author chose when she changed her name as a writer (and her personal identity) from Helen Ferguson to Anna Kavan.
+
+Anna&#39;s mother dies in childbirth and she is brought up by her father and a governess, in a remote Pyrenean village. When she is thirteen, her father shoots himself. She is adopted by a rich, beautiful and ruthless aunt, who relegates her to a boarding school. There she first becomes attached to the headmistress, Rachel, who takes a possessive interest in the unusual and attractive girl, and then to a fellow-pupil, Sidney Reeve. This girl prises Anna away from Rachel, but is finally supplanted in Anna&#39;s affections by another girl, Catherine. Leaving school, Anna is made to feel unwanted by her aunt, who forces her into a loveless marriage. She comes to detest her husband and his bourgeois family, but cannot break away and accompanies him to Burma. There, in an exotic setting described with Lawrentian intensity, the story reaches its climax.
+
+Sharp characterization combines with fine descriptive writing, especially of the Burmese countryside. In addition to is literary interest, the book evokes life in England and is colonies from the early years of the century through the period following the First World War.</dcterms:description>
+    
+
+
+        
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445717M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334025W/"
+             </rdrel:workManifested>
+            <dcterms:title>Let me alone</dcterms:title>
+            <dcterms:date>1930</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445672M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334025W/"
+             </rdrel:workManifested>
+            <dcterms:title>Laissez-moi ma solitude</dcterms:title>
+            <dcterms:date>1981</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445671M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334025W/"
+             </rdrel:workManifested>
+            <dcterms:title>Laissez-moi ma solitude</dcterms:title>
+            <dcterms:date>1993</dcterms:date>
+        </rdf:Description>    
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL21702896M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334025W/"
+             </rdrel:workManifested>
+            <dcterms:title>Let me alone: A novel</dcterms:title>
+            <dcterms:date>1974</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL11334025W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 14:36:09.272569</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-11 04:28:29.374443</dcterms:created>
+        <ov:versionnumber>11</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

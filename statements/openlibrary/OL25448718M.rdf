@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL25448718M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL11334034W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>Ice</dcterms:title>
+    
+
+            <dcterms:publisher>Popular Library</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>UK</rdvocab:placeOfPublication>
+
+            <dcterms:issued>1974</dcterms:issued>
+    
+
+            <dcterms:extent>207</dcterms:extent>
+    
+
+        
+        
+        <!-- subjects -->
+        
+        <!-- description -->
+        
+        
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL25448718M</dcterms:identifier>
+    
+
+        
+        
+        
+        
+        <!-- administrative -->
+            <dcterms:modified>2014-07-18 09:43:23.683122</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

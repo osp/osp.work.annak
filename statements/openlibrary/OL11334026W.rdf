@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334026W/">
+            <dcterms:title>My soul in China</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>Autobiographical fiction</dcterms:subject>
+    <dcterms:subject>Psychological fiction</dcterms:subject>
+    <dcterms:subject>surrealism fiction</dcterms:subject>
+
+            <dcterms:coverage>house</dcterms:coverage>
+    <dcterms:coverage>room</dcterms:coverage>
+    <dcterms:coverage>China</dcterms:coverage>
+    <dcterms:coverage>Wimpole street</dcterms:coverage>
+    <dcterms:coverage>clinic</dcterms:coverage>
+    <dcterms:coverage>dining-room</dcterms:coverage>
+    <dcterms:coverage>California</dcterms:coverage>
+    <dcterms:coverage>New York</dcterms:coverage>
+    <dcterms:coverage>verandah</dcterms:coverage>
+    <dcterms:coverage>hotel Les Mimosas</dcterms:coverage>
+    <dcterms:coverage>London</dcterms:coverage>
+    <dcterms:coverage>Perpignan</dcterms:coverage>
+    <dcterms:coverage>mountain</dcterms:coverage>
+
+            <dcterms:coverage>20th century</dcterms:coverage>
+
+            <dcterms:description>FROM THE BOOK JACKET:
+
+Since her death in 1968 there has been a strong international revival of interest in Anna Kavan&#39;s work. The novella and short stories in this collection have been selected and edited by Rhys Davies from MSS found after her death. They represent both her early and later writing.
+
+The novella My Soul in China belongs to the former category. Written after the failure of a second marriage, it contains autobiographical elements, including the experiences of mental breakdown and drug addiction. Its central character, a desperately unhappy woman, find temporary refuge, after the breakdown of her marriage, with an itinerant Australian. Their brief idyllic time together, spent at a lonely coastal retreat, is poignantly described. But when Kay&#39;s lover prepares to return to his family, she has once again to face the nightmare fear of mental isolation and loss of personal identity.
+
+The nine short stories show the author experimenting with new ideas and reflect, sometimes wryly, some of the contemporary problems -violence in society, pollution - that concerned her. All, however, reveal the weird atmosphere of mingled fantasy and reality which distinguished Anna Kavan&#39;s work.</dcterms:description>
+    
+
+
+        
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448771M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334026W/"
+             </rdrel:workManifested>
+            <dcterms:title>Mi alma en China</dcterms:title>
+            <dcterms:date>2004</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448770M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334026W/"
+             </rdrel:workManifested>
+            <dcterms:title>Mi alma en China</dcterms:title>
+            <dcterms:date>1992</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448769M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334026W/"
+             </rdrel:workManifested>
+            <dcterms:title>My soul in China</dcterms:title>
+            <dcterms:date>1984</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448768M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334026W/"
+             </rdrel:workManifested>
+            <dcterms:title>My soul in China</dcterms:title>
+            <dcterms:date>1975</dcterms:date>
+        </rdf:Description>    
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL15185622M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334026W/"
+             </rdrel:workManifested>
+            <dcterms:title>My soul in China: novella and stories</dcterms:title>
+            <dcterms:date>1991</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL11334026W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-22 15:39:57.610311</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-11 04:28:29.374443</dcterms:created>
+        <ov:versionnumber>6</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

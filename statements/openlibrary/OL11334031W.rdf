@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334031W/">
+            <dcterms:title>Julia and the bazooka</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>English Short stories</dcterms:subject>
+
+            <dcterms:coverage>hospital</dcterms:coverage>
+    <dcterms:coverage>garden</dcterms:coverage>
+    <dcterms:coverage>jungle</dcterms:coverage>
+    <dcterms:coverage>mountains</dcterms:coverage>
+    <dcterms:coverage>room</dcterms:coverage>
+    <dcterms:coverage>bathroom</dcterms:coverage>
+    <dcterms:coverage>hotel</dcterms:coverage>
+    <dcterms:coverage>on the road</dcterms:coverage>
+    <dcterms:coverage>South of France</dcterms:coverage>
+    <dcterms:coverage>tennis court</dcterms:coverage>
+    <dcterms:coverage>boarding school</dcterms:coverage>
+
+            <dcterms:coverage>20th century</dcterms:coverage>
+
+            <dcterms:description>FROM THE BOOK JACKET:
+
+Here are fifteen startling stories that reflect the weird, thrilling realm into which this brilliant English writer&#39;s dangerous life and powerful artistic drive propelled her - thirty years of seesawing stability and chaos: constant drug addiction, suicide attempts, productive work in painting and editing, two marriages and a son, long sojourns in mental hospitals, widely admired novels and short stories.
+
+Her stories penetrate the black holes of human consciousness and perception, a region of hypnotic games and seductive hallucinations where everything is animate, where the vertiginous panic and tough pride of the outcast merge with a tender, tranquil appeal to what is beautiful and lasting.</dcterms:description>
+    
+
+
+        
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448765M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334031W/"
+             </rdrel:workManifested>
+            <dcterms:title>Giulia e il bazooka</dcterms:title>
+            <dcterms:date>1992</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448762M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334031W/"
+             </rdrel:workManifested>
+            <dcterms:title>Julia en de bazooka : en andere verhalen</dcterms:title>
+            <dcterms:date>1973</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448761M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334031W/"
+             </rdrel:workManifested>
+            <dcterms:title>Julia und die bazooka</dcterms:title>
+            <dcterms:date>1983</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448759M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334031W/"
+             </rdrel:workManifested>
+            <dcterms:title>Nouvelles d&#39;une vie - Julia et son bazooka</dcterms:title>
+            <dcterms:date>1990</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448754M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334031W/"
+             </rdrel:workManifested>
+            <dcterms:title>Julia and the bazooka</dcterms:title>
+            <dcterms:date>2009</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448753M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334031W/"
+             </rdrel:workManifested>
+            <dcterms:title>Julia and the bazooka</dcterms:title>
+            <dcterms:date>1985</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448752M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334031W/"
+             </rdrel:workManifested>
+            <dcterms:title>Julia and the bazooka</dcterms:title>
+            <dcterms:date>1975</dcterms:date>
+        </rdf:Description>    
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL21702956M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334031W/"
+             </rdrel:workManifested>
+            <dcterms:title>Julia and the bazooka: and other stories</dcterms:title>
+            <dcterms:date>1970</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL15081007M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334031W/"
+             </rdrel:workManifested>
+            <dcterms:title>Julia and the bazooka</dcterms:title>
+            <dcterms:date>1974</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL11334031W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-07-18 12:04:34.187826</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-11 04:28:29.374443</dcterms:created>
+        <ov:versionnumber>6</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

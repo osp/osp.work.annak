@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL2085335M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL1740029W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>Goose Cross a novel</dcterms:title>
+    
+
+            <dcterms:publisher>John Lane</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>London</rdvocab:placeOfPublication>
+
+            <dcterms:issued>1936</dcterms:issued>
+    
+
+            <dcterms:extent>389 p. ;</dcterms:extent>
+    
+
+            <rdvocab:dimensions>21 x  x  centimeters</rdvocab:dimensions>
+    
+
+            <bibo:edition>First edition</bibo:edition>
+    
+
+        <!-- subjects -->
+        
+        <dcterms:subject>
+            <rdf:Description>
+                <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DDC"/>
+                <rdf:value>823/.912</rdf:value>
+            </rdf:Description>
+        </dcterms:subject>
+         <dcterms:subject>
+            <rdf:Description>
+                <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+                <rdf:value>PR6009.D63 G66 1936</rdf:value>
+            </rdf:Description>
+        </dcterms:subject>
+        <!-- description -->
+        
+            <rdvocab:note>Originally published as author Helen Ferguson. Not reprinted.</rdvocab:note>
+    
+
+        <dcterms:language>eng</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL2085335M</dcterms:identifier>
+    
+
+            <bibo:oclcnum>18379427</bibo:oclcnum>
+
+            <bibo:lccn>88125247</bibo:lccn>
+
+        
+        
+        <!-- administrative -->
+            <dcterms:modified>2014-06-11 18:28:21.949486</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

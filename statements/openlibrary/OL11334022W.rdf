@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334022W/">
+            <dcterms:title>A charmed circle</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>domestic fiction</dcterms:subject>
+    <dcterms:subject>In Library</dcterms:subject>
+    <dcterms:subject>Protected DAISY</dcterms:subject>
+
+            <dcterms:coverage>London</dcterms:coverage>
+    <dcterms:coverage>Hannington</dcterms:coverage>
+    <dcterms:coverage>Old Vicarage</dcterms:coverage>
+
+            <dcterms:coverage>1920</dcterms:coverage>
+
+            <dcterms:description>FROM THE BOOK JACKET:
+
+Anna Kavan is now regarded as one of the most original writers of the twentieth century. An early novel, A Charmed Circle foreshadows her later development. It is the story of a family marooned in a country house near an ugly, expanding manufacturing town of the 1920&#39;s.
+
+The atmosphere of the house is heavy with repression, hostility and revolt, and is darkened by the sinister influence of the father, whose warped nature dominates the lives of his wife, daughters and son.
+
+The struggles of the young people to escape from this malign environment, their desperate search for self-expression and freedom, and their apparent successes point only to the inevitable triumph of temperament and upbringing, and leave them enclosed in a charmed circle of their limitations.
+
+With a masterly touch, Kavan contrasts the English countryside with the brittle London life of the era.</dcterms:description>
+    
+
+
+        
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445631M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334022W/"
+             </rdrel:workManifested>
+            <dcterms:title>A charmed circle</dcterms:title>
+            <dcterms:date>2000</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445628M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334022W/"
+             </rdrel:workManifested>
+            <dcterms:title>A charmed circle</dcterms:title>
+            <dcterms:date>1929</dcterms:date>
+        </rdf:Description>    
+        
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL15185654M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334022W/"
+             </rdrel:workManifested>
+            <dcterms:title>A charmed circle</dcterms:title>
+            <dcterms:date>1994</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL11334022W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-22 09:58:58.783854</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-11 04:28:29.374443</dcterms:created>
+        <ov:versionnumber>15</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

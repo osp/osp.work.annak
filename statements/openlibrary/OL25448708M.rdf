@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL25448708M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL11334023W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>Eagles&#39; nest</dcterms:title>
+    
+
+            <dcterms:publisher>Peter Owen</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>London</rdvocab:placeOfPublication>
+
+            <dcterms:issued>1976</dcterms:issued>
+    
+
+            <dcterms:extent>179</dcterms:extent>
+    
+
+            <rdvocab:dimensions>19 x  x  centimeters</rdvocab:dimensions>
+    
+
+        
+        <!-- subjects -->
+        
+        <!-- description -->
+        
+        
+        <dcterms:language>eng</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL25448708M</dcterms:identifier>
+    
+
+            <bibo:oclcnum>716764707</bibo:oclcnum>
+
+        
+            <bibo:isbn10>0720628350</bibo:isbn10>
+
+            <bibo:isbn13>9780720628357</bibo:isbn13>
+
+        <!-- administrative -->
+            <dcterms:modified>2014-07-18 07:58:28.992061</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

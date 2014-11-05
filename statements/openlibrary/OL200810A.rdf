@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:bio='http://purl.org/vocab/bio/0.1/'
+  xmlns:rdg2='http://rdvocab.info/ElementsGr2/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+  xmlns:ov='http://open.vocab.org/terms/'
+>
+
+    
+
+
+    <foaf:Person rdf:about="http://openlibrary.org/authors/OL200810A">
+            <foaf:name>Anna Kavan</foaf:name>
+    
+    
+
+            <rdg2:variantNameForThePerson>Helen Emily Woods</rdg2:variantNameForThePerson>
+    <rdg2:variantNameForThePerson>Helen Ferguson</rdg2:variantNameForThePerson>
+    <rdg2:variantNameForThePerson>Anna KAVAN</rdg2:variantNameForThePerson>
+
+        
+        
+
+      <bio:event>
+          <bio:Birth>
+               <dcterms:date>1901</dcterms:date>
+          </bio:Birth>
+      </bio:event>
+      
+      <bio:event>
+          <bio:Death>
+              <dcterms:date>1968</dcterms:date>
+          </bio:Death>
+      </bio:event> 
+      
+      
+      <foaf:page>
+          <foaf:Document rdf:about="http://www.annakavan.org.uk/">
+              <rdfs:label>Anna Kavan Society</rdfs:label>
+          </foaf:Document>
+      </foaf:page>
+      
+      <foaf:page>
+          <foaf:Document rdf:about="http://www.utulsa.edu/mcfarlin/speccoll/collections/kavan/">
+              <rdfs:label>Anna Kavan papers University of Tulsa</rdfs:label>
+          </foaf:Document>
+      </foaf:page>
+      
+      <foaf:page>
+          <foaf:Document rdf:about="http://en.wikipedia.org/wiki/Anna_Kavan">
+              <rdfs:label>Anna Kavan Wikipedia</rdfs:label>
+          </foaf:Document>
+      </foaf:page>
+      
+      <foaf:depiction>
+      <foaf:Image rdf:about="http://covers.openlibrary.org/b/id/7280530-M.jpg" /></foaf:depiction>
+      
+    </foaf:Person>
+
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 12:55:37.324449</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-04-01 03:28:50.625462</dcterms:created>
+        <ov:versionnumber>10</ov:versionnumber>
+    </rdf:Description>
+</rdf:RDF>

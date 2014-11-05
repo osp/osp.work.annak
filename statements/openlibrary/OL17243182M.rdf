@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL17243182M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL1740030W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+            <dcterms:contributor>Sturm, Jennifer</dcterms:contributor>
+
+        <!-- bibliographic description -->
+            <dcterms:title>Guilty</dcterms:title>
+    
+
+            <dcterms:publisher>Peter Owen</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>London</rdvocab:placeOfPublication>
+    <rdvocab:placeOfPublication>Chester Springs, PA</rdvocab:placeOfPublication>
+
+            <dcterms:issued>2007</dcterms:issued>
+    
+
+            <dcterms:extent>189 p. ;</dcterms:extent>
+    
+
+        
+        
+        <!-- subjects -->
+        
+        <!-- description -->
+        
+        
+        <dcterms:language>eng</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL17243182M</dcterms:identifier>
+    
+
+        
+        
+            <bibo:isbn10>072061287X</bibo:isbn10>
+
+            <bibo:isbn13>9780720612875</bibo:isbn13>
+
+        <!-- administrative -->
+            <dcterms:modified>2014-07-18 14:17:21.204721</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

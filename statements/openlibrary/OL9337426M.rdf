@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL9337426M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL1740048W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>Asylum Piece and Other Stories</dcterms:title>
+    
+
+            <dcterms:publisher>Michael Kesend Pub Ltd</dcterms:publisher>
+
+        
+            <dcterms:issued>February 1984</dcterms:issued>
+    
+
+            <dcterms:extent>206</dcterms:extent>
+    
+
+            <rdvocab:dimensions>22 x  x  inches</rdvocab:dimensions>
+    
+
+        
+        <!-- subjects -->
+        
+        <!-- description -->
+            <dcterms:description>Originally published in UK by Jonathan Cape in 1940 and in US by Doubleday in 1945.</dcterms:description>
+    
+
+        
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL9337426M</dcterms:identifier>
+    
+
+            <bibo:oclcnum>476527994</bibo:oclcnum>
+
+            <bibo:lccn>79028536</bibo:lccn>
+
+            <bibo:isbn10>0935576029</bibo:isbn10>
+
+            <bibo:isbn13>9780935576023</bibo:isbn13>
+
+        <!-- administrative -->
+            <dcterms:modified>2014-06-11 15:34:10.141406</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

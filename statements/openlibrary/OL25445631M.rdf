@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdvocab='http://RDVocab.info/elements/'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:foaf='http://xmlns.com/foaf/0.1/'
+>
+    
+    
+
+    <rdf:Description rdf:about="http://openlibrary.org/books/OL25445631M">
+        <rdrel:workManifested rdf:resource="http://openlibrary.org/works/OL11334022W"/>
+        <!-- authors -->
+        <bibo:authorList rdf:parseType="Collection">
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+             <rdf:value>Anna Kavan</rdf:value>
+          </rdf:Description>
+        </bibo:authorList>
+        
+        <!-- bibliographic description -->
+            <dcterms:title>A charmed circle</dcterms:title>
+    
+
+            <dcterms:publisher>Peter Owen</dcterms:publisher>
+
+            <rdvocab:placeOfPublication>London</rdvocab:placeOfPublication>
+
+            <dcterms:issued>2000</dcterms:issued>
+    
+
+            <dcterms:extent>320</dcterms:extent>
+    
+
+            <rdvocab:dimensions>21 x 16,8 x 2,9 inches</rdvocab:dimensions>
+    
+
+            <bibo:edition>Reprint</bibo:edition>
+    
+
+        <!-- subjects -->
+        
+        <!-- description -->
+            <dcterms:description>Originally published as Helen Ferguson.</dcterms:description>
+    
+
+        
+        <dcterms:language>eng</dcterms:language>
+        <!-- identifiers -->
+            <dcterms:identifier>/books/OL25445631M</dcterms:identifier>
+    
+
+        
+        
+            <bibo:isbn10>0720609283</bibo:isbn10>
+
+            <bibo:isbn13>9780720609288</bibo:isbn13>
+
+        <!-- administrative -->
+            <dcterms:modified>2014-06-11 18:21:57.203724</dcterms:modified>
+    
+
+    </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334021W/">
+            <dcterms:title>A bright green field,and other stories</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+        
+            <dcterms:coverage>High City</dcterms:coverage>
+
+        
+            <dcterms:description>FROM THE BOOK JACKET:
+
+Anna Kavan&#39;s earlier short stories are already regarded by prominent critics as classics. Her volumes of stories Asylyum Piece and I am Lazarus established her in the front rank of English writers, and admirers of her work will not be disappointed with this new collection. The title story is allegorical writing at its best, and bears the stamp of the author&#39;s compulsive power. In contrast, the other stores, like Happy Name, The Birds Dancing and New and Splendid, show her grasp of the conflict between dream and reality, and an acute awareness of human dignity constantly threatened by insensitive unkindness. Ice Storm and The End of Something, in their delicate evocation of mood, stand as testament to Miss Kavan&#39;s wide range.</dcterms:description>
+    
+
+
+        
+
+         
+
+        </frbr:Work> 
+
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL19693326M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL11334021W/"
+             </rdrel:workManifested>
+            <dcterms:title>A bright green field and other stories.</dcterms:title>
+            <dcterms:date>1958</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL11334021W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-21 11:59:04.375098</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-11 04:28:29.374443</dcterms:created>
+        <ov:versionnumber>5</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>

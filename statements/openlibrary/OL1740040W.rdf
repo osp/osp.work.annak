@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:rdrel='http://RDVocab.info/RDARelationshipsWEMI/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:dcam='http://purl.org/dc/dcam/'
+  xmlns:ov='http://open.vocab.org/terms/'
+  xmlns:frbr='http://purl.org/vocab/frbr/core#'
+>
+
+
+    
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740040W/">
+            <dcterms:title>I am Lazarus</dcterms:title>
+    
+
+
+        <dcterms:creator>
+          <rdf:Description rdf:about="http://openlibrary.org/authors/OL200810A">
+          <rdf:value>Anna Kavan</rdf:value> 
+          </rdf:Description>
+        </dcterms:creator> 
+        
+        
+            <dcterms:subject>Second World War</dcterms:subject>
+    <dcterms:subject>war writers</dcterms:subject>
+    <dcterms:subject>psychiatric hospital patient</dcterms:subject>
+    <dcterms:subject>psychological fiction</dcterms:subject>
+
+            <dcterms:coverage>London</dcterms:coverage>
+    <dcterms:coverage>Mill Hill Hospital</dcterms:coverage>
+
+            <dcterms:coverage>1940-1950</dcterms:coverage>
+
+            <dcterms:description>First published in 1945, the stories collected under the title I Am Lazarus are a brilliant summation of the war experiences of Anna Kavan in Blitz-era London, working among invalided soldiers at a ‘military neurosis centre’ in Mill Hill. Kavan’s view of the capital and some of its war victims in this momentous era are typically original and oblique: ‘Lazarus’ is a patient revived from catatonia who somehow remains institutionalized; the Blitz spirit is coolly stripped of cheeriness and never-say-die in ‘Glorious Boys and ‘Our City’; there is a Hithcockian horror story in ‘The Gannets’, while in ‘Who Has Desired The Sea’ and ‘The Blackout’ the ‘shell-shocked’ have ultimately only seen war exacerbate old, long-suppressed psychological wounds. Chilling but compassionate classics, the I Am Lazarus collection, republished now after many years, are essential documents of the time – and of Anna Kavan.</dcterms:description>
+    
+
+
+        <dcterms:subject>
+            <rdf:Description>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DDC"/>
+            <rdf:value>823/.9/12</rdf:value>
+        </rdf:Description>
+        </dcterms:subject>
+            <dcterms:date>1945</dcterms:date>
+    
+
+
+         
+
+        </frbr:Work> 
+
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445760M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740040W/"
+             </rdrel:workManifested>
+            <dcterms:title>I am Lazarus: Short stories</dcterms:title>
+            <dcterms:date>2013</dcterms:date>
+        </rdf:Description>    
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL6483696M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740040W/"
+             </rdrel:workManifested>
+            <dcterms:title>I am Lazarus: short stories</dcterms:title>
+            <dcterms:date>1945</dcterms:date>
+        </rdf:Description>    
+        
+        
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL4472861M/">
+           <rdrel:workManifested>
+              "http://openlibrary.org/works/OL1740040W/"
+             </rdrel:workManifested>
+            <dcterms:title>I am Lazarus: Short stories</dcterms:title>
+            <dcterms:date>1978</dcterms:date>
+        </rdf:Description>    
+        
+        
+    <!-- administrative -->
+    <rdf:Description rdf:about="http://openlibrary.org/works/OL1740040W/about/">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 20:43:08.859905</dcterms:modified>
+        <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
+        <ov:versionnumber>5</ov:versionnumber>
+    </rdf:Description>
+
+</rdf:RDF>
