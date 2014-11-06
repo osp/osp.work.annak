@@ -18,6 +18,7 @@ BOOKS = {
     "http://openlibrary.org/works/OL16819062W/": "TheHorseSTale.txt",
     "http://openlibrary.org/works/OL1740044W/": "TheParson.txt",
     "http://openlibrary.org/works/OL1740046W/": "WhoAreYou.txt",
+    "http://openlibrary.org/works/OL11334021W/": "NewAndSplendid.txt" # A Bright Green Field, including New and Splendid
 }
 
 
@@ -48,4 +49,4 @@ if __name__ == '__main__':
         graph.add((subject, ns_stats.hasUniqueWordCount, rdflib.Literal(stats['uwc'])))
         graph.add((subject, ns_stats.hasDiversityIndice, rdflib.Literal(stats['idx'])))
 
-    print(graph.serialize(format="turtle"))
+        print(graph.serialize(format="turtle"))

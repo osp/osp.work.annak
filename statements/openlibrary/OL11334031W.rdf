@@ -39,11 +39,9 @@
 
             <dcterms:coverage>20th century</dcterms:coverage>
 
-            <dcterms:description>FROM THE BOOK JACKET:
+            <dcterms:description>Here are fifteen startling stories that reflect the weird, thrilling realm into which this brilliant English writer&#39;s dangerous life and powerful artistic drive propelled her - thirty years of seesawing stability and chaos: constant drug addiction, suicide attempts, productive work in painting and editing, two marriages and a son, long sojourns in mental hospitals, widely admired novels and short stories.
 
-Here are fifteen startling stories that reflect the weird, thrilling realm into which this brilliant English writer&#39;s dangerous life and powerful artistic drive propelled her - thirty years of seesawing stability and chaos: constant drug addiction, suicide attempts, productive work in painting and editing, two marriages and a son, long sojourns in mental hospitals, widely admired novels and short stories.
-
-Her stories penetrate the black holes of human consciousness and perception, a region of hypnotic games and seductive hallucinations where everything is animate, where the vertiginous panic and tough pride of the outcast merge with a tender, tranquil appeal to what is beautiful and lasting.</dcterms:description>
+Her stories penetrate the black holes of human consciousness and perception, a region of hypnotic games and seductive hallucinations where everything is animate, where the vertiginous panic and tough pride of the outcast merge with a tender, tranquil appeal to what is beautiful and lasting. (From the book jacket,first american edition published in 1975).</dcterms:description>
     
 
 
@@ -144,9 +142,9 @@ Her stories penetrate the black holes of human consciousness and perception, a r
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL11334031W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-07-18 12:04:34.187826</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:48:01.700087</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-11 04:28:29.374443</dcterms:created>
-        <ov:versionnumber>6</ov:versionnumber>
+        <ov:versionnumber>7</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

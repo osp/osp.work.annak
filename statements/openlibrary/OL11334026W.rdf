@@ -43,13 +43,11 @@
 
             <dcterms:coverage>20th century</dcterms:coverage>
 
-            <dcterms:description>FROM THE BOOK JACKET:
-
-Since her death in 1968 there has been a strong international revival of interest in Anna Kavan&#39;s work. The novella and short stories in this collection have been selected and edited by Rhys Davies from MSS found after her death. They represent both her early and later writing.
+            <dcterms:description>Since her death in 1968 there has been a strong international revival of interest in Anna Kavan&#39;s work. The novella and short stories in this collection have been selected and edited by Rhys Davies from MSS found after her death. They represent both her early and later writing.
 
 The novella My Soul in China belongs to the former category. Written after the failure of a second marriage, it contains autobiographical elements, including the experiences of mental breakdown and drug addiction. Its central character, a desperately unhappy woman, find temporary refuge, after the breakdown of her marriage, with an itinerant Australian. Their brief idyllic time together, spent at a lonely coastal retreat, is poignantly described. But when Kay&#39;s lover prepares to return to his family, she has once again to face the nightmare fear of mental isolation and loss of personal identity.
 
-The nine short stories show the author experimenting with new ideas and reflect, sometimes wryly, some of the contemporary problems -violence in society, pollution - that concerned her. All, however, reveal the weird atmosphere of mingled fantasy and reality which distinguished Anna Kavan&#39;s work.</dcterms:description>
+The nine short stories show the author experimenting with new ideas and reflect, sometimes wryly, some of the contemporary problems -violence in society, pollution - that concerned her. All, however, reveal the weird atmosphere of mingled fantasy and reality which distinguished Anna Kavan&#39;s work. (From the book jacket, first british edition published in 1975).</dcterms:description>
     
 
 
@@ -110,9 +108,9 @@ The nine short stories show the author experimenting with new ideas and reflect,
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL11334026W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-22 15:39:57.610311</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:49:20.617429</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-11 04:28:29.374443</dcterms:created>
-        <ov:versionnumber>6</ov:versionnumber>
+        <ov:versionnumber>8</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

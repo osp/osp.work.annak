@@ -32,15 +32,13 @@
 
             <dcterms:coverage>1940</dcterms:coverage>
 
-            <dcterms:description>FROM THE BOOK JACKET:
-
-Frustrated by her wealthy father in her attempt to attend university, Celia becomes hard and selfish, taking what she wants.
+            <dcterms:description>Frustrated by her wealthy father in her attempt to attend university, Celia becomes hard and selfish, taking what she wants.
 
 In order to escape from her parents, she marries the first man she meets and accompanies him to the Far East. After his early death, she returns to England with her baby daughter.
 
 Celia becomes a successful writer and lives with a variety of men. She destroys the life of her daughter, and also that of the sister-in-law who befriends her.
 
-Set earlier in this century. Change the Name is among the best of Anna Kavan&#39;s novels written when she used the name Helen Ferguson. It combines a strong story line with a firsthand account of English rural life, and foreshadows Kavan&#39;s development as one of the most exceptional writers of her time.</dcterms:description>
+Set earlier in this century. Change the Name is among the best of Anna Kavan&#39;s novels written when she used the name Helen Ferguson. It combines a strong story line with a firsthand account of English rural life, and foreshadows Kavan&#39;s development as one of the most exceptional writers of her time. (From the book jacket, british reprint published in 1993).</dcterms:description>
     
 
 
@@ -87,9 +85,9 @@ Set earlier in this century. Change the Name is among the best of Anna Kavan&#39
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL1740026W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 20:46:52.928385</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:34:06.774358</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
-        <ov:versionnumber>5</ov:versionnumber>
+        <ov:versionnumber>6</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

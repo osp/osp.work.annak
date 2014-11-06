@@ -34,13 +34,11 @@
 
             <dcterms:coverage>20th century</dcterms:coverage>
 
-            <dcterms:description>FROM THE BOOK JACKET:
-
-The people in this story live through the same situations twice over. Their identifies are equally real, or unreal, in each case; but, because of slight variations in background and atmosphere, neither the outcome nor they themselves are quite the same the second time, and the brain-fever bird&#39;s question, Who are you? can only be left unanswered - the answer could just as well be either of their different identifies; or both; or neither of them.
+            <dcterms:description>The people in this story live through the same situations twice over. Their identifies are equally real, or unreal, in each case; but, because of slight variations in background and atmosphere, neither the outcome nor they themselves are quite the same the second time, and the brain-fever bird&#39;s question, Who are you? can only be left unanswered - the answer could just as well be either of their different identifies; or both; or neither of them.
 
 Anna Kavan, a write with a vision entirely her own, believes there is no such thing as absolute reality. For her nothing is what it seems, everything is essentially unknown, and the components of so-called reality - circumstances, environment, etc. - are fluid, in a continually changing state, rather like different coloured spotlights, affording brief distorted glimpses of events and people, which never remain the same for more than a second. In this fluctuating unreliable light, certain momentary aspects of the lives of the characters are here twice recorded, before they pass into other moments and different aspects of their existence - a repetition which accentuates the economy and directness of the writing, quite without superfluous decoration.
 
-Her novels and short stories have for some years been considered by eminent critics as among the most absorbing now being written. Lawrence Durrell described her as belonging with Virginia Woolf, Anais Nin and Djuna Barnes, to &#39;the great subjective-feminine tradition which has tried to vive us a poetic notation of the female artist&#39;s world&#39;. This new book takes her work a stage further in experimental technique and uncompromising imagination.</dcterms:description>
+Her novels and short stories have for some years been considered by eminent critics as among the most absorbing now being written. Lawrence Durrell described her as belonging with Virginia Woolf, Anais Nin and Djuna Barnes, to &#39;the great subjective-feminine tradition which has tried to vive us a poetic notation of the female artist&#39;s world&#39;. This new book takes her work a stage further in experimental technique and uncompromising imagination. (From the book jacket, first british edition published in 1963).</dcterms:description>
     
 
 
@@ -88,7 +86,7 @@ Her novels and short stories have for some years been considered by eminent crit
               "http://openlibrary.org/works/OL1740046W/"
              </rdrel:workManifested>
             <dcterms:title>Who Are You?</dcterms:title>
-            <dcterms:date>October 1982</dcterms:date>
+            <dcterms:date>1982, October</dcterms:date>
         </rdf:Description>    
         
         
@@ -113,9 +111,9 @@ Her novels and short stories have for some years been considered by eminent crit
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL1740046W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-21 12:00:49.622092</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:45:58.255953</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
-        <ov:versionnumber>8</ov:versionnumber>
+        <ov:versionnumber>10</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

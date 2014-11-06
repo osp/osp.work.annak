@@ -32,11 +32,9 @@
         
             <dcterms:coverage>20th century</dcterms:coverage>
 
-            <dcterms:description>FROM THE BOOK JACKET:
+            <dcterms:description>Since her death in 1968, there has been a strong revival of interest in Anna Kavan&#39;s work. Sleep Has His House, combining autobiography with surrealist experimentation, deserves to rank with the author&#39;s best works.
 
-Since her death in 1968, there has been a strong revival of interest in Anna Kavan&#39;s work. Sleep Has His House, combining autobiography with surrealist experimentation, deserves to rank with the author&#39;s best works.
-
-In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension; without tension the creative impulse cannot exist. If human life be taken as the result of tension between the two polarities night and day, night, the negative pole, must share equal importance with the positive day. At night, under the influence of cosmic radiations quite different from those of the day, human affairs are apt to come to a crisis. At night most human beings die and are born. Sleep Has His House describes in the night-time language certain stages in the development of one individual human being. No interpretation is needed of this language we have all spoken in childhood and in our dreams; but for the sake of unity a few words before every section indicate the corresponding events of the day.&#39;</dcterms:description>
+In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension; without tension the creative impulse cannot exist. If human life be taken as the result of tension between the two polarities night and day, night, the negative pole, must share equal importance with the positive day. At night, under the influence of cosmic radiations quite different from those of the day, human affairs are apt to come to a crisis. At night most human beings die and are born. Sleep Has His House describes in the night-time language certain stages in the development of one individual human being. No interpretation is needed of this language we have all spoken in childhood and in our dreams; but for the sake of unity a few words before every section indicate the corresponding events of the day.&#39; (From the book jacket, british reprint published in 1973).</dcterms:description>
     
 
 
@@ -114,7 +112,7 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
               "http://openlibrary.org/works/OL1740047W/"
              </rdrel:workManifested>
             <dcterms:title>Sleep Has His House</dcterms:title>
-            <dcterms:date>February 1984</dcterms:date>
+            <dcterms:date>1984, February</dcterms:date>
         </rdf:Description>    
         
         
@@ -150,9 +148,9 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL1740047W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 21:09:22.969829</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:35:46.045394</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
-        <ov:versionnumber>5</ov:versionnumber>
+        <ov:versionnumber>7</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>
