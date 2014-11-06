@@ -18,12 +18,25 @@ for elt in tree.xpath('//li[@data-item-type="tweet"]'):
     date_elt = elt.xpath('.//span[@data-time-ms]')[0]
     timestamp = int(date_elt.attrib['data-time-ms'])
 
-    tweets.append({
+    id_elt = elt.xpath('.//div[@data-tweet-id]')[0]
+    id = int(id_elt.attrib['data-tweet-id'])
+
+    data = {
         "fullname": fullname,
         "username": username,
         "timestamp": timestamp,
-        "tweet": tweet
-    })
+        "tweet": tweet,
+        "id": id,
+        "img": []
+
+    }
+
+    img_elts = elt.xpath('.//div[@data-resolved-url-large]')
+    for img in img_elts:
+        data['img'].append(img.attrib['data-resolved-url-large'])
+
+    tweets.append(data)
+
     #print(fullname)
     #print(username)
     #print(timestamp)
