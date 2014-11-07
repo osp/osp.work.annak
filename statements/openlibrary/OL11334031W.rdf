@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334031W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334031W">
             <dcterms:title>Julia and the bazooka</dcterms:title>
     
 
@@ -52,9 +52,9 @@ Her stories penetrate the black holes of human consciousness and perception, a r
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448765M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448765M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334031W/"
+              "http://openlibrary.org/works/OL11334031W"
              </rdrel:workManifested>
             <dcterms:title>Giulia e il bazooka</dcterms:title>
             <dcterms:date>1992</dcterms:date>
@@ -62,9 +62,9 @@ Her stories penetrate the black holes of human consciousness and perception, a r
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448762M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448762M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334031W/"
+              "http://openlibrary.org/works/OL11334031W"
              </rdrel:workManifested>
             <dcterms:title>Julia en de bazooka : en andere verhalen</dcterms:title>
             <dcterms:date>1973</dcterms:date>
@@ -72,9 +72,9 @@ Her stories penetrate the black holes of human consciousness and perception, a r
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448761M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448761M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334031W/"
+              "http://openlibrary.org/works/OL11334031W"
              </rdrel:workManifested>
             <dcterms:title>Julia und die bazooka</dcterms:title>
             <dcterms:date>1983</dcterms:date>
@@ -82,9 +82,9 @@ Her stories penetrate the black holes of human consciousness and perception, a r
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448759M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448759M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334031W/"
+              "http://openlibrary.org/works/OL11334031W"
              </rdrel:workManifested>
             <dcterms:title>Nouvelles d&#39;une vie - Julia et son bazooka</dcterms:title>
             <dcterms:date>1990</dcterms:date>
@@ -92,9 +92,9 @@ Her stories penetrate the black holes of human consciousness and perception, a r
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448754M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448754M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334031W/"
+              "http://openlibrary.org/works/OL11334031W"
              </rdrel:workManifested>
             <dcterms:title>Julia and the bazooka</dcterms:title>
             <dcterms:date>2009</dcterms:date>
@@ -102,9 +102,9 @@ Her stories penetrate the black holes of human consciousness and perception, a r
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448753M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448753M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334031W/"
+              "http://openlibrary.org/works/OL11334031W"
              </rdrel:workManifested>
             <dcterms:title>Julia and the bazooka</dcterms:title>
             <dcterms:date>1985</dcterms:date>
@@ -112,18 +112,18 @@ Her stories penetrate the black holes of human consciousness and perception, a r
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448752M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448752M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334031W/"
+              "http://openlibrary.org/works/OL11334031W"
              </rdrel:workManifested>
             <dcterms:title>Julia and the bazooka</dcterms:title>
             <dcterms:date>1975</dcterms:date>
         </rdf:Description>    
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL21702956M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL21702956M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334031W/"
+              "http://openlibrary.org/works/OL11334031W"
              </rdrel:workManifested>
             <dcterms:title>Julia and the bazooka: and other stories</dcterms:title>
             <dcterms:date>1970</dcterms:date>
@@ -131,9 +131,9 @@ Her stories penetrate the black holes of human consciousness and perception, a r
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL15081007M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL15081007M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334031W/"
+              "http://openlibrary.org/works/OL11334031W"
              </rdrel:workManifested>
             <dcterms:title>Julia and the bazooka</dcterms:title>
             <dcterms:date>1974</dcterms:date>

@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740029W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740029W">
             <dcterms:title>Goose Cross</dcterms:title>
     
 
@@ -54,9 +54,9 @@
 
         </frbr:Work> 
 
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL2085335M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL2085335M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740029W/"
+              "http://openlibrary.org/works/OL1740029W"
              </rdrel:workManifested>
             <dcterms:title>Goose Cross: a novel</dcterms:title>
             <dcterms:date>1936</dcterms:date>

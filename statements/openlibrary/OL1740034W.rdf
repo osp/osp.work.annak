@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740034W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740034W">
             <dcterms:title>Mercury</dcterms:title>
     
 
@@ -64,9 +64,9 @@ The narrative is projected like a series of dream sequences, enigma and illusion
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448775M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448775M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740034W/"
+              "http://openlibrary.org/works/OL1740034W"
              </rdrel:workManifested>
             <dcterms:title>Mercury</dcterms:title>
             <dcterms:date>2006</dcterms:date>
@@ -74,9 +74,9 @@ The narrative is projected like a series of dream sequences, enigma and illusion
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL852136M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL852136M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740034W/"
+              "http://openlibrary.org/works/OL1740034W"
              </rdrel:workManifested>
             <dcterms:title>Mercury</dcterms:title>
             <dcterms:date>1994</dcterms:date>

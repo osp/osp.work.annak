@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL16818977W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL16818977W">
             <dcterms:title>The Dark Sisters</dcterms:title>
     
 
@@ -42,9 +42,9 @@
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445667M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445667M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL16818977W/"
+              "http://openlibrary.org/works/OL16818977W"
              </rdrel:workManifested>
             <dcterms:title>The Dark Sisters</dcterms:title>
             <dcterms:date>1930</dcterms:date>

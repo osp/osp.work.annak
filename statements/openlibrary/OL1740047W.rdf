@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740047W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740047W">
             <dcterms:title>Sleep Has His House</dcterms:title>
     
 
@@ -47,9 +47,9 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445769M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445769M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740047W/"
+              "http://openlibrary.org/works/OL1740047W"
              </rdrel:workManifested>
             <dcterms:title>Casa del sono</dcterms:title>
             <dcterms:date>1980</dcterms:date>
@@ -57,9 +57,9 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445766M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445766M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740047W/"
+              "http://openlibrary.org/works/OL1740047W"
              </rdrel:workManifested>
             <dcterms:title>Demeure du sommeil</dcterms:title>
             <dcterms:date>1977</dcterms:date>
@@ -67,9 +67,9 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445765M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445765M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740047W/"
+              "http://openlibrary.org/works/OL1740047W"
              </rdrel:workManifested>
             <dcterms:title>Sleep Has His House</dcterms:title>
             <dcterms:date>2003</dcterms:date>
@@ -77,9 +77,9 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445764M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445764M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740047W/"
+              "http://openlibrary.org/works/OL1740047W"
              </rdrel:workManifested>
             <dcterms:title>Sleep Has His House</dcterms:title>
             <dcterms:date>1974</dcterms:date>
@@ -87,9 +87,9 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445763M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445763M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740047W/"
+              "http://openlibrary.org/works/OL1740047W"
              </rdrel:workManifested>
             <dcterms:title>Sleep Has His House</dcterms:title>
             <dcterms:date>1948</dcterms:date>
@@ -97,9 +97,9 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445761M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445761M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740047W/"
+              "http://openlibrary.org/works/OL1740047W"
              </rdrel:workManifested>
             <dcterms:title>The House of Sleep</dcterms:title>
             <dcterms:date>1947</dcterms:date>
@@ -107,9 +107,9 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL8392681M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL8392681M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740047W/"
+              "http://openlibrary.org/works/OL1740047W"
              </rdrel:workManifested>
             <dcterms:title>Sleep Has His House</dcterms:title>
             <dcterms:date>1984, February</dcterms:date>
@@ -117,9 +117,9 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL8392680M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL8392680M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740047W/"
+              "http://openlibrary.org/works/OL1740047W"
              </rdrel:workManifested>
             <dcterms:title>Sleep Has His House</dcterms:title>
             <dcterms:date>1984</dcterms:date>
@@ -127,9 +127,9 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL5115206M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL5115206M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740047W/"
+              "http://openlibrary.org/works/OL1740047W"
              </rdrel:workManifested>
             <dcterms:title>Sleep has his house</dcterms:title>
             <dcterms:date>1973</dcterms:date>
@@ -137,9 +137,9 @@ In her foreword Anna Kavan writes: &#39;Life is tension or the result of tension
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL4422282M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL4422282M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740047W/"
+              "http://openlibrary.org/works/OL1740047W"
              </rdrel:workManifested>
             <dcterms:title>Sleep has his house</dcterms:title>
             <dcterms:date>1981</dcterms:date>

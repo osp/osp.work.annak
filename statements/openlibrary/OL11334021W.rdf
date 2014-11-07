@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334021W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334021W">
             <dcterms:title>A bright green field,and other stories</dcterms:title>
     
 
@@ -40,9 +40,9 @@ Stories in this Edition: A Bright Green Field, Annunciation, Happy Name, One of 
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL19693326M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL19693326M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334021W/"
+              "http://openlibrary.org/works/OL11334021W"
              </rdrel:workManifested>
             <dcterms:title>A bright green field and other stories.</dcterms:title>
             <dcterms:date>1958</dcterms:date>

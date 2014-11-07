@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740046W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740046W">
             <dcterms:title>Who are you ?</dcterms:title>
     
 
@@ -51,9 +51,9 @@ Her novels and short stories have for some years been considered by eminent crit
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448716M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448716M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740046W/"
+              "http://openlibrary.org/works/OL1740046W"
              </rdrel:workManifested>
             <dcterms:title>Wër bist du ?</dcterms:title>
             <dcterms:date>1984</dcterms:date>
@@ -61,9 +61,9 @@ Her novels and short stories have for some years been considered by eminent crit
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448714M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448714M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740046W/"
+              "http://openlibrary.org/works/OL1740046W"
              </rdrel:workManifested>
             <dcterms:title>L&#39;oiseau qui es-tu ?</dcterms:title>
             <dcterms:date>1979</dcterms:date>
@@ -71,9 +71,9 @@ Her novels and short stories have for some years been considered by eminent crit
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448713M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448713M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740046W/"
+              "http://openlibrary.org/works/OL1740046W"
              </rdrel:workManifested>
             <dcterms:title>Who are you?</dcterms:title>
             <dcterms:date>1963</dcterms:date>
@@ -81,18 +81,18 @@ Her novels and short stories have for some years been considered by eminent crit
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL9310036M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL9310036M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740046W/"
+              "http://openlibrary.org/works/OL1740046W"
              </rdrel:workManifested>
             <dcterms:title>Who Are You?</dcterms:title>
             <dcterms:date>1982, October</dcterms:date>
         </rdf:Description>    
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL5253493M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL5253493M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740046W/"
+              "http://openlibrary.org/works/OL1740046W"
              </rdrel:workManifested>
             <dcterms:title>Who are you ?: a novel</dcterms:title>
             <dcterms:date>1975</dcterms:date>
@@ -100,9 +100,9 @@ Her novels and short stories have for some years been considered by eminent crit
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL3702432M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL3702432M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740046W/"
+              "http://openlibrary.org/works/OL1740046W"
              </rdrel:workManifested>
             <dcterms:title>Who are you?</dcterms:title>
             <dcterms:date>2002</dcterms:date>

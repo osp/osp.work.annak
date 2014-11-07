@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740048W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740048W">
             <dcterms:title>Asylum piece and other stories</dcterms:title>
     
 
@@ -51,9 +51,9 @@ Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445743M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445743M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740048W/"
+              "http://openlibrary.org/works/OL1740048W"
              </rdrel:workManifested>
             <dcterms:title>Une représentation à l&#39;asile</dcterms:title>
             <dcterms:date>1983</dcterms:date>
@@ -61,9 +61,9 @@ Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445734M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445734M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740048W/"
+              "http://openlibrary.org/works/OL1740048W"
              </rdrel:workManifested>
             <dcterms:title>Asylum piece and other stories</dcterms:title>
             <dcterms:date>1946</dcterms:date>
@@ -71,9 +71,9 @@ Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445723M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445723M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740048W/"
+              "http://openlibrary.org/works/OL1740048W"
              </rdrel:workManifested>
             <dcterms:title>Asylum piece and other stories</dcterms:title>
             <dcterms:date>1940</dcterms:date>
@@ -81,9 +81,9 @@ Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL8392682M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL8392682M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740048W/"
+              "http://openlibrary.org/works/OL1740048W"
              </rdrel:workManifested>
             <dcterms:title>Asylum Piece and Other Stories</dcterms:title>
             <dcterms:date>1984, February</dcterms:date>
@@ -91,9 +91,9 @@ Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL4423885M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL4423885M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740048W/"
+              "http://openlibrary.org/works/OL1740048W"
              </rdrel:workManifested>
             <dcterms:title>Asylum piece and other stories</dcterms:title>
             <dcterms:date>1980</dcterms:date>
@@ -101,9 +101,9 @@ Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL5326674M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL5326674M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740048W/"
+              "http://openlibrary.org/works/OL1740048W"
              </rdrel:workManifested>
             <dcterms:title>Asylum piece and other stories</dcterms:title>
             <dcterms:date>1972</dcterms:date>
@@ -111,9 +111,9 @@ Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL9337426M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL9337426M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740048W/"
+              "http://openlibrary.org/works/OL1740048W"
              </rdrel:workManifested>
             <dcterms:title>Asylum Piece and Other Stories</dcterms:title>
             <dcterms:date>1984, February</dcterms:date>
@@ -121,9 +121,9 @@ Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL3748674M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL3748674M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740048W/"
+              "http://openlibrary.org/works/OL1740048W"
              </rdrel:workManifested>
             <dcterms:title>Asylum piece and other stories</dcterms:title>
             <dcterms:date>2001</dcterms:date>

@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334023W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334023W">
             <dcterms:title>Eagles&#39; nest</dcterms:title>
     
 
@@ -42,9 +42,9 @@ First published in 1957 and now re-issued, this novel is one of the finest examp
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448708M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448708M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334023W/"
+              "http://openlibrary.org/works/OL11334023W"
              </rdrel:workManifested>
             <dcterms:title>Eagles&#39; nest</dcterms:title>
             <dcterms:date>1976</dcterms:date>
@@ -52,9 +52,9 @@ First published in 1957 and now re-issued, this novel is one of the finest examp
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL19275902M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL19275902M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334023W/"
+              "http://openlibrary.org/works/OL11334023W"
              </rdrel:workManifested>
             <dcterms:title>Eagles&#39; nest.</dcterms:title>
             <dcterms:date>1957</dcterms:date>

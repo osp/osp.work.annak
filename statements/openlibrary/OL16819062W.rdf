@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL16819062W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL16819062W">
             <dcterms:title>The Horse&#39;s Tale</dcterms:title>
     
 
@@ -45,9 +45,9 @@ BY DAVID CALLARD:</dcterms:description>
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445774M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445774M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL16819062W/"
+              "http://openlibrary.org/works/OL16819062W"
              </rdrel:workManifested>
             <dcterms:title>The Horse&#39;s Tale</dcterms:title>
             <dcterms:date>1949</dcterms:date>

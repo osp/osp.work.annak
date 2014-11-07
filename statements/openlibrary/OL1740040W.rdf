@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740040W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740040W">
             <dcterms:title>I am Lazarus</dcterms:title>
     
 
@@ -51,27 +51,27 @@
 
         </frbr:Work> 
 
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445760M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445760M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740040W/"
+              "http://openlibrary.org/works/OL1740040W"
              </rdrel:workManifested>
             <dcterms:title>I am Lazarus: Short stories</dcterms:title>
             <dcterms:date>2013</dcterms:date>
         </rdf:Description>    
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL6483696M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL6483696M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740040W/"
+              "http://openlibrary.org/works/OL1740040W"
              </rdrel:workManifested>
             <dcterms:title>I am Lazarus: short stories</dcterms:title>
             <dcterms:date>1945</dcterms:date>
         </rdf:Description>    
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL4472861M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL4472861M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740040W/"
+              "http://openlibrary.org/works/OL1740040W"
              </rdrel:workManifested>
             <dcterms:title>I am Lazarus: Short stories</dcterms:title>
             <dcterms:date>1978</dcterms:date>

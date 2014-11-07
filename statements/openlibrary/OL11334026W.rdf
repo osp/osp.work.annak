@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334026W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334026W">
             <dcterms:title>My soul in China</dcterms:title>
     
 
@@ -58,9 +58,9 @@ The nine short stories show the author experimenting with new ideas and reflect,
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448771M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448771M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334026W/"
+              "http://openlibrary.org/works/OL11334026W"
              </rdrel:workManifested>
             <dcterms:title>Mi alma en China</dcterms:title>
             <dcterms:date>2004</dcterms:date>
@@ -68,9 +68,9 @@ The nine short stories show the author experimenting with new ideas and reflect,
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448770M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448770M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334026W/"
+              "http://openlibrary.org/works/OL11334026W"
              </rdrel:workManifested>
             <dcterms:title>Mi alma en China</dcterms:title>
             <dcterms:date>1992</dcterms:date>
@@ -78,9 +78,9 @@ The nine short stories show the author experimenting with new ideas and reflect,
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448769M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448769M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334026W/"
+              "http://openlibrary.org/works/OL11334026W"
              </rdrel:workManifested>
             <dcterms:title>My soul in China</dcterms:title>
             <dcterms:date>1984</dcterms:date>
@@ -88,18 +88,18 @@ The nine short stories show the author experimenting with new ideas and reflect,
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448768M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448768M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334026W/"
+              "http://openlibrary.org/works/OL11334026W"
              </rdrel:workManifested>
             <dcterms:title>My soul in China</dcterms:title>
             <dcterms:date>1975</dcterms:date>
         </rdf:Description>    
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL15185622M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL15185622M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334026W/"
+              "http://openlibrary.org/works/OL11334026W"
              </rdrel:workManifested>
             <dcterms:title>My soul in China: novella and stories</dcterms:title>
             <dcterms:date>1991</dcterms:date>

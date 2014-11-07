@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334034W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334034W">
             <dcterms:title>Ice</dcterms:title>
     
 
@@ -45,9 +45,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448739M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448739M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Gelo</dcterms:title>
             <dcterms:date>1967</dcterms:date>
@@ -55,9 +55,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448735M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448735M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Het ijs</dcterms:title>
             <dcterms:date>1987</dcterms:date>
@@ -65,9 +65,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448733M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448733M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Лед</dcterms:title>
             <dcterms:date>2011</dcterms:date>
@@ -75,9 +75,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448731M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448731M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Lód</dcterms:title>
             <dcterms:date>2007</dcterms:date>
@@ -85,9 +85,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448729M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448729M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Buz</dcterms:title>
             <dcterms:date>1995</dcterms:date>
@@ -95,9 +95,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448728M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448728M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Ghiacco</dcterms:title>
             <dcterms:date>2008</dcterms:date>
@@ -105,9 +105,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448727M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448727M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Hielo</dcterms:title>
             <dcterms:date>2005</dcterms:date>
@@ -115,9 +115,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448726M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448726M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Hielo</dcterms:title>
             <dcterms:date>1987</dcterms:date>
@@ -125,9 +125,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448722M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448722M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Neige</dcterms:title>
             <dcterms:date>2013</dcterms:date>
@@ -135,9 +135,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448721M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448721M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Neige</dcterms:title>
             <dcterms:date>1975</dcterms:date>
@@ -145,9 +145,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448720M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448720M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Ice</dcterms:title>
             <dcterms:date>2006</dcterms:date>
@@ -155,9 +155,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448719M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448719M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Ice</dcterms:title>
             <dcterms:date>1997</dcterms:date>
@@ -165,9 +165,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448718M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448718M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Ice</dcterms:title>
             <dcterms:date>1974</dcterms:date>
@@ -175,9 +175,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448717M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448717M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Ice</dcterms:title>
             <dcterms:date>1970</dcterms:date>
@@ -185,9 +185,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL21524857M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL21524857M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Is</dcterms:title>
             <dcterms:date>1976</dcterms:date>
@@ -195,9 +195,9 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL22776222M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL22776222M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Ice</dcterms:title>
             <dcterms:date>1985</dcterms:date>
@@ -205,18 +205,18 @@ A man&#39;s search for an elusive girl takes place against a backdrop of nuclear
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL21273677M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL21273677M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Ice</dcterms:title>
             <dcterms:date>1973</dcterms:date>
         </rdf:Description>    
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL21638693M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL21638693M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334034W/"
+              "http://openlibrary.org/works/OL11334034W"
              </rdrel:workManifested>
             <dcterms:title>Ice: a novel.</dcterms:title>
             <dcterms:date>1967</dcterms:date>

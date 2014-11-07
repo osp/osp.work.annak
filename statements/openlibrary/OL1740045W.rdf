@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740045W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740045W">
             <dcterms:title>A Scarcity of Love</dcterms:title>
     
 
@@ -51,45 +51,45 @@ The present work, first published in 1956, contains some of her finest prose and
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448705M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448705M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740045W/"
+              "http://openlibrary.org/works/OL1740045W"
              </rdrel:workManifested>
             <dcterms:title>Mal aimées</dcterms:title>
             <dcterms:date>1975</dcterms:date>
         </rdf:Description>    
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448704M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448704M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740045W/"
+              "http://openlibrary.org/works/OL1740045W"
              </rdrel:workManifested>
             <dcterms:title>A Scarcity of Love: A novel</dcterms:title>
             <dcterms:date>2009</dcterms:date>
         </rdf:Description>    
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448703M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25448703M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740045W/"
+              "http://openlibrary.org/works/OL1740045W"
              </rdrel:workManifested>
             <dcterms:title>A Scarcity of Love: A novel</dcterms:title>
             <dcterms:date>1956</dcterms:date>
         </rdf:Description>    
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL5737262M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL5737262M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740045W/"
+              "http://openlibrary.org/works/OL1740045W"
              </rdrel:workManifested>
             <dcterms:title>A scarcity of love: A novel</dcterms:title>
             <dcterms:date>1971</dcterms:date>
         </rdf:Description>    
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL5108571M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL5108571M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740045W/"
+              "http://openlibrary.org/works/OL1740045W"
              </rdrel:workManifested>
             <dcterms:title>A Scarcity of Love: A Novel</dcterms:title>
             <dcterms:date>1972</dcterms:date>

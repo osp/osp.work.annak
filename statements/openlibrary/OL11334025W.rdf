@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334025W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334025W">
             <dcterms:title>Let me alone</dcterms:title>
     
 
@@ -54,9 +54,9 @@ Sharp characterization combines with fine descriptive writing, especially of the
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445717M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445717M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334025W/"
+              "http://openlibrary.org/works/OL11334025W"
              </rdrel:workManifested>
             <dcterms:title>Let me alone</dcterms:title>
             <dcterms:date>1930</dcterms:date>
@@ -64,9 +64,9 @@ Sharp characterization combines with fine descriptive writing, especially of the
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445672M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445672M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334025W/"
+              "http://openlibrary.org/works/OL11334025W"
              </rdrel:workManifested>
             <dcterms:title>Laissez-moi ma solitude</dcterms:title>
             <dcterms:date>1981</dcterms:date>
@@ -74,18 +74,18 @@ Sharp characterization combines with fine descriptive writing, especially of the
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445671M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445671M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334025W/"
+              "http://openlibrary.org/works/OL11334025W"
              </rdrel:workManifested>
             <dcterms:title>Laissez-moi ma solitude</dcterms:title>
             <dcterms:date>1993</dcterms:date>
         </rdf:Description>    
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL21702896M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL21702896M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334025W/"
+              "http://openlibrary.org/works/OL11334025W"
              </rdrel:workManifested>
             <dcterms:title>Let me alone: A novel</dcterms:title>
             <dcterms:date>1974</dcterms:date>

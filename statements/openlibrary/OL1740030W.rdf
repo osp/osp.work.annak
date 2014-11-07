@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740030W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740030W">
             <dcterms:title>Guilty</dcterms:title>
     
 
@@ -44,9 +44,9 @@ Drawing on many of Kavan&#39;s familiar themes, &quot;Guilty&quot; will be welco
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL17243182M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL17243182M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740030W/"
+              "http://openlibrary.org/works/OL1740030W"
              </rdrel:workManifested>
             <dcterms:title>Guilty</dcterms:title>
             <dcterms:date>2007</dcterms:date>

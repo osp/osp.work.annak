@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334022W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL11334022W">
             <dcterms:title>A charmed circle</dcterms:title>
     
 
@@ -50,9 +50,9 @@ With a masterly touch, Kavan contrasts the English countryside with the brittle 
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445631M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445631M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334022W/"
+              "http://openlibrary.org/works/OL11334022W"
              </rdrel:workManifested>
             <dcterms:title>A charmed circle</dcterms:title>
             <dcterms:date>2000</dcterms:date>
@@ -60,9 +60,9 @@ With a masterly touch, Kavan contrasts the English countryside with the brittle 
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445628M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445628M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334022W/"
+              "http://openlibrary.org/works/OL11334022W"
              </rdrel:workManifested>
             <dcterms:title>A charmed circle</dcterms:title>
             <dcterms:date>1929</dcterms:date>
@@ -70,9 +70,9 @@ With a masterly touch, Kavan contrasts the English countryside with the brittle 
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL15185654M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL15185654M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL11334022W/"
+              "http://openlibrary.org/works/OL11334022W"
              </rdrel:workManifested>
             <dcterms:title>A charmed circle</dcterms:title>
             <dcterms:date>1994</dcterms:date>

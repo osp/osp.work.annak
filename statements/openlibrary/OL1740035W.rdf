@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740035W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740035W">
             <dcterms:title>My madness</dcterms:title>
     
 
@@ -43,9 +43,9 @@
 
         </frbr:Work> 
 
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL17993088M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL17993088M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740035W/"
+              "http://openlibrary.org/works/OL1740035W"
              </rdrel:workManifested>
             <dcterms:title>My madness: the selected writings of Anna Kavan</dcterms:title>
             <dcterms:date>1990</dcterms:date>

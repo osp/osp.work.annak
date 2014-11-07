@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740044W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740044W">
             <dcterms:title>The parson</dcterms:title>
     
 
@@ -57,9 +57,9 @@ The Parson is less a tale of unrequited love than an exploration of divided selv
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL911622M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL911622M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740044W/"
+              "http://openlibrary.org/works/OL1740044W"
              </rdrel:workManifested>
             <dcterms:title>The parson</dcterms:title>
             <dcterms:date>1995</dcterms:date>
@@ -67,9 +67,9 @@ The Parson is less a tale of unrequited love than an exploration of divided selv
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL3584506M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL3584506M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740044W/"
+              "http://openlibrary.org/works/OL1740044W"
              </rdrel:workManifested>
             <dcterms:title>The parson</dcterms:title>
             <dcterms:date>2001</dcterms:date>

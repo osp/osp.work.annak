@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL16818996W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL16818996W">
             <dcterms:title>Rich Get Rich</dcterms:title>
     
 
@@ -41,9 +41,9 @@ Helen Ferguson has written in Rich Get Rich a beautiful and moving book, which h
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445691M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL25445691M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL16818996W/"
+              "http://openlibrary.org/works/OL16818996W"
              </rdrel:workManifested>
             <dcterms:title>Rich Get Rich</dcterms:title>
             <dcterms:date>1937</dcterms:date>

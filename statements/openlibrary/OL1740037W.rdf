@@ -11,7 +11,7 @@
 
 
     
-    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740037W/">
+    <frbr:Work rdf:about="http://openlibrary.org/works/OL1740037W">
             <dcterms:title>A stranger still</dcterms:title>
     
 
@@ -75,9 +75,9 @@ Anna Kavan captures the ambience of the thirties with conviction, yet her pre-ha
         </frbr:Work> 
 
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL24931083M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL24931083M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740037W/"
+              "http://openlibrary.org/works/OL1740037W"
              </rdrel:workManifested>
             <dcterms:title>A stranger still</dcterms:title>
             <dcterms:date>1935</dcterms:date>
@@ -85,9 +85,9 @@ Anna Kavan captures the ambience of the thirties with conviction, yet her pre-ha
         
         
         
-        <rdf:Description rdf:about="http://openlibrary.org/books/OL910610M/">
+        <rdf:Description rdf:about="http://openlibrary.org/books/OL910610M">
            <rdrel:workManifested>
-              "http://openlibrary.org/works/OL1740037W/"
+              "http://openlibrary.org/works/OL1740037W"
              </rdrel:workManifested>
             <dcterms:title>A stranger still</dcterms:title>
             <dcterms:date>1995</dcterms:date>
