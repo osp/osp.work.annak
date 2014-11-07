@@ -27,7 +27,9 @@
             <dcterms:coverage>High City</dcterms:coverage>
 
         
-            <dcterms:description>Anna Kavan&#39;s earlier short stories are already regarded by prominent critics as classics. Her volumes of stories Asylyum Piece and I am Lazarus established her in the front rank of English writers, and admirers of her work will not be disappointed with this new collection. The title story is allegorical writing at its best, and bears the stamp of the author&#39;s compulsive power. In contrast, the other stores, like Happy Name, The Birds Dancing and New and Splendid, show her grasp of the conflict between dream and reality, and an acute awareness of human dignity constantly threatened by insensitive unkindness. Ice Storm and The End of Something, in their delicate evocation of mood, stand as testament to Miss Kavan&#39;s wide range. (From the book jacket, first british edition published in 1958).</dcterms:description>
+            <dcterms:description>Anna Kavan&#39;s earlier short stories are already regarded by prominent critics as classics. Her volumes of stories Asylyum Piece and I am Lazarus established her in the front rank of English writers, and admirers of her work will not be disappointed with this new collection. The title story is allegorical writing at its best, and bears the stamp of the author&#39;s compulsive power. In contrast, the other stores, like Happy Name, The Birds Dancing and New and Splendid, show her grasp of the conflict between dream and reality, and an acute awareness of human dignity constantly threatened by insensitive unkindness. Ice Storm and The End of Something, in their delicate evocation of mood, stand as testament to Miss Kavan&#39;s wide range. (From the book jacket, first british edition published in 1958).
+
+Stories in this Edition: A Bright Green Field, Annunciation, Happy Name, One of the Hot Spots, Ice Storm, Mouse, Shoes, The End of Something, The Birds Dancing, Christmas Wishes, A Visit fo the Sleepmaster, Lonely Unholy Short, All Saints, **New and Splendid**.</dcterms:description>
     
 
 
@@ -49,9 +51,9 @@
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL11334021W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:44:59.717836</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 11:46:37.782988</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-11 04:28:29.374443</dcterms:created>
-        <ov:versionnumber>7</ov:versionnumber>
+        <ov:versionnumber>8</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

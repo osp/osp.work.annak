@@ -103,7 +103,7 @@
         <dc:subject>Ballard likes</dc:subject>
         <dc:subject>drug addict</dc:subject>
         <dc:subject>Ice</dc:subject>
-        <dc:subject>like Ballard</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like K Dick</dc:subject>
         <dc:subject>like M John Harrison</dc:subject>
         <dc:subject>like Priest</dc:subject>
@@ -238,7 +238,6 @@
         </bib:authors>
         <link:link rdf:resource="#item_75"/>
         <dc:subject>mental instability</dc:subject>
-        <dc:subject>src Perriam</dc:subject>
         <dc:subject>women writings</dc:subject>
         <dc:title>Attentive Writers’: Healthcare, Authorship, and Authority. Conference Review by Jac Saorsa - Centre for Medical Humanities</dc:title>
         <dcterms:abstract>After a brief and to the point conference opening address the first parallel panels began and I listened as Geraldine Perriam spoke about Gender, Medical Authority and Location in Fiction by Women. Her talk focused primarily on two texts, Asylum Piece by Anna Kavan, and The Pumpkin Eaters by Penelope Mortimer, wherein a woman with mental health problems, despite in each case being the central character in the narrative, was caught up in a ‘network of practices’ where her choices were made for her by doctors and male relatives.</dcterms:abstract>
@@ -320,6 +319,7 @@
         <link:link rdf:resource="#item_445"/>
         <dc:subject>drug addict</dc:subject>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Ishiguro</dc:subject>
         <dc:subject>like Kafka</dc:subject>
         <dc:subject>like Priest</dc:subject>
@@ -363,7 +363,6 @@
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_364"/>
-        <dc:subject>fan</dc:subject>
         <dc:subject>tumblr</dc:subject>
         <dc:subject>Work</dc:subject>
         <dc:title>Kavan</dc:title>
@@ -489,6 +488,7 @@
         </bib:authors>
         <link:link rdf:resource="#item_480"/>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Priest</dc:subject>
         <dc:subject>slipstream</dc:subject>
         <dc:title>Christopher Priest: The Glamour</dc:title>
@@ -625,6 +625,7 @@
         <dc:subject>drug addict</dc:subject>
         <dc:subject>Far East</dc:subject>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>Kay</dc:subject>
         <dc:subject>like De Quincey</dc:subject>
         <dc:subject>like Kafka</dc:subject>
@@ -987,6 +988,49 @@
         <link:type>text/html</link:type>
         <link:charset>utf-8</link:charset>
     </z:Attachment>
+    <bib:Document rdf:about="http://www.bookride.com/2011/02/burroughs-writers-on-heroin.html">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Bookride</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Bookride</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_23"/>
+        <dc:subject>drug addict</dc:subject>
+        <dc:subject>kavan land</dc:subject>
+        <dc:subject>like Bolano</dc:subject>
+        <dc:subject>like Burroughs</dc:subject>
+        <dc:title>Burroughs / Writers on Heroin</dc:title>
+        <dcterms:abstract>WSB's D.O.C. was of course heroin. This lead me to thinking of other opiate friendly writers. There are not that many distinguished candidates, alcoholic writers, on the other hand, are ten a penny. There are probably a greater number of alcoholic Nobel prize winning writers. Here is a partial list - Will Self, Roberto Bolano, Anna Kavan, Aleister Crowley, Jim Carroll, Mary Butts**, Elizabeth Strong, Irvine Welsh. Some observers are not sure Bolano was much of a user.</dcterms:abstract>
+        <z:type>blogspot</z:type>
+        <dc:date>23/02/2011</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.bookride.com/2011/02/burroughs-writers-on-heroin.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-11-06 18:40:52</dcterms:dateSubmitted>
+        <z:language>English</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Bookride: Burroughs / Writers on Heroin</dc:title>
+        <dcterms:dateSubmitted>2014-11-06 18:40:53</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.bookride.com/2011/02/burroughs-writers-on-heroin.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>utf-8</link:charset>
+    </z:Attachment>
     <bib:Book rdf:about="http://www.ohioswallow.com/book/The+Novel+of+the+Future">
         <z:itemType>book</z:itemType>
         <bib:authors>
@@ -1211,6 +1255,7 @@
         <link:link rdf:resource="#item_242"/>
         <dc:subject>coffee break</dc:subject>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Bolano</dc:subject>
         <dc:subject>puzzling narrative</dc:subject>
         <dc:title>2666 and what I learned from Anna Kavan</dc:title>
@@ -1690,7 +1735,6 @@ Qu' il soit ici remercié !</dcterms:abstract>
         <dc:subject>Ballard likes</dc:subject>
         <dc:subject>drug addict</dc:subject>
         <dc:subject>Ice</dc:subject>
-        <dc:subject>like Ballard</dc:subject>
         <dc:subject>like Priest</dc:subject>
         <dc:subject>mental instability</dc:subject>
         <dc:subject>over again</dc:subject>
@@ -1777,6 +1821,7 @@ obsession but it rapidly becomes clear that it is overwhelmingly about illness.<
         <dc:subject>Ballard likes</dc:subject>
         <dc:subject>drug addict</dc:subject>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Ballard</dc:subject>
         <dc:subject>like Kafka</dc:subject>
         <dc:subject>over again</dc:subject>
@@ -1957,7 +2002,7 @@ obsession but it rapidly becomes clear that it is overwhelmingly about illness.<
         <dc:subject>Ballard likes</dc:subject>
         <dc:subject>drug addict</dc:subject>
         <dc:subject>Ice</dc:subject>
-        <dc:subject>like Ballard</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>mental instability</dc:subject>
         <dc:subject>puzzling narrative</dc:subject>
         <dc:subject>slipstream</dc:subject>
@@ -2089,6 +2134,7 @@ obsession but it rapidly becomes clear that it is overwhelmingly about illness.<
         <dc:subject>Fallowell likes</dc:subject>
         <dc:subject>Guilty</dc:subject>
         <dc:subject>Ironside likes</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>Lessing likes</dc:subject>
         <dc:subject>like Kafka</dc:subject>
         <dc:subject>WW II</dc:subject>
@@ -2165,6 +2211,7 @@ obsession but it rapidly becomes clear that it is overwhelmingly about illness.<
         </bib:authors>
         <link:link rdf:resource="#item_73"/>
         <dc:subject>coffee break</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:title>PeterOwenPublishers</dc:title>
         <dcterms:abstract>Blogposts related to Kavan</dcterms:abstract>
         <z:type>blogger</z:type>
@@ -2205,6 +2252,7 @@ obsession but it rapidly becomes clear that it is overwhelmingly about illness.<
         <dc:subject>human beings</dc:subject>
         <dc:subject>Ice</dc:subject>
         <dc:subject>Ironside likes</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Priest</dc:subject>
         <dc:subject>over again</dc:subject>
         <dc:subject>papers Aldiss</dc:subject>
@@ -3198,6 +3246,7 @@ Dr Jennifer Sturm and friend Debbie Knowles discuss the life and work of Anna Ka
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_579"/>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>remix Morisson</dc:subject>
         <dc:title>HEATHER &amp; IVAN MORISON, BEN RIVERS, DAVID THORPE | What's On | Hepworth Wakefield</dc:title>
         <dcterms:abstract>This was the first in a regular series of spring exhibitions that explore common concerns and themes in the work of some of the most innovative contemporary artists. Heather and Ivan Morison, Ben Rivers and David Thorpe use film, sculpture, installation and performance to pose questions regarding our relationship to nature and what happens when man-made and natural worlds collide.These exhibitions explore utopian beliefs and practices and an impending sense of apocalypse.
@@ -3278,6 +3327,7 @@ Heather and Ivan Morison presented a new body of work using objects, performance
         </bib:authors>
         <link:link rdf:resource="#item_412"/>
         <dc:subject>julia and the bazooka</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:title>sombre indifference and a talking book</dc:title>
         <dcterms:abstract>I live in a geographically isolated place, Napier. It takes five hours driving to reach Auckland, the city in which I grew up. When I was a kid we used to come down and visit my grandmother in Napier. There was one part of the road which was notorious. This was the Napier-Taupo road. It starts off being very flat then you enter a series of corrugations where the hills become increasingly moutainous, until you lose cellphone contact and there are no houses. It is very beautiful. Strangely beautiful.</dcterms:abstract>
         <z:type>blogspot</z:type>
@@ -3359,6 +3409,7 @@ Heather and Ivan Morison presented a new body of work using objects, performance
         </bib:authors>
         <link:link rdf:resource="#item_478"/>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>Mercury</dc:subject>
         <dc:subject>remix Morisson</dc:subject>
         <dc:title>Anna</dc:title>
@@ -4136,6 +4187,7 @@ This was a question that a London taxi driver once posited to me. I’d just tol
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_599"/>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>remix Britton</dc:subject>
         <dc:title>Silverglass | Performances | Taliesin</dc:title>
         <dcterms:abstract>A master-craftsman of Welsh fiction, Rhys Davies combined pin-point observation of Valleys life with a twinkling sense of comedy. His long-term friend Anna Kavan wrote dark and troubled novels described by J.G. Ballard as “somewhere between poetry and madness”. Each lived a life of self-invention, in which secrets, sexuality and deep questions of personal identity lurked constantly in the shadows. 
@@ -4458,6 +4510,18 @@ D.J. Britton’s high-energy play is set in the late 1960s when Davies’ late l
         <link:type>text/html</link:type>
         <link:charset>utf-8</link:charset>
     </z:Attachment>
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>rapoport2.pdf</dc:title>
+        <dcterms:dateSubmitted>2014-11-06 17:58:47</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://gerflint.fr/Base/RU-Irlande2/rapoport2.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>application/pdf</link:type>
+        <link:charset>utf-8</link:charset>
+    </z:Attachment>
     <bib:Document rdf:about="http://resf.hypotheses.org/435">
         <z:itemType>webpage</z:itemType>
         <dcterms:isPartOf>
@@ -4750,6 +4814,7 @@ Facilitating a meet-up of impassioned folks, this edit-a-thon is a chance to ext
         </bib:authors>
         <link:link rdf:resource="#item_367"/>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Vonnegut</dc:subject>
         <dc:title>Cold print</dc:title>
         <dcterms:abstract>This time of year I usually re-read Ray Bradbury’s The October Country because . . .  well, do I really need to explain why? But Jonathan Lethem is looking ahead to winter with a list of his favorite icy books.</dcterms:abstract>
@@ -4886,7 +4951,7 @@ Facilitating a meet-up of impassioned folks, this edit-a-thon is a chance to ext
         <dc:subject>like Rhys</dc:subject>
         <dc:subject>like Robbe-Grillet</dc:subject>
         <dc:subject>like Woolf</dc:subject>
-        <dc:subject>mental illness</dc:subject>
+        <dc:subject>mental instability</dc:subject>
         <dc:subject>My Soul in China</dc:subject>
         <dc:subject>Nin likes</dc:subject>
         <dc:subject>Olive Deane</dc:subject>
@@ -5259,12 +5324,13 @@ Facilitating a meet-up of impassioned folks, this edit-a-thon is a chance to ext
         <dc:subject>drug addict</dc:subject>
         <dc:subject>Ice</dc:subject>
         <dc:subject>julia and the bazooka</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Robbe-Grillet</dc:subject>
         <dc:subject>Mercury</dc:subject>
         <dc:subject>over again</dc:subject>
         <dc:subject>puzzling narrative</dc:subject>
         <dc:subject>sensational life</dc:subject>
-        <dc:subject>slisptream</dc:subject>
+        <dc:subject>slipstream</dc:subject>
         <dc:title>Portrait of the Artist as the Books He’s Loved</dc:title>
         <dcterms:abstract>My first encounter with Anna Kavan came via an image found trawling through a friend’s flicker page. There is a lovely group of really wonderful women I have met online via my obsession with the 60s &amp; 70s films of the fantastique, and “Oola” is one acquaintance I was particularly bewitched by. She seemed to have impeccable taste and a wonderfully exciting life (from what I could see of it online), so the combination of my experience with the owner of the book and the cover of the book itself, I immediately requested the book from inter-library-loan (at the time, Kavan’s Julia and the Bazooka was out of print).</dcterms:abstract>
         <dc:date>11/10/2011</dc:date>
@@ -5533,7 +5599,7 @@ Facilitating a meet-up of impassioned folks, this edit-a-thon is a chance to ext
         <dc:subject>like Woolf</dc:subject>
         <dc:subject>My Soul in China</dc:subject>
         <dc:subject>Nin likes</dc:subject>
-        <dc:subject>proto-feminism</dc:subject>
+        <dc:subject>proto feminism</dc:subject>
         <dc:subject>puzzling narrative</dc:subject>
         <dc:subject>R.</dc:subject>
         <dc:subject>sensational life</dc:subject>
@@ -5671,6 +5737,7 @@ Facilitating a meet-up of impassioned folks, this edit-a-thon is a chance to ext
         <dc:subject>drug addict</dc:subject>
         <dc:subject>enough heroin</dc:subject>
         <dc:subject>julia and the bazooka</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>My Soul in China</dc:subject>
         <dc:subject>R.</dc:subject>
         <dc:title>Rhys Davies and Anna Kavan</dc:title>
@@ -5753,7 +5820,6 @@ Facilitating a meet-up of impassioned folks, this edit-a-thon is a chance to ext
         <dc:subject>drug addict</dc:subject>
         <dc:subject>enough heroin</dc:subject>
         <dc:subject>julia and the bazooka</dc:subject>
-        <dc:subject>like Ballard</dc:subject>
         <dc:subject>self-portrait</dc:subject>
         <dc:title>Anna Kavan</dc:title>
         <dcterms:abstract>whenever i discover an artist who has something to say that i want to hear, i’m firstly grateful for their work having found me &amp; then i’m sort of shocked that it’s taken so long, &amp; left wondering where they’ve been all my life. i just bought a brand new 2009 reprint of anna kavan‘s ‘julia &amp; the bazooka‘ for 2.99 from a bookshop in waterloo.</dcterms:abstract>
@@ -5929,6 +5995,7 @@ Je me vois en train de marcher la main dans la main avec quelqu’un d’autre, 
         <dc:subject>Ballard likes</dc:subject>
         <dc:subject>drug addict</dc:subject>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Ballard</dc:subject>
         <dc:subject>like Kafka</dc:subject>
         <dc:subject>sensational life</dc:subject>
@@ -6055,7 +6122,6 @@ The collection includes book files 1960-1995 (including editorial, production an
         <dc:subject>like Joyce</dc:subject>
         <dc:subject>Oswald</dc:subject>
         <dc:subject>Rejane</dc:subject>
-        <dc:subject>stream of consciousness</dc:subject>
         <dc:subject>The Parson</dc:subject>
         <dc:subject>young man</dc:subject>
         <dc:title>Anna Kavan, 'The Parson': a critique -</dc:title>
@@ -6176,6 +6242,7 @@ The collection includes book files 1960-1995 (including editorial, production an
         <link:link rdf:resource="#item_271"/>
         <dc:subject>drug addict</dc:subject>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>SF writer</dc:subject>
         <dc:subject>the girl</dc:subject>
         <dc:title>Updates: Recent Science Fiction Acquisitions N. XXXVIII (Spinrad + Harrison + Kavan + Effinger)</dc:title>
@@ -6217,7 +6284,7 @@ The collection includes book files 1960-1995 (including editorial, production an
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_313"/>
-        <dc:subject>Asylum</dc:subject>
+        <dc:subject>Asylum Piece</dc:subject>
         <dc:subject>Ice</dc:subject>
         <dc:title>these are a few of my favourite…</dc:title>
         <dcterms:abstract>Books are our best friends. And they hardly ever let us down. I find second hand books especially fascinating, they have a life of their own…and you can find the weirdest things forgotten between the pages, such as old creepy letters, black &amp; white pictures, postcards from 20, 30, 40 years ago…</dcterms:abstract>
@@ -6305,20 +6372,20 @@ The collection includes book files 1960-1995 (including editorial, production an
         <dc:subject>drug addict</dc:subject>
         <dc:subject>enough heroin</dc:subject>
         <dc:subject>julia and the bazooka</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>Let Me Alone</dc:subject>
-        <dc:subject>like Ballard</dc:subject>
         <dc:subject>like Burroughs</dc:subject>
         <dc:subject>like De Quincey</dc:subject>
         <dc:subject>like Reage</dc:subject>
         <dc:subject>mental instability</dc:subject>
         <dc:subject>My Madness</dc:subject>
         <dc:subject>papers Bluth</dc:subject>
-        <dc:subject>proto-feminism</dc:subject>
+        <dc:subject>proto feminism</dc:subject>
         <dc:subject>puzzling narrative</dc:subject>
         <dc:subject>self-portrait</dc:subject>
         <dc:subject>sensational life</dc:subject>
         <dc:subject>Sleep Has His House</dc:subject>
-        <dc:subject>slisptream</dc:subject>
+        <dc:subject>slipstream</dc:subject>
         <dc:subject>WW II</dc:subject>
         <dc:title>Anna Kavan : brilliant like ice</dc:title>
         <dcterms:abstract>Her descriptions burned so brightly when I first began reading  the work of Anna Kavan that I felt a kinship with her almost at once. I have sometimes wandered past her last home in Peel Street, London,  in pilgrimage. The novels and memoirs stand on my shelves: I came across Ice first, then Asylum Piece and My Madness, then Let me Alone,  Julia and the Bazooka with its 1960s hip bohemianism, and Sleep Has His House.</dcterms:abstract>
@@ -6361,6 +6428,7 @@ The collection includes book files 1960-1995 (including editorial, production an
         <link:link rdf:resource="#item_229"/>
         <dc:subject>bio Reed</dc:subject>
         <dc:subject>bio Sturm</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>Lessing likes</dc:subject>
         <dc:title>Doris Lessing reviews new Anna Kavan bio</dc:title>
         <dcterms:abstract>A new biography of Anna Kavan, A Stranger on Earth, by that pest Jeremy Reed is reviewed by Doris Lessing here: Independent Online Edition &gt; Reviews.
@@ -6526,6 +6594,7 @@ I call Jeremy Reed a pest because he has managed to write either Fiction or Non-
         </bib:authors>
         <link:link rdf:resource="#item_384"/>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:title>endvisions</dc:title>
         <dcterms:abstract>re: the apocalypse</dcterms:abstract>
         <z:type>tumblr</z:type>
@@ -6692,9 +6761,10 @@ I call Jeremy Reed a pest because he has managed to write either Fiction or Non-
         </bib:authors>
         <link:link rdf:resource="#item_454"/>
         <dc:subject>Asylum Piece</dc:subject>
+        <dc:subject>Ballard likes</dc:subject>
         <dc:subject>coffee break</dc:subject>
         <dc:subject>Ice</dc:subject>
-        <dc:subject>JG Ballard</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Plath</dc:subject>
         <dc:subject>like Priest</dc:subject>
         <dc:subject>Sleep Has His House</dc:subject>
@@ -6959,8 +7029,8 @@ I call Jeremy Reed a pest because he has managed to write either Fiction or Non-
         <dc:subject>bio Reed</dc:subject>
         <dc:subject>drug addict</dc:subject>
         <dc:subject>enough heroin</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>Lessing likes</dc:subject>
-        <dc:subject>like Ballard</dc:subject>
         <dc:subject>mental instability</dc:subject>
         <dc:subject>puzzling narrative</dc:subject>
         <dc:subject>self-portrait</dc:subject>
@@ -7721,6 +7791,7 @@ Derrière laquelle se cache un monde asilaire, une femme glaciaire, lointaine, u
         <dc:subject>drug addict</dc:subject>
         <dc:subject>human beings</dc:subject>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>Lessing likes</dc:subject>
         <dc:subject>puzzling narrative</dc:subject>
         <dc:subject>slipstream</dc:subject>
@@ -7764,7 +7835,6 @@ Derrière laquelle se cache un monde asilaire, une femme glaciaire, lointaine, u
         </bib:authors>
         <link:link rdf:resource="#item_422"/>
         <dc:subject>Ballard likes</dc:subject>
-        <dc:subject>like Ballard</dc:subject>
         <dc:subject>Sleep Has His House</dc:subject>
         <dc:subject>Walker Evans</dc:subject>
         <dc:title>Sleep Does Not Have His House: Anna Kavan</dc:title>
@@ -8031,6 +8101,7 @@ Well, I did sleep for a few hours and woke up after a particularly vivid dream. 
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_433"/>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Morison</dc:subject>
         <dc:subject>remix</dc:subject>
         <dc:title>Tell me a story…</dc:title>
@@ -8074,6 +8145,7 @@ Well, I did sleep for a few hours and woke up after a particularly vivid dream. 
         <dc:subject>Ballard likes</dc:subject>
         <dc:subject>Ice</dc:subject>
         <dc:subject>julia and the bazooka</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Ballard</dc:subject>
         <dc:title>Anna Kavan : Neige</dc:title>
         <dcterms:abstract>Ces derniers temps, j'ai eu  la chance de ne lire que des bons livres mais, je dois bien avouer, rien d'aussi singulier et sublime que ce roman cauchemardesque aux réminiscences &quot;ballardiennes&quot; (le Ballard première période). J'ai découvert cette Anna Kavan, en perpétuelle dépression et morte le nez dans la neige (trop facile, pardonnez-moi !), chez Discipline in Disorder, where else ?</dcterms:abstract>
@@ -8122,6 +8194,7 @@ Well, I did sleep for a few hours and woke up after a particularly vivid dream. 
         <dc:subject>drug addict</dc:subject>
         <dc:subject>Far East</dc:subject>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Ballard</dc:subject>
         <dc:subject>like Kafka</dc:subject>
         <dc:subject>like Rhys</dc:subject>
@@ -8512,6 +8585,7 @@ Well, I did sleep for a few hours and woke up after a particularly vivid dream. 
         </bib:authors>
         <link:link rdf:resource="#item_459"/>
         <dc:subject>Far East</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>Mr DogHead</dc:subject>
         <dc:subject>Who Are You?</dc:subject>
         <dc:title>Who Are You?</dc:title>
@@ -8883,10 +8957,10 @@ Well, I did sleep for a few hours and woke up after a particularly vivid dream. 
         </bib:authors>
         <link:link rdf:resource="#item_228"/>
         <dc:subject>Ice</dc:subject>
+        <dc:subject>kavan land</dc:subject>
         <dc:subject>like Ishiguro</dc:subject>
         <dc:subject>like Vonnegut</dc:subject>
         <dc:subject>SF writer</dc:subject>
-        <dc:subject>stream of consciousness</dc:subject>
         <dc:title>Ice</dc:title>
         <dcterms:abstract>I first heard of Anna Kavan’s Ice (1967, but republished in 2006 by Peter Owen) when John Self reviewed it on his blog almost exactly a year ago, and it went right onto my list of books to check out in the future.</dcterms:abstract>
         <z:type>blogspot</z:type>
@@ -9015,6 +9089,7 @@ Well, I did sleep for a few hours and woke up after a particularly vivid dream. 
     </z:Collection>
     <z:Collection rdf:about="#collection_23">
         <dc:title>pages anglophones</dc:title>
+        <dcterms:hasPart rdf:resource="http://www.bookride.com/2011/02/burroughs-writers-on-heroin.html"/>
         <dcterms:hasPart rdf:resource="http://pechorinsjournal.wordpress.com/2012/03/06/ice-by-anna-kavan/"/>
         <dcterms:hasPart rdf:resource="http://theasylum.wordpress.com/2011/03/31/anna-kavan-ice/"/>
         <dcterms:hasPart rdf:resource="http://theasylum.wordpress.com/2012/05/10/christopher-priest-the-glamour/"/>
@@ -9166,6 +9241,7 @@ Well, I did sleep for a few hours and woke up after a particularly vivid dream. 
     </z:Collection>
     <z:Collection rdf:about="#collection_19">
         <dc:title>thesis &amp; papers</dc:title>
+        <dcterms:hasPart rdf:resource="#item_2"/>
         <dcterms:hasPart rdf:resource="http://centreformedicalhumanities.org/attentive-writers-healthcare-authorship-and-authority-conference-review-by-jac-saorsa/"/>
         <dcterms:hasPart rdf:resource="#item_14"/>
         <dcterms:hasPart rdf:resource="http://www.tandfonline.com/doi/abs/10.1080/09574042.2012.739847"/>
