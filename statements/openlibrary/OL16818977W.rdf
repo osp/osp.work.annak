@@ -31,10 +31,7 @@
 
             <dcterms:coverage>1920</dcterms:coverage>
 
-            <dcterms:description>FROM &quot;THE CASE OF ANNA KAVAN&quot;
-BY DAVID CALLARD:
-
-The Dark Sisters is set in the London of the twenties, in a world in which the convulsions of the First World War, female emancipation and general social upheaval have made possible the life towards which Beryl Dean aspires. The sisters, Emerald and Karen, live an independent metropolitan life: Emerald as a successful but manipulative fashion model. Her younger sister Karen seems to be unmotivated and content to live in a fantasy world of her own making, so Emerald tries to engineer a match with a rich young man. As in A Charmed Circle, the novel seems to end with a return to the status quo. Emerald, afflicted by guilt, takes Karen back to London, where she can return to her imaginary life.</dcterms:description>
+            <dcterms:description>The Dark Sisters is set in the London of the twenties, in a world in which the convulsions of the First World War, female emancipation and general social upheaval have made possible the life towards which Beryl Dean aspires. The sisters, Emerald and Karen, live an independent metropolitan life: Emerald as a successful but manipulative fashion model. Her younger sister Karen seems to be unmotivated and content to live in a fantasy world of her own making, so Emerald tries to engineer a match with a rich young man. As in A Charmed Circle, the novel seems to end with a return to the status quo. Emerald, afflicted by guilt, takes Karen back to London, where she can return to her imaginary life. (From &quot;The Case of Anna Kavan&quot;, biograpy by David Callard, 1992).</dcterms:description>
     
 
 
@@ -56,9 +53,9 @@ The Dark Sisters is set in the London of the twenties, in a world in which the c
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL16818977W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 08:35:04.319040</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:28:54.847641</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 08:27:02.656979</dcterms:created>
-        <ov:versionnumber>2</ov:versionnumber>
+        <ov:versionnumber>4</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

@@ -1,0 +1,2034 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL11334026W/> stats:bigram "Lazy Dog",
+        "Mulberry juice",
+        "Narciso Valesco",
+        "New York",
+        "Revolution Avenue",
+        "Tiny Thing",
+        "Yellow Submarine",
+        "Young Trackers",
+        "brown face",
+        "caught sight",
+        "get rid",
+        "kept repeating",
+        "long ago",
+        "mocking bird",
+        "six months",
+        "somebody else",
+        "strange woman",
+        "stranger sprang",
+        "three months",
+        "young man" ;
+    stats:hasCharacterCount 293831 ;
+    stats:hasDiversityIndice 7.122444e+00 ;
+    stats:hasUniqueWordCount 8559 ;
+    stats:hasWordCount 60961 .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL11334026W/> stats:bigram "Lazy Dog",
+        "Mulberry juice",
+        "Narciso Valesco",
+        "New York",
+        "Revolution Avenue",
+        "Tiny Thing",
+        "Yellow Submarine",
+        "Young Trackers",
+        "brown face",
+        "caught sight",
+        "get rid",
+        "kept repeating",
+        "long ago",
+        "mocking bird",
+        "six months",
+        "somebody else",
+        "strange woman",
+        "stranger sprang",
+        "three months",
+        "young man" ;
+    stats:hasCharacterCount 293831 ;
+    stats:hasDiversityIndice 7.122444e+00 ;
+    stats:hasUniqueWordCount 8559 ;
+    stats:hasWordCount 60961 .
+
+<http://openlibrary.org/works/OL16819062W/> stats:bigram "Accent Adjutant",
+        "Arab horse",
+        "Farmer Hugh",
+        "Good heavens",
+        "Kluge Hans",
+        "anyone else",
+        "art master",
+        "art school",
+        "clay pictures",
+        "clenched fist",
+        "death instinct",
+        "early morning",
+        "electric shock",
+        "human beings",
+        "long time",
+        "nudist colony",
+        "single fly",
+        "slaughter house",
+        "university accent",
+        "young man" ;
+    stats:hasCharacterCount 158893 ;
+    stats:hasDiversityIndice 6.033783e+00 ;
+    stats:hasUniqueWordCount 5417 ;
+    stats:hasWordCount 32685 .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL11334026W/> stats:bigram "Lazy Dog",
+        "Mulberry juice",
+        "Narciso Valesco",
+        "New York",
+        "Revolution Avenue",
+        "Tiny Thing",
+        "Yellow Submarine",
+        "Young Trackers",
+        "brown face",
+        "caught sight",
+        "get rid",
+        "kept repeating",
+        "long ago",
+        "mocking bird",
+        "six months",
+        "somebody else",
+        "strange woman",
+        "stranger sprang",
+        "three months",
+        "young man" ;
+    stats:hasCharacterCount 293831 ;
+    stats:hasDiversityIndice 7.122444e+00 ;
+    stats:hasUniqueWordCount 8559 ;
+    stats:hasWordCount 60961 .
+
+<http://openlibrary.org/works/OL11334034W/> stats:bigram "High House",
+        "big powers",
+        "come back",
+        "coming nearer",
+        "could feel",
+        "could hardly",
+        "could see",
+        "dining hall",
+        "dressing gown",
+        "far away",
+        "grey coat",
+        "human beings",
+        "loden coat",
+        "long ago",
+        "nothing else",
+        "red carnation",
+        "said nothing",
+        "swung round",
+        "vaguely familiar",
+        "would never" ;
+    stats:hasCharacterCount 276775 ;
+    stats:hasDiversityIndice 8.73384e+00 ;
+    stats:hasUniqueWordCount 6714 ;
+    stats:hasWordCount 58639 .
+
+<http://openlibrary.org/works/OL16819062W/> stats:bigram "Accent Adjutant",
+        "Arab horse",
+        "Farmer Hugh",
+        "Good heavens",
+        "Kluge Hans",
+        "anyone else",
+        "art master",
+        "art school",
+        "clay pictures",
+        "clenched fist",
+        "death instinct",
+        "early morning",
+        "electric shock",
+        "human beings",
+        "long time",
+        "nudist colony",
+        "single fly",
+        "slaughter house",
+        "university accent",
+        "young man" ;
+    stats:hasCharacterCount 158893 ;
+    stats:hasDiversityIndice 6.033783e+00 ;
+    stats:hasUniqueWordCount 5417 ;
+    stats:hasWordCount 32685 .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL11334021W/> stats:bigram "Chief Cybernetics",
+        "Cybernetics Consultant",
+        "High City",
+        "Permanent Chief",
+        "big man",
+        "cargo boat",
+        "caught sight",
+        "could hardly",
+        "could see",
+        "distinctive dress",
+        "hardly believe",
+        "human beings",
+        "knowing whether",
+        "muttered conference",
+        "next moment",
+        "port authorities",
+        "refused admittance",
+        "third officer",
+        "third ofﬁcer",
+        "unseen person" ;
+    stats:hasCharacterCount 100244 ;
+    stats:hasDiversityIndice 5.370226e+00 ;
+    stats:hasUniqueWordCount 3849 ;
+    stats:hasWordCount 20670 .
+
+<http://openlibrary.org/works/OL11334026W/> stats:bigram "Lazy Dog",
+        "Mulberry juice",
+        "Narciso Valesco",
+        "New York",
+        "Revolution Avenue",
+        "Tiny Thing",
+        "Yellow Submarine",
+        "Young Trackers",
+        "brown face",
+        "caught sight",
+        "get rid",
+        "kept repeating",
+        "long ago",
+        "mocking bird",
+        "six months",
+        "somebody else",
+        "strange woman",
+        "stranger sprang",
+        "three months",
+        "young man" ;
+    stats:hasCharacterCount 293831 ;
+    stats:hasDiversityIndice 7.122444e+00 ;
+    stats:hasUniqueWordCount 8559 ;
+    stats:hasWordCount 60961 .
+
+<http://openlibrary.org/works/OL11334034W/> stats:bigram "High House",
+        "big powers",
+        "come back",
+        "coming nearer",
+        "could feel",
+        "could hardly",
+        "could see",
+        "dining hall",
+        "dressing gown",
+        "far away",
+        "grey coat",
+        "human beings",
+        "loden coat",
+        "long ago",
+        "nothing else",
+        "red carnation",
+        "said nothing",
+        "swung round",
+        "vaguely familiar",
+        "would never" ;
+    stats:hasCharacterCount 276775 ;
+    stats:hasDiversityIndice 8.73384e+00 ;
+    stats:hasUniqueWordCount 6714 ;
+    stats:hasWordCount 58639 .
+
+<http://openlibrary.org/works/OL16819062W/> stats:bigram "Accent Adjutant",
+        "Arab horse",
+        "Farmer Hugh",
+        "Good heavens",
+        "Kluge Hans",
+        "anyone else",
+        "art master",
+        "art school",
+        "clay pictures",
+        "clenched fist",
+        "death instinct",
+        "early morning",
+        "electric shock",
+        "human beings",
+        "long time",
+        "nudist colony",
+        "single fly",
+        "slaughter house",
+        "university accent",
+        "young man" ;
+    stats:hasCharacterCount 158893 ;
+    stats:hasDiversityIndice 6.033783e+00 ;
+    stats:hasUniqueWordCount 5417 ;
+    stats:hasWordCount 32685 .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL11334021W/> stats:bigram "Chief Cybernetics",
+        "Cybernetics Consultant",
+        "High City",
+        "Permanent Chief",
+        "big man",
+        "cargo boat",
+        "caught sight",
+        "could hardly",
+        "could see",
+        "distinctive dress",
+        "hardly believe",
+        "human beings",
+        "knowing whether",
+        "muttered conference",
+        "next moment",
+        "port authorities",
+        "refused admittance",
+        "third officer",
+        "third ofﬁcer",
+        "unseen person" ;
+    stats:hasCharacterCount 100244 ;
+    stats:hasDiversityIndice 5.370226e+00 ;
+    stats:hasUniqueWordCount 3849 ;
+    stats:hasWordCount 20670 .
+
+<http://openlibrary.org/works/OL11334025W/> stats:bigram "Anna felt",
+        "Blue Hills",
+        "Heyward Bland",
+        "James Forrester",
+        "Miss Wilson",
+        "Port Said",
+        "Rachel Fielding",
+        "River House",
+        "blue eyes",
+        "could see",
+        "far away",
+        "get away",
+        "good deal",
+        "grey eyes",
+        "hazel eyes",
+        "long time",
+        "one another",
+        "said Anna",
+        "would never",
+        "young man" ;
+    stats:hasCharacterCount 513532 ;
+    stats:hasDiversityIndice 1.047728e+01 ;
+    stats:hasUniqueWordCount 10103 ;
+    stats:hasWordCount 105852 .
+
+<http://openlibrary.org/works/OL11334026W/> stats:bigram "Lazy Dog",
+        "Mulberry juice",
+        "Narciso Valesco",
+        "New York",
+        "Revolution Avenue",
+        "Tiny Thing",
+        "Yellow Submarine",
+        "Young Trackers",
+        "brown face",
+        "caught sight",
+        "get rid",
+        "kept repeating",
+        "long ago",
+        "mocking bird",
+        "six months",
+        "somebody else",
+        "strange woman",
+        "stranger sprang",
+        "three months",
+        "young man" ;
+    stats:hasCharacterCount 293831 ;
+    stats:hasDiversityIndice 7.122444e+00 ;
+    stats:hasUniqueWordCount 8559 ;
+    stats:hasWordCount 60961 .
+
+<http://openlibrary.org/works/OL11334034W/> stats:bigram "High House",
+        "big powers",
+        "come back",
+        "coming nearer",
+        "could feel",
+        "could hardly",
+        "could see",
+        "dining hall",
+        "dressing gown",
+        "far away",
+        "grey coat",
+        "human beings",
+        "loden coat",
+        "long ago",
+        "nothing else",
+        "red carnation",
+        "said nothing",
+        "swung round",
+        "vaguely familiar",
+        "would never" ;
+    stats:hasCharacterCount 276775 ;
+    stats:hasDiversityIndice 8.73384e+00 ;
+    stats:hasUniqueWordCount 6714 ;
+    stats:hasWordCount 58639 .
+
+<http://openlibrary.org/works/OL16819062W/> stats:bigram "Accent Adjutant",
+        "Arab horse",
+        "Farmer Hugh",
+        "Good heavens",
+        "Kluge Hans",
+        "anyone else",
+        "art master",
+        "art school",
+        "clay pictures",
+        "clenched fist",
+        "death instinct",
+        "early morning",
+        "electric shock",
+        "human beings",
+        "long time",
+        "nudist colony",
+        "single fly",
+        "slaughter house",
+        "university accent",
+        "young man" ;
+    stats:hasCharacterCount 158893 ;
+    stats:hasDiversityIndice 6.033783e+00 ;
+    stats:hasUniqueWordCount 5417 ;
+    stats:hasWordCount 32685 .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL11334021W/> stats:bigram "Chief Cybernetics",
+        "Cybernetics Consultant",
+        "High City",
+        "Permanent Chief",
+        "big man",
+        "cargo boat",
+        "caught sight",
+        "could hardly",
+        "could see",
+        "distinctive dress",
+        "hardly believe",
+        "human beings",
+        "knowing whether",
+        "muttered conference",
+        "next moment",
+        "port authorities",
+        "refused admittance",
+        "third officer",
+        "third ofﬁcer",
+        "unseen person" ;
+    stats:hasCharacterCount 100244 ;
+    stats:hasDiversityIndice 5.370226e+00 ;
+    stats:hasUniqueWordCount 3849 ;
+    stats:hasWordCount 20670 .
+
+<http://openlibrary.org/works/OL11334022W/> stats:bigram "Alton House",
+        "Miss Aguilar",
+        "Misses Newsom",
+        "Molly Aguilar",
+        "Old Vicarage",
+        "bad temper",
+        "certain amount",
+        "church clock",
+        "get away",
+        "glanced round",
+        "good deal",
+        "lime tree",
+        "long time",
+        "old ladies",
+        "said Beryl",
+        "two girls",
+        "wondered whether",
+        "would never",
+        "young man",
+        "ﬁve minutes" ;
+    stats:hasCharacterCount 570692 ;
+    stats:hasDiversityIndice 1.226133e+01 ;
+    stats:hasUniqueWordCount 9314 ;
+    stats:hasWordCount 114202 .
+
+<http://openlibrary.org/works/OL11334025W/> stats:bigram "Anna felt",
+        "Blue Hills",
+        "Heyward Bland",
+        "James Forrester",
+        "Miss Wilson",
+        "Port Said",
+        "Rachel Fielding",
+        "River House",
+        "blue eyes",
+        "could see",
+        "far away",
+        "get away",
+        "good deal",
+        "grey eyes",
+        "hazel eyes",
+        "long time",
+        "one another",
+        "said Anna",
+        "would never",
+        "young man" ;
+    stats:hasCharacterCount 513532 ;
+    stats:hasDiversityIndice 1.047728e+01 ;
+    stats:hasUniqueWordCount 10103 ;
+    stats:hasWordCount 105852 .
+
+<http://openlibrary.org/works/OL11334026W/> stats:bigram "Lazy Dog",
+        "Mulberry juice",
+        "Narciso Valesco",
+        "New York",
+        "Revolution Avenue",
+        "Tiny Thing",
+        "Yellow Submarine",
+        "Young Trackers",
+        "brown face",
+        "caught sight",
+        "get rid",
+        "kept repeating",
+        "long ago",
+        "mocking bird",
+        "six months",
+        "somebody else",
+        "strange woman",
+        "stranger sprang",
+        "three months",
+        "young man" ;
+    stats:hasCharacterCount 293831 ;
+    stats:hasDiversityIndice 7.122444e+00 ;
+    stats:hasUniqueWordCount 8559 ;
+    stats:hasWordCount 60961 .
+
+<http://openlibrary.org/works/OL11334034W/> stats:bigram "High House",
+        "big powers",
+        "come back",
+        "coming nearer",
+        "could feel",
+        "could hardly",
+        "could see",
+        "dining hall",
+        "dressing gown",
+        "far away",
+        "grey coat",
+        "human beings",
+        "loden coat",
+        "long ago",
+        "nothing else",
+        "red carnation",
+        "said nothing",
+        "swung round",
+        "vaguely familiar",
+        "would never" ;
+    stats:hasCharacterCount 276775 ;
+    stats:hasDiversityIndice 8.73384e+00 ;
+    stats:hasUniqueWordCount 6714 ;
+    stats:hasWordCount 58639 .
+
+<http://openlibrary.org/works/OL16819062W/> stats:bigram "Accent Adjutant",
+        "Arab horse",
+        "Farmer Hugh",
+        "Good heavens",
+        "Kluge Hans",
+        "anyone else",
+        "art master",
+        "art school",
+        "clay pictures",
+        "clenched fist",
+        "death instinct",
+        "early morning",
+        "electric shock",
+        "human beings",
+        "long time",
+        "nudist colony",
+        "single fly",
+        "slaughter house",
+        "university accent",
+        "young man" ;
+    stats:hasCharacterCount 158893 ;
+    stats:hasDiversityIndice 6.033783e+00 ;
+    stats:hasUniqueWordCount 5417 ;
+    stats:hasWordCount 32685 .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL11334021W/> stats:bigram "Chief Cybernetics",
+        "Cybernetics Consultant",
+        "High City",
+        "Permanent Chief",
+        "big man",
+        "cargo boat",
+        "caught sight",
+        "could hardly",
+        "could see",
+        "distinctive dress",
+        "hardly believe",
+        "human beings",
+        "knowing whether",
+        "muttered conference",
+        "next moment",
+        "port authorities",
+        "refused admittance",
+        "third officer",
+        "third ofﬁcer",
+        "unseen person" ;
+    stats:hasCharacterCount 100244 ;
+    stats:hasDiversityIndice 5.370226e+00 ;
+    stats:hasUniqueWordCount 3849 ;
+    stats:hasWordCount 20670 .
+
+<http://openlibrary.org/works/OL11334022W/> stats:bigram "Alton House",
+        "Miss Aguilar",
+        "Misses Newsom",
+        "Molly Aguilar",
+        "Old Vicarage",
+        "bad temper",
+        "certain amount",
+        "church clock",
+        "get away",
+        "glanced round",
+        "good deal",
+        "lime tree",
+        "long time",
+        "old ladies",
+        "said Beryl",
+        "two girls",
+        "wondered whether",
+        "would never",
+        "young man",
+        "ﬁve minutes" ;
+    stats:hasCharacterCount 570692 ;
+    stats:hasDiversityIndice 1.226133e+01 ;
+    stats:hasUniqueWordCount 9314 ;
+    stats:hasWordCount 114202 .
+
+<http://openlibrary.org/works/OL11334025W/> stats:bigram "Anna felt",
+        "Blue Hills",
+        "Heyward Bland",
+        "James Forrester",
+        "Miss Wilson",
+        "Port Said",
+        "Rachel Fielding",
+        "River House",
+        "blue eyes",
+        "could see",
+        "far away",
+        "get away",
+        "good deal",
+        "grey eyes",
+        "hazel eyes",
+        "long time",
+        "one another",
+        "said Anna",
+        "would never",
+        "young man" ;
+    stats:hasCharacterCount 513532 ;
+    stats:hasDiversityIndice 1.047728e+01 ;
+    stats:hasUniqueWordCount 10103 ;
+    stats:hasWordCount 105852 .
+
+<http://openlibrary.org/works/OL11334026W/> stats:bigram "Lazy Dog",
+        "Mulberry juice",
+        "Narciso Valesco",
+        "New York",
+        "Revolution Avenue",
+        "Tiny Thing",
+        "Yellow Submarine",
+        "Young Trackers",
+        "brown face",
+        "caught sight",
+        "get rid",
+        "kept repeating",
+        "long ago",
+        "mocking bird",
+        "six months",
+        "somebody else",
+        "strange woman",
+        "stranger sprang",
+        "three months",
+        "young man" ;
+    stats:hasCharacterCount 293831 ;
+    stats:hasDiversityIndice 7.122444e+00 ;
+    stats:hasUniqueWordCount 8559 ;
+    stats:hasWordCount 60961 .
+
+<http://openlibrary.org/works/OL11334034W/> stats:bigram "High House",
+        "big powers",
+        "come back",
+        "coming nearer",
+        "could feel",
+        "could hardly",
+        "could see",
+        "dining hall",
+        "dressing gown",
+        "far away",
+        "grey coat",
+        "human beings",
+        "loden coat",
+        "long ago",
+        "nothing else",
+        "red carnation",
+        "said nothing",
+        "swung round",
+        "vaguely familiar",
+        "would never" ;
+    stats:hasCharacterCount 276775 ;
+    stats:hasDiversityIndice 8.73384e+00 ;
+    stats:hasUniqueWordCount 6714 ;
+    stats:hasWordCount 58639 .
+
+<http://openlibrary.org/works/OL16819062W/> stats:bigram "Accent Adjutant",
+        "Arab horse",
+        "Farmer Hugh",
+        "Good heavens",
+        "Kluge Hans",
+        "anyone else",
+        "art master",
+        "art school",
+        "clay pictures",
+        "clenched fist",
+        "death instinct",
+        "early morning",
+        "electric shock",
+        "human beings",
+        "long time",
+        "nudist colony",
+        "single fly",
+        "slaughter house",
+        "university accent",
+        "young man" ;
+    stats:hasCharacterCount 158893 ;
+    stats:hasDiversityIndice 6.033783e+00 ;
+    stats:hasUniqueWordCount 5417 ;
+    stats:hasWordCount 32685 .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+<http://openlibrary.org/works/OL1740047W/> stats:bigram "Liaison Officer",
+        "aurora borealis",
+        "bottom drawer",
+        "bubbling mess",
+        "clanging bells",
+        "colossally underfoot",
+        "dancing master",
+        "dead spot",
+        "escaping steam",
+        "far away",
+        "front door",
+        "hurrying along",
+        "little girl",
+        "old man",
+        "one another",
+        "porcupine quills",
+        "straw hat",
+        "thunderous revving",
+        "verse burgeons",
+        "ﬂattens colossally" ;
+    stats:hasCharacterCount 251232 ;
+    stats:hasDiversityIndice 4.979457e+00 ;
+    stats:hasUniqueWordCount 10125 ;
+    stats:hasWordCount 50417 .
+
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL11334021W/> stats:bigram "Chief Cybernetics",
+        "Cybernetics Consultant",
+        "High City",
+        "Permanent Chief",
+        "big man",
+        "cargo boat",
+        "caught sight",
+        "could hardly",
+        "could see",
+        "distinctive dress",
+        "hardly believe",
+        "human beings",
+        "knowing whether",
+        "muttered conference",
+        "next moment",
+        "port authorities",
+        "refused admittance",
+        "third officer",
+        "third ofﬁcer",
+        "unseen person" ;
+    stats:hasCharacterCount 100244 ;
+    stats:hasDiversityIndice 5.370226e+00 ;
+    stats:hasUniqueWordCount 3849 ;
+    stats:hasWordCount 20670 .
+
+<http://openlibrary.org/works/OL11334022W/> stats:bigram "Alton House",
+        "Miss Aguilar",
+        "Misses Newsom",
+        "Molly Aguilar",
+        "Old Vicarage",
+        "bad temper",
+        "certain amount",
+        "church clock",
+        "get away",
+        "glanced round",
+        "good deal",
+        "lime tree",
+        "long time",
+        "old ladies",
+        "said Beryl",
+        "two girls",
+        "wondered whether",
+        "would never",
+        "young man",
+        "ﬁve minutes" ;
+    stats:hasCharacterCount 570692 ;
+    stats:hasDiversityIndice 1.226133e+01 ;
+    stats:hasUniqueWordCount 9314 ;
+    stats:hasWordCount 114202 .
+
+<http://openlibrary.org/works/OL11334025W/> stats:bigram "Anna felt",
+        "Blue Hills",
+        "Heyward Bland",
+        "James Forrester",
+        "Miss Wilson",
+        "Port Said",
+        "Rachel Fielding",
+        "River House",
+        "blue eyes",
+        "could see",
+        "far away",
+        "get away",
+        "good deal",
+        "grey eyes",
+        "hazel eyes",
+        "long time",
+        "one another",
+        "said Anna",
+        "would never",
+        "young man" ;
+    stats:hasCharacterCount 513532 ;
+    stats:hasDiversityIndice 1.047728e+01 ;
+    stats:hasUniqueWordCount 10103 ;
+    stats:hasWordCount 105852 .
+
+<http://openlibrary.org/works/OL11334026W/> stats:bigram "Lazy Dog",
+        "Mulberry juice",
+        "Narciso Valesco",
+        "New York",
+        "Revolution Avenue",
+        "Tiny Thing",
+        "Yellow Submarine",
+        "Young Trackers",
+        "brown face",
+        "caught sight",
+        "get rid",
+        "kept repeating",
+        "long ago",
+        "mocking bird",
+        "six months",
+        "somebody else",
+        "strange woman",
+        "stranger sprang",
+        "three months",
+        "young man" ;
+    stats:hasCharacterCount 293831 ;
+    stats:hasDiversityIndice 7.122444e+00 ;
+    stats:hasUniqueWordCount 8559 ;
+    stats:hasWordCount 60961 .
+
+<http://openlibrary.org/works/OL11334034W/> stats:bigram "High House",
+        "big powers",
+        "come back",
+        "coming nearer",
+        "could feel",
+        "could hardly",
+        "could see",
+        "dining hall",
+        "dressing gown",
+        "far away",
+        "grey coat",
+        "human beings",
+        "loden coat",
+        "long ago",
+        "nothing else",
+        "red carnation",
+        "said nothing",
+        "swung round",
+        "vaguely familiar",
+        "would never" ;
+    stats:hasCharacterCount 276775 ;
+    stats:hasDiversityIndice 8.73384e+00 ;
+    stats:hasUniqueWordCount 6714 ;
+    stats:hasWordCount 58639 .
+
+<http://openlibrary.org/works/OL16819062W/> stats:bigram "Accent Adjutant",
+        "Arab horse",
+        "Farmer Hugh",
+        "Good heavens",
+        "Kluge Hans",
+        "anyone else",
+        "art master",
+        "art school",
+        "clay pictures",
+        "clenched fist",
+        "death instinct",
+        "early morning",
+        "electric shock",
+        "human beings",
+        "long time",
+        "nudist colony",
+        "single fly",
+        "slaughter house",
+        "university accent",
+        "young man" ;
+    stats:hasCharacterCount 158893 ;
+    stats:hasDiversityIndice 6.033783e+00 ;
+    stats:hasUniqueWordCount 5417 ;
+    stats:hasWordCount 32685 .
+
+<http://openlibrary.org/works/OL1740040W/> stats:bigram "English doctor",
+        "Thomas Bow",
+        "Ward Six",
+        "anything else",
+        "barbed wire",
+        "blue carpet",
+        "boy said",
+        "cherry tree",
+        "chief clerk",
+        "could see",
+        "fair hair",
+        "good deal",
+        "gym mistress",
+        "long time",
+        "old man",
+        "one another",
+        "quite different",
+        "tube station",
+        "two doctors",
+        "young man" ;
+    stats:hasCharacterCount 289483 ;
+    stats:hasDiversityIndice 7.768202e+00 ;
+    stats:hasUniqueWordCount 7554 ;
+    stats:hasWordCount 58681 .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+<http://openlibrary.org/works/OL1740047W/> stats:bigram "Liaison Officer",
+        "aurora borealis",
+        "bottom drawer",
+        "bubbling mess",
+        "clanging bells",
+        "colossally underfoot",
+        "dancing master",
+        "dead spot",
+        "escaping steam",
+        "far away",
+        "front door",
+        "hurrying along",
+        "little girl",
+        "old man",
+        "one another",
+        "porcupine quills",
+        "straw hat",
+        "thunderous revving",
+        "verse burgeons",
+        "ﬂattens colossally" ;
+    stats:hasCharacterCount 251232 ;
+    stats:hasDiversityIndice 4.979457e+00 ;
+    stats:hasUniqueWordCount 10125 ;
+    stats:hasWordCount 50417 .
+
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL11334021W/> stats:bigram "Chief Cybernetics",
+        "Cybernetics Consultant",
+        "High City",
+        "Permanent Chief",
+        "big man",
+        "cargo boat",
+        "caught sight",
+        "could hardly",
+        "could see",
+        "distinctive dress",
+        "hardly believe",
+        "human beings",
+        "knowing whether",
+        "muttered conference",
+        "next moment",
+        "port authorities",
+        "refused admittance",
+        "third officer",
+        "third ofﬁcer",
+        "unseen person" ;
+    stats:hasCharacterCount 100244 ;
+    stats:hasDiversityIndice 5.370226e+00 ;
+    stats:hasUniqueWordCount 3849 ;
+    stats:hasWordCount 20670 .
+
+<http://openlibrary.org/works/OL11334022W/> stats:bigram "Alton House",
+        "Miss Aguilar",
+        "Misses Newsom",
+        "Molly Aguilar",
+        "Old Vicarage",
+        "bad temper",
+        "certain amount",
+        "church clock",
+        "get away",
+        "glanced round",
+        "good deal",
+        "lime tree",
+        "long time",
+        "old ladies",
+        "said Beryl",
+        "two girls",
+        "wondered whether",
+        "would never",
+        "young man",
+        "ﬁve minutes" ;
+    stats:hasCharacterCount 570692 ;
+    stats:hasDiversityIndice 1.226133e+01 ;
+    stats:hasUniqueWordCount 9314 ;
+    stats:hasWordCount 114202 .
+
+<http://openlibrary.org/works/OL11334025W/> stats:bigram "Anna felt",
+        "Blue Hills",
+        "Heyward Bland",
+        "James Forrester",
+        "Miss Wilson",
+        "Port Said",
+        "Rachel Fielding",
+        "River House",
+        "blue eyes",
+        "could see",
+        "far away",
+        "get away",
+        "good deal",
+        "grey eyes",
+        "hazel eyes",
+        "long time",
+        "one another",
+        "said Anna",
+        "would never",
+        "young man" ;
+    stats:hasCharacterCount 513532 ;
+    stats:hasDiversityIndice 1.047728e+01 ;
+    stats:hasUniqueWordCount 10103 ;
+    stats:hasWordCount 105852 .
+
+<http://openlibrary.org/works/OL11334026W/> stats:bigram "Lazy Dog",
+        "Mulberry juice",
+        "Narciso Valesco",
+        "New York",
+        "Revolution Avenue",
+        "Tiny Thing",
+        "Yellow Submarine",
+        "Young Trackers",
+        "brown face",
+        "caught sight",
+        "get rid",
+        "kept repeating",
+        "long ago",
+        "mocking bird",
+        "six months",
+        "somebody else",
+        "strange woman",
+        "stranger sprang",
+        "three months",
+        "young man" ;
+    stats:hasCharacterCount 293831 ;
+    stats:hasDiversityIndice 7.122444e+00 ;
+    stats:hasUniqueWordCount 8559 ;
+    stats:hasWordCount 60961 .
+
+<http://openlibrary.org/works/OL11334034W/> stats:bigram "High House",
+        "big powers",
+        "come back",
+        "coming nearer",
+        "could feel",
+        "could hardly",
+        "could see",
+        "dining hall",
+        "dressing gown",
+        "far away",
+        "grey coat",
+        "human beings",
+        "loden coat",
+        "long ago",
+        "nothing else",
+        "red carnation",
+        "said nothing",
+        "swung round",
+        "vaguely familiar",
+        "would never" ;
+    stats:hasCharacterCount 276775 ;
+    stats:hasDiversityIndice 8.73384e+00 ;
+    stats:hasUniqueWordCount 6714 ;
+    stats:hasWordCount 58639 .
+
+<http://openlibrary.org/works/OL16819062W/> stats:bigram "Accent Adjutant",
+        "Arab horse",
+        "Farmer Hugh",
+        "Good heavens",
+        "Kluge Hans",
+        "anyone else",
+        "art master",
+        "art school",
+        "clay pictures",
+        "clenched fist",
+        "death instinct",
+        "early morning",
+        "electric shock",
+        "human beings",
+        "long time",
+        "nudist colony",
+        "single fly",
+        "slaughter house",
+        "university accent",
+        "young man" ;
+    stats:hasCharacterCount 158893 ;
+    stats:hasDiversityIndice 6.033783e+00 ;
+    stats:hasUniqueWordCount 5417 ;
+    stats:hasWordCount 32685 .
+
+<http://openlibrary.org/works/OL1740037W/> stats:bigram "Anna Kavan",
+        "Anthony Quested",
+        "Carolina Club",
+        "Ethelbert Place",
+        "George West",
+        "Gerald Gill",
+        "Hubert Byrne",
+        "Lauretta Bland",
+        "Martin Lewison",
+        "Matthew Kavan",
+        "Miss Graham",
+        "Sir Edward",
+        "Starling Hill",
+        "Tony Quested",
+        "William Lewison",
+        "Worcester Road",
+        "long time",
+        "old man",
+        "partnership agreement",
+        "young man" ;
+    stats:hasCharacterCount 472037 ;
+    stats:hasDiversityIndice 9.304288e+00 ;
+    stats:hasUniqueWordCount 10168 ;
+    stats:hasWordCount 94606 .
+
+<http://openlibrary.org/works/OL1740040W/> stats:bigram "English doctor",
+        "Thomas Bow",
+        "Ward Six",
+        "anything else",
+        "barbed wire",
+        "blue carpet",
+        "boy said",
+        "cherry tree",
+        "chief clerk",
+        "could see",
+        "fair hair",
+        "good deal",
+        "gym mistress",
+        "long time",
+        "old man",
+        "one another",
+        "quite different",
+        "tube station",
+        "two doctors",
+        "young man" ;
+    stats:hasCharacterCount 289483 ;
+    stats:hasDiversityIndice 7.768202e+00 ;
+    stats:hasUniqueWordCount 7554 ;
+    stats:hasWordCount 58681 .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+<http://openlibrary.org/works/OL1740047W/> stats:bigram "Liaison Officer",
+        "aurora borealis",
+        "bottom drawer",
+        "bubbling mess",
+        "clanging bells",
+        "colossally underfoot",
+        "dancing master",
+        "dead spot",
+        "escaping steam",
+        "far away",
+        "front door",
+        "hurrying along",
+        "little girl",
+        "old man",
+        "one another",
+        "porcupine quills",
+        "straw hat",
+        "thunderous revving",
+        "verse burgeons",
+        "ﬂattens colossally" ;
+    stats:hasCharacterCount 251232 ;
+    stats:hasDiversityIndice 4.979457e+00 ;
+    stats:hasUniqueWordCount 10125 ;
+    stats:hasWordCount 50417 .
+
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL11334021W/> stats:bigram "Chief Cybernetics",
+        "Cybernetics Consultant",
+        "High City",
+        "Permanent Chief",
+        "big man",
+        "cargo boat",
+        "caught sight",
+        "could hardly",
+        "could see",
+        "distinctive dress",
+        "hardly believe",
+        "human beings",
+        "knowing whether",
+        "muttered conference",
+        "next moment",
+        "port authorities",
+        "refused admittance",
+        "third officer",
+        "third ofﬁcer",
+        "unseen person" ;
+    stats:hasCharacterCount 100244 ;
+    stats:hasDiversityIndice 5.370226e+00 ;
+    stats:hasUniqueWordCount 3849 ;
+    stats:hasWordCount 20670 .
+
+<http://openlibrary.org/works/OL11334022W/> stats:bigram "Alton House",
+        "Miss Aguilar",
+        "Misses Newsom",
+        "Molly Aguilar",
+        "Old Vicarage",
+        "bad temper",
+        "certain amount",
+        "church clock",
+        "get away",
+        "glanced round",
+        "good deal",
+        "lime tree",
+        "long time",
+        "old ladies",
+        "said Beryl",
+        "two girls",
+        "wondered whether",
+        "would never",
+        "young man",
+        "ﬁve minutes" ;
+    stats:hasCharacterCount 570692 ;
+    stats:hasDiversityIndice 1.226133e+01 ;
+    stats:hasUniqueWordCount 9314 ;
+    stats:hasWordCount 114202 .
+
+<http://openlibrary.org/works/OL11334025W/> stats:bigram "Anna felt",
+        "Blue Hills",
+        "Heyward Bland",
+        "James Forrester",
+        "Miss Wilson",
+        "Port Said",
+        "Rachel Fielding",
+        "River House",
+        "blue eyes",
+        "could see",
+        "far away",
+        "get away",
+        "good deal",
+        "grey eyes",
+        "hazel eyes",
+        "long time",
+        "one another",
+        "said Anna",
+        "would never",
+        "young man" ;
+    stats:hasCharacterCount 513532 ;
+    stats:hasDiversityIndice 1.047728e+01 ;
+    stats:hasUniqueWordCount 10103 ;
+    stats:hasWordCount 105852 .
+
+<http://openlibrary.org/works/OL11334026W/> stats:bigram "Lazy Dog",
+        "Mulberry juice",
+        "Narciso Valesco",
+        "New York",
+        "Revolution Avenue",
+        "Tiny Thing",
+        "Yellow Submarine",
+        "Young Trackers",
+        "brown face",
+        "caught sight",
+        "get rid",
+        "kept repeating",
+        "long ago",
+        "mocking bird",
+        "six months",
+        "somebody else",
+        "strange woman",
+        "stranger sprang",
+        "three months",
+        "young man" ;
+    stats:hasCharacterCount 293831 ;
+    stats:hasDiversityIndice 7.122444e+00 ;
+    stats:hasUniqueWordCount 8559 ;
+    stats:hasWordCount 60961 .
+
+<http://openlibrary.org/works/OL11334034W/> stats:bigram "High House",
+        "big powers",
+        "come back",
+        "coming nearer",
+        "could feel",
+        "could hardly",
+        "could see",
+        "dining hall",
+        "dressing gown",
+        "far away",
+        "grey coat",
+        "human beings",
+        "loden coat",
+        "long ago",
+        "nothing else",
+        "red carnation",
+        "said nothing",
+        "swung round",
+        "vaguely familiar",
+        "would never" ;
+    stats:hasCharacterCount 276775 ;
+    stats:hasDiversityIndice 8.73384e+00 ;
+    stats:hasUniqueWordCount 6714 ;
+    stats:hasWordCount 58639 .
+
+<http://openlibrary.org/works/OL16819062W/> stats:bigram "Accent Adjutant",
+        "Arab horse",
+        "Farmer Hugh",
+        "Good heavens",
+        "Kluge Hans",
+        "anyone else",
+        "art master",
+        "art school",
+        "clay pictures",
+        "clenched fist",
+        "death instinct",
+        "early morning",
+        "electric shock",
+        "human beings",
+        "long time",
+        "nudist colony",
+        "single fly",
+        "slaughter house",
+        "university accent",
+        "young man" ;
+    stats:hasCharacterCount 158893 ;
+    stats:hasDiversityIndice 6.033783e+00 ;
+    stats:hasUniqueWordCount 5417 ;
+    stats:hasWordCount 32685 .
+
+<http://openlibrary.org/works/OL1740037W/> stats:bigram "Anna Kavan",
+        "Anthony Quested",
+        "Carolina Club",
+        "Ethelbert Place",
+        "George West",
+        "Gerald Gill",
+        "Hubert Byrne",
+        "Lauretta Bland",
+        "Martin Lewison",
+        "Matthew Kavan",
+        "Miss Graham",
+        "Sir Edward",
+        "Starling Hill",
+        "Tony Quested",
+        "William Lewison",
+        "Worcester Road",
+        "long time",
+        "old man",
+        "partnership agreement",
+        "young man" ;
+    stats:hasCharacterCount 472037 ;
+    stats:hasDiversityIndice 9.304288e+00 ;
+    stats:hasUniqueWordCount 10168 ;
+    stats:hasWordCount 94606 .
+
+<http://openlibrary.org/works/OL1740040W/> stats:bigram "English doctor",
+        "Thomas Bow",
+        "Ward Six",
+        "anything else",
+        "barbed wire",
+        "blue carpet",
+        "boy said",
+        "cherry tree",
+        "chief clerk",
+        "could see",
+        "fair hair",
+        "good deal",
+        "gym mistress",
+        "long time",
+        "old man",
+        "one another",
+        "quite different",
+        "tube station",
+        "two doctors",
+        "young man" ;
+    stats:hasCharacterCount 289483 ;
+    stats:hasDiversityIndice 7.768202e+00 ;
+    stats:hasUniqueWordCount 7554 ;
+    stats:hasWordCount 58681 .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+<http://openlibrary.org/works/OL1740046W/> stats:bigram "Dirwaza Khan",
+        "Dog Head",
+        "Mohammed Dirwaza",
+        "Suede Boots",
+        "anything else",
+        "banana trees",
+        "blue eyes",
+        "fever bird",
+        "fever birds",
+        "forest trees",
+        "grey beard",
+        "mad dog",
+        "mosquito net",
+        "palm tree",
+        "rat game",
+        "says nothing",
+        "white turban",
+        "wide open",
+        "young man",
+        "ﬂat roof" ;
+    stats:hasCharacterCount 167692 ;
+    stats:hasDiversityIndice 6.428787e+00 ;
+    stats:hasUniqueWordCount 5308 ;
+    stats:hasWordCount 34124 .
+
+<http://openlibrary.org/works/OL1740047W/> stats:bigram "Liaison Officer",
+        "aurora borealis",
+        "bottom drawer",
+        "bubbling mess",
+        "clanging bells",
+        "colossally underfoot",
+        "dancing master",
+        "dead spot",
+        "escaping steam",
+        "far away",
+        "front door",
+        "hurrying along",
+        "little girl",
+        "old man",
+        "one another",
+        "porcupine quills",
+        "straw hat",
+        "thunderous revving",
+        "verse burgeons",
+        "ﬂattens colossally" ;
+    stats:hasCharacterCount 251232 ;
+    stats:hasDiversityIndice 4.979457e+00 ;
+    stats:hasUniqueWordCount 10125 ;
+    stats:hasWordCount 50417 .
+
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix stats: <http://kavan.land/vocab/stats#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://openlibrary.org/works/OL11334021W/> stats:bigram "Chief Cybernetics",
+        "Cybernetics Consultant",
+        "High City",
+        "Permanent Chief",
+        "big man",
+        "cargo boat",
+        "caught sight",
+        "could hardly",
+        "could see",
+        "distinctive dress",
+        "hardly believe",
+        "human beings",
+        "knowing whether",
+        "muttered conference",
+        "next moment",
+        "port authorities",
+        "refused admittance",
+        "third officer",
+        "third ofﬁcer",
+        "unseen person" ;
+    stats:hasCharacterCount 100244 ;
+    stats:hasDiversityIndice 5.370226e+00 ;
+    stats:hasUniqueWordCount 3849 ;
+    stats:hasWordCount 20670 .
+
+<http://openlibrary.org/works/OL11334022W/> stats:bigram "Alton House",
+        "Miss Aguilar",
+        "Misses Newsom",
+        "Molly Aguilar",
+        "Old Vicarage",
+        "bad temper",
+        "certain amount",
+        "church clock",
+        "get away",
+        "glanced round",
+        "good deal",
+        "lime tree",
+        "long time",
+        "old ladies",
+        "said Beryl",
+        "two girls",
+        "wondered whether",
+        "would never",
+        "young man",
+        "ﬁve minutes" ;
+    stats:hasCharacterCount 570692 ;
+    stats:hasDiversityIndice 1.226133e+01 ;
+    stats:hasUniqueWordCount 9314 ;
+    stats:hasWordCount 114202 .
+
+<http://openlibrary.org/works/OL11334025W/> stats:bigram "Anna felt",
+        "Blue Hills",
+        "Heyward Bland",
+        "James Forrester",
+        "Miss Wilson",
+        "Port Said",
+        "Rachel Fielding",
+        "River House",
+        "blue eyes",
+        "could see",
+        "far away",
+        "get away",
+        "good deal",
+        "grey eyes",
+        "hazel eyes",
+        "long time",
+        "one another",
+        "said Anna",
+        "would never",
+        "young man" ;
+    stats:hasCharacterCount 513532 ;
+    stats:hasDiversityIndice 1.047728e+01 ;
+    stats:hasUniqueWordCount 10103 ;
+    stats:hasWordCount 105852 .
+
+<http://openlibrary.org/works/OL11334026W/> stats:bigram "Lazy Dog",
+        "Mulberry juice",
+        "Narciso Valesco",
+        "New York",
+        "Revolution Avenue",
+        "Tiny Thing",
+        "Yellow Submarine",
+        "Young Trackers",
+        "brown face",
+        "caught sight",
+        "get rid",
+        "kept repeating",
+        "long ago",
+        "mocking bird",
+        "six months",
+        "somebody else",
+        "strange woman",
+        "stranger sprang",
+        "three months",
+        "young man" ;
+    stats:hasCharacterCount 293831 ;
+    stats:hasDiversityIndice 7.122444e+00 ;
+    stats:hasUniqueWordCount 8559 ;
+    stats:hasWordCount 60961 .
+
+<http://openlibrary.org/works/OL11334034W/> stats:bigram "High House",
+        "big powers",
+        "come back",
+        "coming nearer",
+        "could feel",
+        "could hardly",
+        "could see",
+        "dining hall",
+        "dressing gown",
+        "far away",
+        "grey coat",
+        "human beings",
+        "loden coat",
+        "long ago",
+        "nothing else",
+        "red carnation",
+        "said nothing",
+        "swung round",
+        "vaguely familiar",
+        "would never" ;
+    stats:hasCharacterCount 276775 ;
+    stats:hasDiversityIndice 8.73384e+00 ;
+    stats:hasUniqueWordCount 6714 ;
+    stats:hasWordCount 58639 .
+
+<http://openlibrary.org/works/OL16819062W/> stats:bigram "Accent Adjutant",
+        "Arab horse",
+        "Farmer Hugh",
+        "Good heavens",
+        "Kluge Hans",
+        "anyone else",
+        "art master",
+        "art school",
+        "clay pictures",
+        "clenched fist",
+        "death instinct",
+        "early morning",
+        "electric shock",
+        "human beings",
+        "long time",
+        "nudist colony",
+        "single fly",
+        "slaughter house",
+        "university accent",
+        "young man" ;
+    stats:hasCharacterCount 158893 ;
+    stats:hasDiversityIndice 6.033783e+00 ;
+    stats:hasUniqueWordCount 5417 ;
+    stats:hasWordCount 32685 .
+
+<http://openlibrary.org/works/OL1740034W/> stats:bigram "anything else",
+        "anywhere near",
+        "beech woods",
+        "cold wind",
+        "ever since",
+        "first time",
+        "grey hooded",
+        "hooded coat",
+        "human beings",
+        "immediately afterwards",
+        "long ago",
+        "mountain slopes",
+        "much longer",
+        "open space",
+        "palm leaves",
+        "pear tree",
+        "quite near",
+        "taken aback",
+        "tropical island",
+        "wide open" ;
+    stats:hasCharacterCount 281469 ;
+    stats:hasDiversityIndice 7.381083e+00 ;
+    stats:hasUniqueWordCount 7665 ;
+    stats:hasWordCount 56576 .
+
+<http://openlibrary.org/works/OL1740037W/> stats:bigram "Anna Kavan",
+        "Anthony Quested",
+        "Carolina Club",
+        "Ethelbert Place",
+        "George West",
+        "Gerald Gill",
+        "Hubert Byrne",
+        "Lauretta Bland",
+        "Martin Lewison",
+        "Matthew Kavan",
+        "Miss Graham",
+        "Sir Edward",
+        "Starling Hill",
+        "Tony Quested",
+        "William Lewison",
+        "Worcester Road",
+        "long time",
+        "old man",
+        "partnership agreement",
+        "young man" ;
+    stats:hasCharacterCount 472037 ;
+    stats:hasDiversityIndice 9.304288e+00 ;
+    stats:hasUniqueWordCount 10168 ;
+    stats:hasWordCount 94606 .
+
+<http://openlibrary.org/works/OL1740040W/> stats:bigram "English doctor",
+        "Thomas Bow",
+        "Ward Six",
+        "anything else",
+        "barbed wire",
+        "blue carpet",
+        "boy said",
+        "cherry tree",
+        "chief clerk",
+        "could see",
+        "fair hair",
+        "good deal",
+        "gym mistress",
+        "long time",
+        "old man",
+        "one another",
+        "quite different",
+        "tube station",
+        "two doctors",
+        "young man" ;
+    stats:hasCharacterCount 289483 ;
+    stats:hasDiversityIndice 7.768202e+00 ;
+    stats:hasUniqueWordCount 7554 ;
+    stats:hasWordCount 58681 .
+
+<http://openlibrary.org/works/OL1740044W/> stats:bigram "Hope Deferred",
+        "Middle Ages",
+        "Thank goodness",
+        "blue eyes",
+        "could hardly",
+        "far away",
+        "fur coat",
+        "get rid",
+        "good humour",
+        "good looks",
+        "naive optimism",
+        "old lady",
+        "picnic lunch",
+        "rapid develop",
+        "sitting beside",
+        "treacherous patches",
+        "unobtrusive helpfulness",
+        "young girl",
+        "young man",
+        "ﬂuttering fans" ;
+    stats:hasCharacterCount 194168 ;
+    stats:hasDiversityIndice 6.563961e+00 ;
+    stats:hasUniqueWordCount 5988 ;
+    stats:hasWordCount 39305 .
+
+<http://openlibrary.org/works/OL1740046W/> stats:bigram "Dirwaza Khan",
+        "Dog Head",
+        "Mohammed Dirwaza",
+        "Suede Boots",
+        "anything else",
+        "banana trees",
+        "blue eyes",
+        "fever bird",
+        "fever birds",
+        "forest trees",
+        "grey beard",
+        "mad dog",
+        "mosquito net",
+        "palm tree",
+        "rat game",
+        "says nothing",
+        "white turban",
+        "wide open",
+        "young man",
+        "ﬂat roof" ;
+    stats:hasCharacterCount 167692 ;
+    stats:hasDiversityIndice 6.428787e+00 ;
+    stats:hasUniqueWordCount 5308 ;
+    stats:hasWordCount 34124 .
+
+<http://openlibrary.org/works/OL1740047W/> stats:bigram "Liaison Officer",
+        "aurora borealis",
+        "bottom drawer",
+        "bubbling mess",
+        "clanging bells",
+        "colossally underfoot",
+        "dancing master",
+        "dead spot",
+        "escaping steam",
+        "far away",
+        "front door",
+        "hurrying along",
+        "little girl",
+        "old man",
+        "one another",
+        "porcupine quills",
+        "straw hat",
+        "thunderous revving",
+        "verse burgeons",
+        "ﬂattens colossally" ;
+    stats:hasCharacterCount 251232 ;
+    stats:hasDiversityIndice 4.979457e+00 ;
+    stats:hasUniqueWordCount 10125 ;
+    stats:hasWordCount 50417 .
+
+

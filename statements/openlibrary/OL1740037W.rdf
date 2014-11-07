@@ -49,7 +49,7 @@ A Stranger Still was first published in 1935 under Anna Kavan&#39;s early marrie
 
 The wealthy Lewison family occupy centre stage. William, a widower, presides forcefully over his empire of Greater London stores, as well as over his sons, Cedric and Martin, and his impressionable daughter, Gwenda. A fictional &#39;Anna Kavan&#39; appears as a young girl adrift from her husband and now in pursuit of romantic fulfillment. The story takes us from fashionable and Bohemian London to Paris, the South of France and Italy. The autobiographical element is implicit for those familiar with the author&#39;s enigmatic life.
 
-Anna Kavan captures the ambience of the thirties with conviction, yet her pre-hallucinogenic writing has the uninhibitedness and immediacy of a novel of today.</dcterms:description>
+Anna Kavan captures the ambience of the thirties with conviction, yet her pre-hallucinogenic writing has the uninhibitedness and immediacy of a novel of today. (From the book jacket, british reprint published in 1995).</dcterms:description>
     
 
 
@@ -96,9 +96,9 @@ Anna Kavan captures the ambience of the thirties with conviction, yet her pre-ha
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL1740037W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-08-21 11:43:12.752251</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:30:03.324520</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
-        <ov:versionnumber>13</ov:versionnumber>
+        <ov:versionnumber>14</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

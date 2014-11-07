@@ -33,7 +33,7 @@
 
             <dcterms:coverage>1940-1950</dcterms:coverage>
 
-            <dcterms:description>First published in 1945, the stories collected under the title I Am Lazarus are a brilliant summation of the war experiences of Anna Kavan in Blitz-era London, working among invalided soldiers at a ‘military neurosis centre’ in Mill Hill. Kavan’s view of the capital and some of its war victims in this momentous era are typically original and oblique: ‘Lazarus’ is a patient revived from catatonia who somehow remains institutionalized; the Blitz spirit is coolly stripped of cheeriness and never-say-die in ‘Glorious Boys and ‘Our City’; there is a Hithcockian horror story in ‘The Gannets’, while in ‘Who Has Desired The Sea’ and ‘The Blackout’ the ‘shell-shocked’ have ultimately only seen war exacerbate old, long-suppressed psychological wounds. Chilling but compassionate classics, the I Am Lazarus collection, republished now after many years, are essential documents of the time – and of Anna Kavan.</dcterms:description>
+            <dcterms:description>First published in 1945, the stories collected under the title I Am Lazarus are a brilliant summation of the war experiences of Anna Kavan in Blitz-era London, working among invalided soldiers at a ‘military neurosis centre’ in Mill Hill. Kavan’s view of the capital and some of its war victims in this momentous era are typically original and oblique: ‘Lazarus’ is a patient revived from catatonia who somehow remains institutionalized; the Blitz spirit is coolly stripped of cheeriness and never-say-die in ‘Glorious Boys and ‘Our City’; there is a Hithcockian horror story in ‘The Gannets’, while in ‘Who Has Desired The Sea’ and ‘The Blackout’ the ‘shell-shocked’ have ultimately only seen war exacerbate old, long-suppressed psychological wounds. Chilling but compassionate classics, the I Am Lazarus collection, republished now after many years, are essential documents of the time – and of Anna Kavan. (From the book jacket, first british edition published in 1945).</dcterms:description>
     
 
 
@@ -80,9 +80,9 @@
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL1740040W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 20:43:08.859905</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:34:47.732176</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
-        <ov:versionnumber>5</ov:versionnumber>
+        <ov:versionnumber>7</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

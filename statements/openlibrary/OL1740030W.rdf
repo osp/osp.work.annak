@@ -29,11 +29,9 @@
         
             <dcterms:coverage>wartime</dcterms:coverage>
 
-            <dcterms:description>FROM THE BOOK JACKET:
+            <dcterms:description>Set in an unspecified but eerily familiar landscape, Guilty is told from the point of view of a young man named Mark. The novel begins in his childhood and as his father returns from war. In spite of being garlanded as a hero, Mark&#39;s father declares himself a pacifist and is immediately reviled in a country still suffering from wartime divisions. When he is forced into exile Mark meets Mr Spector, a mysterious figure who becomes a dominant force in his life, overseeing his schooling, his employment and even his accommodation. When he tries to break way from Mr Spector to pursue and engagement with the beautiful Carla, Mark&#39;s life beins to unravel. Thwarted at every turn by a Kafkaesque bureaucracy, he falls prey to the machinations and insecurities of his guilt-ridden mind.
 
-Set in an unspecified but eerily familiar landscape, Guilty is told from the point of view of a young man named Mark. The novel begins in his childhood and as his father returns from war. In spite of being garlanded as a hero, Mark&#39;s father declares himself a pacifist and is immediately reviled in a country still suffering from wartime divisions. When he is forced into exile Mark meets Mr Spector, a mysterious figure who becomes a dominant force in his life, overseeing his schooling, his employment and even his accommodation. When he tries to break way from Mr Spector to pursue and engagement with the beautiful Carla, Mark&#39;s life beins to unravel. Thwarted at every turn by a Kafkaesque bureaucracy, he falls prey to the machinations and insecurities of his guilt-ridden mind.
-
-Drawing on many of Kavan&#39;s familiar themes, &quot;Guilty&quot; will be welcomed by those who already know and appreciate her work and a revelation to those who don&#39;t.</dcterms:description>
+Drawing on many of Kavan&#39;s familiar themes, &quot;Guilty&quot; will be welcomed by those who already know and appreciate her work and a revelation to those who don&#39;t. (From the book jacket, first british edition published in 2007).</dcterms:description>
     
 
 
@@ -57,9 +55,9 @@ Drawing on many of Kavan&#39;s familiar themes, &quot;Guilty&quot; will be welco
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL1740030W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-07-18 14:17:02.433450</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:52:05.453391</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
-        <ov:versionnumber>4</ov:versionnumber>
+        <ov:versionnumber>5</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

@@ -29,9 +29,7 @@
 
             <dcterms:coverage>1930-1940</dcterms:coverage>
 
-            <dcterms:description>FROM THE BOOK JACKET:
-
-THE BACKGROUND of Helen Ferguson&#39;s new novel is a small English village in which Thomas Spender and his wife Judith form the centre of a community of very varying characters. Adam Green, a young poet and writer, comes back from the East and is caught up in the web if Judith&#39;s dreamy and yet possessive personality. There are many other threads in the story which act and react upon the principal theme and are inextricably interwoven with it. Miss Ferguson handles her many characers with great skill and particularly uses the art of anti-climax with such a success that the event to which everything in the story leads up never actually takes place.</dcterms:description>
+            <dcterms:description>The background of Helen Ferguson&#39;s new novel is a small English village in which Thomas Spender and his wife Judith form the centre of a community of very varying characters. Adam Green, a young poet and writer, comes back from the East and is caught up in the web if Judith&#39;s dreamy and yet possessive personality. There are many other threads in the story which act and react upon the principal theme and are inextricably interwoven with it. Miss Ferguson handles her many characers with great skill and particularly uses the art of anti-climax with such a success that the event to which everything in the story leads up never actually takes place. (From the book jacket, first british edition published in 1936).</dcterms:description>
     
 
 
@@ -67,9 +65,9 @@ THE BACKGROUND of Helen Ferguson&#39;s new novel is a small English village in w
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL1740029W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 18:28:21.949486</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:31:15.033615</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
-        <ov:versionnumber>5</ov:versionnumber>
+        <ov:versionnumber>6</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

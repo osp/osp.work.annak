@@ -1,0 +1,58 @@
+digraph {
+    graph[overlap=false]
+    node[style="filled", fillcolor=white, fontname="Karla", penwidth=2]
+    edge[penwidth=2]
+
+// Labels WWII life experience
+ {
+	4345[label="London 1943–45"];
+	travel[label="World Travels 1939–43"];
+	horizon[label="Horizon\nassistant editor"];
+	MHEH[label="Mill Hill Emergency Hospital\nassistant researcher"];
+	1939[label="1939\nlegally changes her name \nAnna Kavan", shape="rect", margin=0.25];
+ }
+ 
+ // Labels bibliographie
+ node[fillcolor="#E7FFED"]
+ {
+    asylum[label="Asylum Piece\n1940"]
+ 	change_the_name[label="Change The Name\n1941"]
+ 	lazarus[label="I Am Lazarus\n1945"]
+
+ node[fillcolor="white", color="seagreen"]
+ 	lazarus_horizon[label="I Am Lazarus\n1943"]
+ 	NZ[label="New Zealand answer to an inquiry\n1943"]
+ 	face[label="Face of My People\n1944"]
+ 	bill_william[label="The Case of Bill William\n1944"]
+ 	remember_NZ[label="5 Months Further\nWhat I remember about New Zealand\n1942–43"]
+}
+ node[fillcolor="white"]
+ 
+ // Autofiction
+ {
+   1939 -> asylum
+   1939 -> travel [fontcolor="gold" dir=forward color="gold"]
+   travel -> remember_NZ [fontcolor="gold" dir=forward color="gold"]
+   travel -> NZ [fontcolor="gold" dir=forward color="gold"]
+   1939 -> 4345 [fontcolor="#1E90FF" dir=forward color="#1E90FF"]
+   4345 -> MHEH [fontcolor="#1E90FF" dir=forward color="#1E90FF"]
+   MHEH -> bill_william [fontcolor="#1E90FF" dir=forward color="#1E90FF"]
+   MHEH -> lazarus [fontcolor="#1E90FF" dir=forward color="#1E90FF"]
+   4345 -> horizon [fontcolor="#1E90FF" dir=forward color="#1E90FF"]
+   horizon -> NZ [fontcolor="#1E90FF" dir=forward color="#1E90FF"]
+   horizon -> bill_william [fontcolor="#1E90FF" dir=forward color="#1E90FF"]
+   horizon -> lazarus_horizon [fontcolor="#1E90FF" dir=forward color="#1E90FF"]
+   horizon -> face [fontcolor="#1E90FF" dir=forward color="#1E90FF"]
+   
+   asylum -> change_the_name 
+   change_the_name -> remember_NZ
+   remember_NZ -> NZ
+   NZ -> lazarus_horizon
+   lazarus_horizon -> bill_william
+   bill_william -> face
+   face -> lazarus 
+ }
+ 
+}
+ 
+ 

@@ -34,13 +34,11 @@
 
             <dcterms:coverage>1940</dcterms:coverage>
 
-            <dcterms:description>FROM THE BOOK JACKET:
-
-Since Anna Kavan died in 1968 there has been a strong revival of interest in her writings. Asylum Piece, a study of various aspects of insanity, first appeared in 1940 and still enjoys a reputation as one of its author&#39;s most original and perceptive books. It as, however, long been out of print.
+            <dcterms:description>Since Anna Kavan died in 1968 there has been a strong revival of interest in her writings. Asylum Piece, a study of various aspects of insanity, first appeared in 1940 and still enjoys a reputation as one of its author&#39;s most original and perceptive books. It as, however, long been out of print.
 
 Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
 
-&#39;If Asylum Piece is not based on actual experience it is certainly an astonishing achievement. ... What is remarkable is that the subject of these stories not only kept the lamp alight in the fog of, at any rate, impending insanity, but was able to project dramatically the experience of fellow sufferers. That is just what the really insane can never do. ... There is a beauty about these stories which has nothing to do with their pathological interest, and is the result of art. Two or three, if signed by a famous name, might rank among the story-teller&#39;s memorable achievements. There is beauty in the stillness of the author&#39;s ultimate despair.&#39;</dcterms:description>
+&#39;If Asylum Piece is not based on actual experience it is certainly an astonishing achievement. ... What is remarkable is that the subject of these stories not only kept the lamp alight in the fog of, at any rate, impending insanity, but was able to project dramatically the experience of fellow sufferers. That is just what the really insane can never do. ... There is a beauty about these stories which has nothing to do with their pathological interest, and is the result of art. Two or three, if signed by a famous name, might rank among the story-teller&#39;s memorable achievements. There is beauty in the stillness of the author&#39;s ultimate despair.&#39; (From the book jacket, british reprint published in 1972).</dcterms:description>
     
 
 
@@ -88,7 +86,7 @@ Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
               "http://openlibrary.org/works/OL1740048W/"
              </rdrel:workManifested>
             <dcterms:title>Asylum Piece and Other Stories</dcterms:title>
-            <dcterms:date>February 1984</dcterms:date>
+            <dcterms:date>1984, February</dcterms:date>
         </rdf:Description>    
         
         
@@ -118,7 +116,7 @@ Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
               "http://openlibrary.org/works/OL1740048W/"
              </rdrel:workManifested>
             <dcterms:title>Asylum Piece and Other Stories</dcterms:title>
-            <dcterms:date>February 1984</dcterms:date>
+            <dcterms:date>1984, February</dcterms:date>
         </rdf:Description>    
         
         
@@ -134,9 +132,9 @@ Reviewing the original edition in the Sunday Times Sir Despond MacCarthy wrote:
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL1740048W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-11 20:34:11.771617</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:33:12.074849</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
-        <ov:versionnumber>6</ov:versionnumber>
+        <ov:versionnumber>9</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

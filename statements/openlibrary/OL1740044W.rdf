@@ -32,15 +32,13 @@
     <dcterms:coverage>moorland</dcterms:coverage>
 
         
-            <dcterms:description>FROM THE BOOK JACKET:
-
-Recently discovered, this hitherto unpublished novel presages, through its undertones and imagery, some of Anna Kavan&#39;s later and most enduring fiction.
+            <dcterms:description>Recently discovered, this hitherto unpublished novel presages, through its undertones and imagery, some of Anna Kavan&#39;s later and most enduring fiction.
 
 The Parson of the title is not a cleric but an upright young army officer, so nicknamed in his regiment stationed in the East. One leave in his native homeland he meets a rich and beguiling beauty whom he equates with the girl of his dreams.
 
 The days that Oswald spends with Rejane, riding in and exploring the wild moorland, have their own enchantment. But Rejane grows restless in this desolate land, while seeming to discourage any intimacy with her adoring companion. Until, that is, she persuades him to take her to a sinister castle situated on a treacherous headland.
 
-The Parson is less a tale of unrequited love than an exploration of divided selves, momentarily locked in an unequal embrace. Passion is revealed as play of the senses as well as a destructive force. It is this pervasive quality in the writing that sets the narrative apart from purely romantic conventions.</dcterms:description>
+The Parson is less a tale of unrequited love than an exploration of divided selves, momentarily locked in an unequal embrace. Passion is revealed as play of the senses as well as a destructive force. It is this pervasive quality in the writing that sets the narrative apart from purely romantic conventions. (From the book jacket, first british edition published in 1995).</dcterms:description>
     
 
 
@@ -80,9 +78,9 @@ The Parson is less a tale of unrequited love than an exploration of divided selv
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL1740044W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-07-18 14:10:31.311602</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:51:02.541888</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
-        <ov:versionnumber>8</ov:versionnumber>
+        <ov:versionnumber>10</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>

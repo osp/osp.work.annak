@@ -1,0 +1,62 @@
+digraph {
+    graph[overlap=false]
+    node[style="filled", fillcolor=white, fontname="Karla", penwidth=2]
+    edge[penwidth=2]
+
+// HF/AK
+ {
+   HF[label="Bibliography as Helen Ferguson", shape="rect", margin=0.25];
+ }
+ 
+// Bibliography as author Helen Ferguson
+ {
+ node[fillcolor="#E7FFED"]
+  Charmed[label="1929\nA Charmed Circle"];
+  DarkS[label="1930\nDark Sisters"];
+  LMA[label="1930\nLet Me Alone"];
+  SS[label="1935\nStranger Still"];
+  Goose[label="1936\nGoose Cross"];
+  Rich[label="1937\nRich Get rich"];
+ }
+ 
+node[fillcolor=white]
+// Writes
+ {
+ 	HF -> Charmed
+ 	HF -> DarkS
+ 	HF -> LMA
+ 	HF -> SS
+ 	HF -> Goose
+ 	HF -> Rich
+ }
+
+// villes & pays
+ { 
+   London_1915[label="1915–18\nKavan sent to boarding school\nBack to London"];
+   Far_east[label="1919\nMarries Donald Ferguson\nCouple moves to Burma"];
+   London_1925[label="1925\nLeaving her husband in Burma\nKavan returns to London"];
+   SoF_25[label="1925\nMeets Stuart Edmonds\nSouth of France"];
+   countryside[label="1931\nDivorces Ferguson\nMarries Stuart Edmonds\nMoves to countryside (England)"];
+   SoF_32[label="1932–34\nTravels to\nSouth of France"];
+   It[label="1932–34\nTravels to\nItaly"];
+ }
+  
+// Autofiction
+ {
+ 	Charmed -> London_1925
+ 	DarkS -> London_1925
+ 	LMA -> London_1915
+ 	LMA -> Far_east
+ 	LMA -> London_1925
+ 	SS -> London_1925
+ 	SS -> countryside
+ 	SS -> Far_east
+ 	SS -> SoF_25
+ 	SS -> SoF_32
+ 	SS -> It 
+ 	Goose -> countryside
+ 	Goose -> Far_east
+ }
+}
+
+

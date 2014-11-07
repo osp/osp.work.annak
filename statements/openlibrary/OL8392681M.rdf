@@ -31,7 +31,7 @@
             <dcterms:publisher>Michael Kesend Pub Ltd</dcterms:publisher>
 
         
-            <dcterms:issued>February 1984</dcterms:issued>
+            <dcterms:issued>1984, February</dcterms:issued>
     
 
         
@@ -56,7 +56,7 @@
             <bibo:isbn13>9780935576016</bibo:isbn13>
 
         <!-- administrative -->
-            <dcterms:modified>2010-08-10 02:27:29.942870</dcterms:modified>
+            <dcterms:modified>2014-11-04 17:50:14.691190</dcterms:modified>
     
 
     </rdf:Description>

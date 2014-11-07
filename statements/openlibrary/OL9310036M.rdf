@@ -31,7 +31,7 @@
             <dcterms:publisher>Peter Owen Ltd</dcterms:publisher>
 
         
-            <dcterms:issued>October 1982</dcterms:issued>
+            <dcterms:issued>1982, October</dcterms:issued>
     
 
             <dcterms:extent>117</dcterms:extent>
@@ -57,7 +57,7 @@
             <bibo:isbn13>9780720600742</bibo:isbn13>
 
         <!-- administrative -->
-            <dcterms:modified>2010-04-24 17:32:45.876228</dcterms:modified>
+            <dcterms:modified>2014-11-04 17:49:10.805539</dcterms:modified>
     
 
     </rdf:Description>

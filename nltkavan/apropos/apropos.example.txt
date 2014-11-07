@@ -1,0 +1,6 @@
+enlever les stopwords
+indice de diversité lexicale
+
+ce livre est 3 fois plus épais que la moyenne
+
+ice a été lu par (liste de noms)

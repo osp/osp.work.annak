@@ -1,0 +1,98 @@
+digraph {
+    graph[overlap=false]
+    node[style="filled", fillcolor=white, fontname="Karla", penwidth=2]
+    edge[penwidth=2]
+
+// HF/AK
+ {
+   HF[label="Helen Ferguson\n1901–1939", shape="rect", margin=0.25];
+   AK[label="Anna Kavan\n1939–1968", shape="rect", margin=0.25];
+ }
+
+// villes & pays
+ { 
+   Fr[label="FRANCE", fillcolor="#E7FFED"];
+   Cannes[label="10 April 1901\nborn Helen Emilie Woods\nCannes"];
+   SoF_32[label="1932–34\nTravels to\nFrance, Italy, Spain,\nand the Pyrénées"];
+   SoF_25[label="1925\nMeets Stuart Edmonds\nSouth of France"];
+   US[label="USA", fillcolor="#E7FFED"];
+   California[label="California", fillcolor="#E7FFED"];
+   Rialto[label="1905\nWoods family moves to Rialto"];
+   Swiss[label="SWITZERLAND", fillcolor="#E7FFED"];
+   Bellevue[label="Sanatorium Bellevue", fillcolor="#E7FFED"]
+   Lausanne[label="1914\nClaude Woods commits suicide\nKavan sent to boarding school\nLausanne"];
+   SB_1936[label="1936\nTreatment of drug addiction"];
+   SB_1947[label="1947–48\nTreatment of drug addiction"];
+   UK[label="ENGLAND", fillcolor="#E7FFED"];
+   London[fillcolor="#E7FFED"]
+   London_1915[label="1915–18\nKavan sent to boarding school\nBack to London"];
+   London_1925[label="1925\nLeaving her husband in Burma\nKavan returns to London"];
+   London_1938[label="1938\nSecond marriage dissolves\nKavan attempts suicide\nadmitted to sanatorium"];
+   London_1943[label="1943\nWork at Mill Hill Hospital\nWork for Horizon review\nback to London"];
+   countryside[label="1931\nDivorces Ferguson\nMarries Stuart Edmonds\nMoves to countryside"];
+   Burma[label="BURMA", fillcolor="#E7FFED"];
+   Far_east[label="1919\nMarries Donald Ferguson\nCouple moves to Burma"];
+   Italy[label="ITALY", fillcolor="#E7FFED"]
+   It[label="1932–34\nTravels to\nFrance, Italy, Spain,\nand the Pyrénées"];
+   No[label="NORWAY", fillcolor="#E7FFED"];
+   Oslo [label="1939\nLegally changes name \nMoves to New York\nWaiting for a boat in Oslo"]
+   NY[label="1939,40,43\nKavan stopped by 3 times\nin New-York"];
+   Carmel[label="1940\nKavan stayed\n6 months in Carmel"];
+   Bali[label="BALI", fillcolor="#E7FFED"];
+   island[label="1940\nKavan spent\n6 months on the island"]
+   NZ[label="NEW-ZEALAND", fillcolor="#E7FFED"];
+   Auckland[label="1941–42\nKavan spent\n22 months in NZ"];
+   SA[label="SOUTH AFRICA", fillcolor="#E7FFED"];
+   SA_1947[label="1947–49\nKavan visits her mother"];
+   
+ }
+   
+// Helen Ferguson
+ {
+ 	HF -> Fr [dir=forward color="#1E90FF"]
+ 	Fr -> Cannes [dir=forward color="#1E90FF"]
+ 	Fr -> SoF_25 [dir=forward color="#1E90FF"]
+ 	Fr -> SoF_32 [dir=forward color="#1E90FF"]
+ 	HF -> US [dir=forward color="#1E90FF"]
+ 	US -> California [dir=forward color="#1E90FF"]
+ 	California -> Rialto [dir=forward color="#1E90FF"]
+ 	HF -> Swiss [dir=forward color="#1E90FF"]
+ 	Swiss -> Lausanne [dir=forward color="#1E90FF"]
+ 	Swiss -> Bellevue [dir=forward color="#1E90FF"]
+ 	Bellevue -> SB_1936 [dir=forward color="#1E90FF"]
+ 	HF -> UK [dir=forward color="#1E90FF"]
+ 	UK -> London [dir=forward color="#1E90FF"]
+ 	London -> London_1915 [dir=forward color="#1E90FF"]
+ 	London -> London_1925 [dir=forward color="#1E90FF"]
+ 	London -> London_1938 [dir=forward color="#1E90FF"]
+ 	UK -> countryside [dir=forward color="#1E90FF"]
+ 	HF -> Burma [dir=forward color="#1E90FF"]
+ 	Burma -> Far_east [dir=forward color="#1E90FF"]
+ 	HF -> Italy [dir=forward color="#1E90FF"]
+	Italy -> It [dir=forward color="#1E90FF"]
+  }
+  
+// Anna Kavan
+ {
+ 	AK -> No [dir=forward color="seagreen"]
+ 	No -> Oslo [dir=forward color="seagreen"]
+ 	AK -> US [dir=forward color="seagreen"]
+ 	US -> NY [dir=forward color="seagreen"]
+ 	NY -> California [dir=forward color="seagreen"]
+ 	California -> Carmel [dir=forward color="seagreen"]
+ 	AK -> Bali [dir=forward color="seagreen"]
+ 	Bali -> island [dir=forward color="seagreen"]
+ 	AK -> NZ [dir=forward color="seagreen"]
+ 	NZ -> Auckland [dir=forward color="seagreen"]
+ 	AK -> SA [dir=forward color="seagreen"]
+ 	SA -> SA_1947 [dir=forward color="seagreen"]
+ 	AK -> Swiss [dir=forward color="seagreen"]
+ 	Swiss -> Bellevue [dir=forward color="seagreen"]
+ 	Bellevue -> SB_1947 [dir=forward color="seagreen"]
+ 	AK -> UK [dir=forward color="seagreen"]
+ 	UK -> London [dir=forward color="seagreen"]
+ 	London -> London_1943 [dir=forward color="seagreen"]
+  }
+}
+
+

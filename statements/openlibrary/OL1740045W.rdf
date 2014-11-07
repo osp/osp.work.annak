@@ -30,11 +30,9 @@
             <dcterms:coverage>castle</dcterms:coverage>
 
         
-            <dcterms:description>FROM THE BOOK JACKET:
+            <dcterms:description>The author of this extraordinary novel was a heroin addict who died by her own hand in December of 1968 [Note: this is not proven - J.H.]. Out of her terrifying experience with mental illness she created a body of fiction of intense, near-surrealist artistry, but it is only posthumously that she is receiving the wider acclaim which her writing commands.
 
-The author of this extraordinary novel was a heroin addict who died by her own hand in December of 1968 [Note: this is not proven - J.H.]. Out of her terrifying experience with mental illness she created a body of fiction of intense, near-surrealist artistry, but it is only posthumously that she is receiving the wider acclaim which her writing commands.
-
-The present work, first published in 1956, contains some of her finest prose and is clearly autobiographical in nature. It tells the story of a young girl, rejected by her narcissistic and vengeful mother, whose life thereafter is yet another series of betrayal that can lead only to the dead-end of madness and death. Like Sylvia Plath, Anna Kavan was capable of nearly perfect control over language as she strove to describe, in the simplest and most ordinary of terms, the bizarre and hallucinatory landscape of her oncoming and inevitable derangement.</dcterms:description>
+The present work, first published in 1956, contains some of her finest prose and is clearly autobiographical in nature. It tells the story of a young girl, rejected by her narcissistic and vengeful mother, whose life thereafter is yet another series of betrayal that can lead only to the dead-end of madness and death. Like Sylvia Plath, Anna Kavan was capable of nearly perfect control over language as she strove to describe, in the simplest and most ordinary of terms, the bizarre and hallucinatory landscape of her oncoming and inevitable derangement. (From the book jacket, first american edition, published in 1972).</dcterms:description>
     
 
 
@@ -100,9 +98,9 @@ The present work, first published in 1956, contains some of her finest prose and
         
     <!-- administrative -->
     <rdf:Description rdf:about="http://openlibrary.org/works/OL1740045W/about/">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-07-18 07:18:07.785691</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-11-06 09:39:07.649583</dcterms:modified>
         <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-09 22:14:49.295276</dcterms:created>
-        <ov:versionnumber>9</ov:versionnumber>
+        <ov:versionnumber>10</ov:versionnumber>
     </rdf:Description>
 
 </rdf:RDF>
